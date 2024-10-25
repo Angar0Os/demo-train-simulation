@@ -1,0 +1,8 @@
+/_pyscripts/__pycache__/*.pyc
+/_pyscripts/textures.txt
+/flow/sessions/Etude principale
+/_pyscripts/unused.txt
+*.editor
+*.aaa
+*.tmp
+*.bin

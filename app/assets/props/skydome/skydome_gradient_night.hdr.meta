@@ -1,0 +1,9 @@
+{
+	"profiles": {
+		"default": {
+			"sRGB": false,
+			"wrap-U": "Clamp",
+			"wrap-V": "Clamp"
+		}
+	}
+}
