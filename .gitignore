@@ -6,3 +6,4 @@
 *.aaa
 *.tmp
 *.bin
+/app/assets_compiled
