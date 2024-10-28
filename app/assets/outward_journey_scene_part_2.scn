@@ -28,7 +28,7 @@
 			0
 		],
 		"brdf_map": "core/pbr/brdf.dds",
-		"current_camera": 12,
+		"current_camera": 11,
 		"fog_color": [
 			0,
 			0,
@@ -60,11 +60,6 @@
 		}
 	},
 	"instances": [
-		{
-			"anim": "far_forward",
-			"loop_mode": "none",
-			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
-		},
 		{
 			"name": "props/fence_white/fence_small_pole_white/fence_small_pole_white.scn"
 		},
@@ -169,8 +164,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 1,
-			"instance": 17,
+			"idx": 0,
+			"instance": 16,
 			"name": "interaction_point_1"
 		},
 		{
@@ -182,8 +177,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 2,
-			"instance": 16,
+			"idx": 1,
+			"instance": 15,
 			"name": "train_ter_hdf_south"
 		},
 		{
@@ -195,7 +190,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 3,
+			"idx": 2,
 			"name": "root_train_north"
 		},
 		{
@@ -207,7 +202,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 4,
+			"idx": 3,
 			"name": "root_train_south"
 		},
 		{
@@ -219,8 +214,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5,
-			"instance": 15,
+			"idx": 4,
+			"instance": 14,
 			"name": "interaction_point_start"
 		},
 		{
@@ -232,8 +227,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 6,
-			"instance": 14,
+			"idx": 5,
+			"instance": 13,
 			"name": "interaction_point_2"
 		},
 		{
@@ -245,8 +240,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 7,
-			"instance": 13,
+			"idx": 6,
+			"instance": 12,
 			"name": "interaction_point_3"
 		},
 		{
@@ -258,8 +253,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8,
-			"instance": 12,
+			"idx": 7,
+			"instance": 11,
 			"name": "interaction_point_4"
 		},
 		{
@@ -271,8 +266,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 9,
-			"instance": 11,
+			"idx": 8,
+			"instance": 10,
 			"name": "interaction_point_5"
 		},
 		{
@@ -284,8 +279,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 10,
-			"instance": 10,
+			"idx": 9,
+			"instance": 9,
 			"name": "interaction_point_6"
 		},
 		{
@@ -297,8 +292,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 11,
-			"instance": 20,
+			"idx": 10,
+			"instance": 19,
 			"name": "interaction_point_7"
 		},
 		{
@@ -310,7 +305,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 12,
+			"idx": 11,
 			"name": "SkyCamera"
 		},
 		{
@@ -322,8 +317,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 13,
-			"instance": 18,
+			"idx": 12,
+			"instance": 17,
 			"name": "scene_base_gare_02"
 		},
 		{
@@ -335,8 +330,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 14,
-			"instance": 19,
+			"idx": 13,
+			"instance": 18,
 			"name": "interaction_point_0"
 		},
 		{
@@ -348,8 +343,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 15,
-			"instance": 21,
+			"idx": 14,
+			"instance": 20,
 			"name": "borne_recharge_large"
 		},
 		{
@@ -361,8 +356,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 16,
-			"instance": 22,
+			"idx": 15,
+			"instance": 21,
 			"name": "wc_02"
 		},
 		{
@@ -374,8 +369,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 17,
-			"instance": 23,
+			"idx": 16,
+			"instance": 22,
 			"name": "interaction_point_F"
 		},
 		{
@@ -387,8 +382,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 18,
-			"instance": 25,
+			"idx": 17,
+			"instance": 24,
 			"name": "affichage_03"
 		},
 		{
@@ -400,8 +395,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 19,
-			"instance": 24,
+			"idx": 18,
+			"instance": 23,
 			"name": "export affichage_audio"
 		},
 		{
@@ -413,8 +408,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 20,
-			"instance": 26,
+			"idx": 19,
+			"instance": 25,
 			"name": "affichage_01"
 		},
 		{
@@ -426,8 +421,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 21,
-			"instance": 27,
+			"idx": 20,
+			"instance": 26,
 			"name": "affichage_02"
 		},
 		{
@@ -439,8 +434,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 22,
-			"instance": 28,
+			"idx": 21,
+			"instance": 27,
 			"name": "siege_3pl"
 		},
 		{
@@ -452,8 +447,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 23,
-			"instance": 29,
+			"idx": 22,
+			"instance": 28,
 			"name": "borne_recharge_small"
 		},
 		{
@@ -465,8 +460,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 24,
-			"instance": 30,
+			"idx": 23,
+			"instance": 29,
 			"name": "Instance"
 		},
 		{
@@ -478,8 +473,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 25,
-			"instance": 9,
+			"idx": 24,
+			"instance": 8,
 			"name": "poubelle"
 		},
 		{
@@ -491,8 +486,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 26,
-			"instance": 7,
+			"idx": 25,
+			"instance": 6,
 			"name": "distributeur boisson"
 		},
 		{
@@ -504,13 +499,26 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 27,
-			"instance": 8,
+			"idx": 26,
+			"instance": 7,
 			"name": "fence_small_white_X1"
 		},
 		{
 			"components": [
 				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 4,
+			"name": "fence_small_pole_white"
+		},
+		{
+			"components": [
+				27,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -523,19 +531,6 @@
 		},
 		{
 			"components": [
-				27,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 29,
-			"instance": 6,
-			"name": "fence_small_pole_white"
-		},
-		{
-			"components": [
 				29,
 				4294967295,
 				4294967295,
@@ -543,8 +538,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 30,
-			"instance": 4,
+			"idx": 29,
+			"instance": 3,
 			"name": "siege_5pl"
 		},
 		{
@@ -556,8 +551,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 31,
-			"instance": 3,
+			"idx": 30,
+			"instance": 2,
 			"name": "poubelle"
 		},
 		{
@@ -569,8 +564,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 32,
-			"instance": 1,
+			"idx": 31,
+			"instance": 0,
 			"name": "fence_small_pole_white"
 		},
 		{
@@ -582,22 +577,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 33,
-			"instance": 2,
+			"idx": 32,
+			"instance": 1,
 			"name": "fence_small_white_X20"
-		},
-		{
-			"components": [
-				33,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 34,
-			"instance": 0,
-			"name": "train_ter_hdf_north"
 		}
 	],
 	"transforms": [
@@ -620,7 +602,7 @@
 			]
 		},
 		{
-			"parent": 4,
+			"parent": 3,
 			"pos": [
 				65.0,
 				0.0,
@@ -807,14 +789,14 @@
 				0.0
 			],
 			"rot": [
-				0.0,
+				-0.0,
 				0.0,
 				0.0
 			],
 			"scl": [
-				1.0,
-				1.0,
-				1.0
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
 			]
 		},
 		{
@@ -1193,24 +1175,6 @@
 				0.9999999403953552,
 				0.9999999403953552,
 				0.9999998807907104
-			]
-		},
-		{
-			"parent": 3,
-			"pos": [
-				65.0,
-				0.0,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				0.9999997615814209,
-				0.9999997615814209,
-				0.9999997019767761
 			]
 		}
 	]

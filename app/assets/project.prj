@@ -1,14 +1,14 @@
 {
 	"recent_files": [
+		"scene_base_gare_02.scn",
+		"outward_journey_scene_part_2.scn",
+		"props/bordure_02/bordure_02.scn",
+		"props_background/ground_nord_02/ground_nord_02.scn",
 		"demo_scene.scn",
-		"environment_day_2.scn",
-		"Demo_scene.scn",
-		"main.scn",
-		"primitives/grid.scn",
-		"environment.scn",
-		"props/skydome/skydome.scn",
-		"analysis/return_journey_scene_part_2.scn",
-		"analysis/return_journey_scene_part_1.scn",
-		"analysis/outward_journey_scene_part_2.scn"
+		"props/bordure/bordure.scn",
+		"scene_base_gare_01_sans_tvp.scn",
+		"scene_base_gare_01_tvp_ouest.scn",
+		"props/tree_group/tree_group.scn",
+		"props/tree_large/tree_large_01/tree_large_01.scn"
 	]
 }
