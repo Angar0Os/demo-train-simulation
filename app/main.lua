@@ -22,7 +22,7 @@ hg.LoadSceneFromAssets("camera.scn", scene, res, hg.GetForwardPipelineInfo())
 
 -- AAA pipeline
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
-pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Half, hg.BR_Half)
+pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Equal, hg.BR_Equal)
 pipeline_aaa_config.sample_count = 1
 pipeline_aaa_config.motion_blur = 0.001
 pipeline_aaa_config.exposure = 1.2
@@ -33,7 +33,9 @@ pipeline_aaa_config.sharpen = 0.25
 local camera_node = scene:GetNode("RenderCamera")
 local cam_pos = camera_node:GetTransform():GetPos()
 cam_pos.z = cam_pos.z + 1.8
-local speed = 10.0
+local speed = 5.0
+
+scene:SetCurrentCamera(camera_node)
 
 -- main loop
 frame = 0

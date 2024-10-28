@@ -1,6 +1,7 @@
 {
 	"recent_files": [
 		"demo_scene.scn",
+		"camera.scn",
 		"environment_day_2.scn",
 		"Demo_scene.scn",
 		"main.scn",
@@ -8,7 +9,6 @@
 		"environment.scn",
 		"props/skydome/skydome.scn",
 		"analysis/return_journey_scene_part_2.scn",
-		"analysis/return_journey_scene_part_1.scn",
-		"analysis/outward_journey_scene_part_2.scn"
+		"analysis/return_journey_scene_part_1.scn"
 	]
 }

@@ -14,17 +14,17 @@
 		"clear_color": true,
 		"clear_z": true,
 		"color": [
-			0,
-			0,
-			0,
+			113,
+			220,
+			231,
 			255
 		]
 	},
 	"environment": {
 		"ambient": [
-			0,
-			0,
-			0,
+			255,
+			255,
+			255,
 			0
 		],
 		"brdf_map": "core/pbr/brdf.dds",
