@@ -1,0 +1,5843 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			44,
+			75,
+			217,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			1,
+			2,
+			17,
+			0
+		],
+		"fog_far": 500.0,
+		"fog_near": 100.0,
+		"probe": {
+			"irradiance_map": "probes/gare_02_night.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				20.0,
+				1.0,
+				0.0
+			],
+			"radiance_map": "probes/gare_02_night.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				100.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "blocs/rail_low_02/rail_low_02.scn"
+		},
+		{
+			"name": "blocs/quai_sud_est_02/quai_sud_est_02.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props_background/hangar/hangar.scn"
+		},
+		{
+			"name": "blocs/quai_sud_est_02/quai_sud_est_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_03/tree_long_03.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props_background/hangar/hangar.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_G/sgn_sortie_G.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/washing_tank/washing_tank.scn"
+		},
+		{
+			"name": "props_background/chantier/scene.scn"
+		},
+		{
+			"name": "blocs/bck_maison_02/bck_maison_02.scn"
+		},
+		{
+			"name": "props_background/chantier/chantier.scn"
+		},
+		{
+			"name": "props_background/landscape/landscape.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_screen_building_02/warehouse_brick_screen_building_02.scn"
+		},
+		{
+			"name": "props/distributeur boisson/distributeur boisson.scn"
+		},
+		{
+			"name": "props/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_nord/tree_ouest_nord.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_sud/tree_ouest_sud.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_nord/tree_ouest_nord.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_sud/tree_ouest_sud.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/fence_small_white_X20/fence_small_white_X20.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props/fence_small_white_X10/fence_small_white_X10.scn"
+		},
+		{
+			"name": "props/fence_small_pole_white/fence_small_pole_white.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "blocs/bck_route_sud/bck_route_sud.scn"
+		},
+		{
+			"name": "props/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "props/tvp_poteau_signaletique_sud/tvp_poteau_signaletique_sud.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/totem/totem.scn"
+		},
+		{
+			"name": "blocs/tvp_sud_substitut_02/tvp_sud_substitut_02.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "blocs/tvp_sud_substitut_02/tvp_sud_substitut_02.scn"
+		},
+		{
+			"name": "environment_night.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_D/sgn_sortie_D.scn"
+		},
+		{
+			"name": "props/abris_quais/abris_quais.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/quai_sud_annexe_02/quai_sud_annexe_02.scn"
+		},
+		{
+			"name": "blocs/rail_low_02/rail_low_02.scn"
+		},
+		{
+			"name": "props/building_warehouse_08/transformateur.scn"
+		},
+		{
+			"name": "props/building_warehouse_06/building_warehouse_06.scn"
+		},
+		{
+			"name": "props/building_warehouse_08/transformateur.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "blocs/rail_background_est/rail_background_est.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_D/sgn_sortie_D.scn"
+		},
+		{
+			"name": "blocs/rail_low_02/rail_low_02.scn"
+		},
+		{
+			"name": "props/car_compact/car_compact.scn"
+		},
+		{
+			"name": "props/car_minivan/car_minivan.scn"
+		},
+		{
+			"name": "props/car_wagon/car_wagon.scn"
+		},
+		{
+			"name": "props/hangar_01/hangar_01.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/tvp_picto_pieton_ballast/tvp_ballast.scn"
+		},
+		{
+			"name": "props/tvp_picto_pieton_ballast/tvp_ballast.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/rail_background_est/rail_background_est.scn"
+		},
+		{
+			"name": "props/fence_small_white_closed_X15/fence_small_white_closed_X15.scn"
+		},
+		{
+			"name": "props/fence_small_white_X20/fence_small_white_X20.scn"
+		},
+		{
+			"name": "blocs/rail_tvp_02/rail_tvp_02.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "characters/character_man_01/character_man_01.scn"
+		},
+		{
+			"name": "characters/character_man_01/character_man_01.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/rail_background_est/rail_background_est.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/rail_background_est/rail_background_est.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "props/fence_small_white_X20/fence_small_white_X20.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "blocs/rail_low_02/rail_low_02.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "props/fence_small_white_X20/fence_small_white_X20.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/quai_nord_gare_02/quai_nord_gare_02.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/siege_3pl/siege_3pl.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "blocs/quai_sud_est_02/quai_sud_est_02.scn"
+		},
+		{
+			"name": "props/siege_3pl/siege_3pl.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "props/tvp/tvp.scn"
+		},
+		{
+			"name": "props/tvp_poteau_signaletique_sud/tvp_poteau_signaletique_sud.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_G/sgn_sortie_G.scn"
+		},
+		{
+			"name": "blocs/tvp_sud_substitut_02/tvp_sud_substitut_02.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/bck_route_nord/bck_route_nord.scn"
+		},
+		{
+			"name": "props/fence_small_white_X20/fence_small_white_X20.scn"
+		},
+		{
+			"name": "props/building_warehouse_06/building_warehouse_06.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/building_flour_mill/building_flour_mill.scn"
+		},
+		{
+			"name": "blocs/quai_sud_est_02/quai_sud_est_02.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "props/siege_3pl/siege_3pl.scn"
+		},
+		{
+			"name": "blocs/tvp_sud_substitut_02/tvp_sud_substitut_02.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props/poubelle_tri/poubelle_tri.scn"
+		},
+		{
+			"name": "props_background/container/container.scn"
+		},
+		{
+			"name": "props_background/container/container.scn"
+		},
+		{
+			"name": "props_background/ground_nord_02/ground_nord_02.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/fence_small_pole_white/fence_small_pole_white.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/fence_small_white_X5/fence_small_white_X5.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_screen_building_01/warehouse_brick_screen_building_01.scn"
+		},
+		{
+			"name": "props_background/pont/pont.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_control_room/warehouse_brick_control_room.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_screen_building_02/warehouse_brick_screen_building_02.scn"
+		},
+		{
+			"name": "props_background/container/container.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_medical_center/warehouse_brick_medical_center.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_head_frame/warehouse_brick_head_frame.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/warehouse_brick_old_garage/warehouse_brick_old_garage.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "props_background/warehouse_brick/sl_concrete_silo/sl_concrete_silo.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "props_background/ground_sud_02/ground_sud_02.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 120,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 44,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 98,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 161,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 142,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 40,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 101,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 57,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 117,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 48,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 128,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 39,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 108,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"instance": 61,
+			"name": "abris_quais"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 55,
+			"name": "totem"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 123,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"instance": 68,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 42,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 41,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 97,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"instance": 132,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 79,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"instance": 149,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"instance": 111,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"instance": 113,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"instance": 118,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 2,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 109,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 78,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 77,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 30,
+			"instance": 59,
+			"name": "environment"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 49,
+			"name": "bck_route_sud"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"instance": 133,
+			"name": "bck_route_nord"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"instance": 71,
+			"name": "sgn_sortie_D"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"instance": 11,
+			"name": "sgn_sortie_G"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"instance": 159,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 36,
+			"instance": 60,
+			"name": "sgn_sortie_D"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 37,
+			"instance": 129,
+			"name": "sgn_sortie_G"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 38,
+			"instance": 62,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 39,
+			"instance": 54,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				40,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 40,
+			"instance": 82,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 41,
+			"instance": 147,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 42,
+			"instance": 70,
+			"name": "rail_background_est"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 43,
+			"instance": 83,
+			"name": "rail_background_est"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 44,
+			"instance": 112,
+			"name": "colline"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 45,
+			"instance": 103,
+			"name": "colline"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 46,
+			"instance": 115,
+			"name": "colline"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 43,
+			"name": "colline"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 48,
+			"instance": 63,
+			"name": "quai_sud_annexe_02"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
+			"instance": 138,
+			"name": "quai_sud_est_02"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"instance": 121,
+			"name": "quai_sud_est_02"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"instance": 124,
+			"name": "tvp"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 110,
+			"name": "quai_nord_gare_02"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 53,
+			"instance": 141,
+			"name": "tvp_sud_substitut_02"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 58,
+			"name": "tvp_sud_substitut_02"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 55,
+			"instance": 56,
+			"name": "tvp_sud_substitut_02"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 130,
+			"name": "tvp_sud_substitut_02"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 57,
+			"instance": 1,
+			"name": "quai_sud_est_02"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 58,
+			"instance": 4,
+			"name": "quai_sud_est_02"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 59,
+			"instance": 122,
+			"name": "siege_3pl"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 60,
+			"instance": 140,
+			"name": "siege_3pl"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 61,
+			"instance": 99,
+			"name": "sgn_3ATP 1080x480"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 62,
+			"instance": 139,
+			"name": "sgn_3ATP 1080x480"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 63,
+			"instance": 125,
+			"name": "tvp_poteau_signaletique_sud"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 64,
+			"instance": 105,
+			"name": "sgn_3ATP 1080x480"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 65,
+			"instance": 126,
+			"name": "sgn_3ATP 1080x480"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 66,
+			"instance": 51,
+			"name": "tvp_poteau_signaletique_sud"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 67,
+			"instance": 47,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 68,
+			"instance": 50,
+			"name": "fence_small_white_X1"
+		},
+		{
+			"components": [
+				69,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 69,
+			"instance": 134,
+			"name": "fence_small_white_X20"
+		},
+		{
+			"components": [
+				70,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 70,
+			"instance": 23,
+			"name": "distributeur boisson"
+		},
+		{
+			"components": [
+				71,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 71,
+			"instance": 38,
+			"name": "fence_small_white_X20"
+		},
+		{
+			"components": [
+				72,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 72,
+			"instance": 148,
+			"name": "fence_small_pole_white"
+		},
+		{
+			"components": [
+				159,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 73,
+			"instance": 34,
+			"name": "tree_ouest_nord"
+		},
+		{
+			"components": [
+				73,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 74,
+			"instance": 131,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				74,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 75,
+			"instance": 53,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				77,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 76,
+			"instance": 107,
+			"name": "fence_small_white_X20"
+		},
+		{
+			"components": [
+				75,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 77,
+			"instance": 24,
+			"name": "fence_small_white_X1"
+		},
+		{
+			"components": [
+				76,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 78,
+			"instance": 52,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				78,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 79,
+			"instance": 45,
+			"name": "fence_small_white_X10"
+		},
+		{
+			"components": [
+				79,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 80,
+			"instance": 46,
+			"name": "fence_small_pole_white"
+		},
+		{
+			"components": [
+				81,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 81,
+			"instance": 119,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				80,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 82,
+			"instance": 69,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				84,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 83,
+			"instance": 100,
+			"name": "fence_small_white_X20"
+		},
+		{
+			"components": [
+				82,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 84,
+			"instance": 106,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				83,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 85,
+			"instance": 127,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				85,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 86,
+			"instance": 116,
+			"name": "fence_small_white_X1"
+		},
+		{
+			"components": [
+				86,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 87,
+			"instance": 114,
+			"name": "siege_3pl"
+		},
+		{
+			"components": [
+				87,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 88,
+			"instance": 64,
+			"name": "rail_low_02"
+		},
+		{
+			"components": [
+				89,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 89,
+			"instance": 85,
+			"name": "fence_small_white_X20"
+		},
+		{
+			"components": [
+				90,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 90,
+			"instance": 102,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				88,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 91,
+			"instance": 84,
+			"name": "fence_small_white_closed_X15"
+		},
+		{
+			"components": [
+				91,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 92,
+			"instance": 104,
+			"name": "rail_low_02"
+		},
+		{
+			"components": [
+				92,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 93,
+			"instance": 72,
+			"name": "rail_low_02"
+		},
+		{
+			"components": [
+				93,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 94,
+			"instance": 0,
+			"name": "rail_low_02"
+		},
+		{
+			"components": [
+				95,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 95,
+			"instance": 150,
+			"name": "fence_small_white_X5"
+		},
+		{
+			"components": [
+				94,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 96,
+			"instance": 86,
+			"name": "rail_tvp_02"
+		},
+		{
+			"components": [
+				97,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 97,
+			"instance": 81,
+			"name": "tvp_ballast"
+		},
+		{
+			"components": [
+				96,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 98,
+			"instance": 80,
+			"name": "tvp_ballast"
+		},
+		{
+			"components": [
+				105,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 99,
+			"instance": 96,
+			"name": "rail_background_est"
+		},
+		{
+			"components": [
+				98,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 100,
+			"instance": 94,
+			"name": "rail_background_est"
+		},
+		{
+			"components": [
+				99,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 101,
+			"instance": 93,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				100,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 102,
+			"instance": 92,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				101,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 103,
+			"instance": 91,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				106,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 104,
+			"instance": 95,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				102,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 105,
+			"instance": 90,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				103,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 106,
+			"instance": 89,
+			"name": "character_man_01"
+		},
+		{
+			"components": [
+				104,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 107,
+			"instance": 88,
+			"name": "character_man_01"
+		},
+		{
+			"components": [
+				107,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 108,
+			"instance": 87,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				108,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 109,
+			"instance": 73,
+			"name": "car_compact"
+		},
+		{
+			"components": [
+				109,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 110,
+			"instance": 74,
+			"name": "car_minivan"
+		},
+		{
+			"components": [
+				110,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 111,
+			"instance": 75,
+			"name": "car_wagon"
+		},
+		{
+			"components": [
+				111,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 112,
+			"instance": 76,
+			"name": "hangar_01"
+		},
+		{
+			"components": [
+				114,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 113,
+			"instance": 67,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				112,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 114,
+			"instance": 66,
+			"name": "building_warehouse_06"
+		},
+		{
+			"components": [
+				113,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 115,
+			"instance": 65,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				115,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 116,
+			"instance": 135,
+			"name": "building_warehouse_06"
+		},
+		{
+			"components": [
+				116,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 117,
+			"instance": 136,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				117,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 118,
+			"instance": 137,
+			"name": "building_flour_mill"
+		},
+		{
+			"components": [
+				118,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 119,
+			"instance": 143,
+			"name": "poubelle_tri"
+		},
+		{
+			"components": [
+				119,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 120,
+			"instance": 166,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				122,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 121,
+			"instance": 163,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				120,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 122,
+			"instance": 164,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				121,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 123,
+			"instance": 165,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				123,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 124,
+			"instance": 144,
+			"name": "container"
+		},
+		{
+			"components": [
+				124,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 125,
+			"instance": 145,
+			"name": "container"
+		},
+		{
+			"components": [
+				125,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 126,
+			"instance": 146,
+			"name": "ground_nord_02"
+		},
+		{
+			"components": [
+				126,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 127,
+			"instance": 162,
+			"name": "ground_sud_02"
+		},
+		{
+			"components": [
+				127,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 128,
+			"instance": 152,
+			"name": "pont"
+		},
+		{
+			"components": [
+				128,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 129,
+			"instance": 153,
+			"name": "warehouse_brick_control_room"
+		},
+		{
+			"components": [
+				129,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 130,
+			"instance": 158,
+			"name": "warehouse_brick_old_garage"
+		},
+		{
+			"components": [
+				130,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 131,
+			"instance": 157,
+			"name": "warehouse_brick_head_frame"
+		},
+		{
+			"components": [
+				131,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 132,
+			"instance": 156,
+			"name": "warehouse_brick_medical_center"
+		},
+		{
+			"components": [
+				132,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 133,
+			"instance": 155,
+			"name": "container"
+		},
+		{
+			"components": [
+				133,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 134,
+			"instance": 151,
+			"name": "warehouse_brick_screen_building_01"
+		},
+		{
+			"components": [
+				134,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 135,
+			"instance": 154,
+			"name": "warehouse_brick_screen_building_02"
+		},
+		{
+			"components": [
+				135,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 136,
+			"instance": 160,
+			"name": "sl_concrete_silo"
+		},
+		{
+			"components": [
+				136,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 137,
+			"instance": 3,
+			"name": "hangar"
+		},
+		{
+			"components": [
+				137,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 138,
+			"instance": 12,
+			"name": "washing_tank"
+		},
+		{
+			"components": [
+				138,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 139,
+			"instance": 10,
+			"name": "hangar"
+		},
+		{
+			"components": [
+				142,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 140,
+			"instance": 8,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				143,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 141,
+			"instance": 9,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				139,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 142,
+			"instance": 5,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				140,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 143,
+			"instance": 6,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				141,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 144,
+			"instance": 7,
+			"name": "tree_long_03"
+		},
+		{
+			"components": [
+				144,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 145,
+			"instance": 13,
+			"name": "scene"
+		},
+		{
+			"components": [
+				145,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 146,
+			"instance": 14,
+			"name": "bck_maison_02"
+		},
+		{
+			"components": [
+				146,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 147,
+			"instance": 15,
+			"name": "chantier"
+		},
+		{
+			"components": [
+				154,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 148,
+			"instance": 32,
+			"name": "tree_ouest_nord"
+		},
+		{
+			"components": [
+				155,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 149,
+			"instance": 36,
+			"name": "tree_ouest_sud"
+		},
+		{
+			"components": [
+				147,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 150,
+			"instance": 33,
+			"name": "tree_ouest_sud"
+		},
+		{
+			"components": [
+				156,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 151,
+			"instance": 35,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				157,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 152,
+			"instance": 31,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				148,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 153,
+			"instance": 30,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				158,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 154,
+			"instance": 29,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				149,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 155,
+			"instance": 28,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				150,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 156,
+			"instance": 27,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				151,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 157,
+			"instance": 26,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				152,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 158,
+			"instance": 25,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				153,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 159,
+			"instance": 37,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				160,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 160,
+			"instance": 19,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				161,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 161,
+			"instance": 20,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				162,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 162,
+			"instance": 21,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				163,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 163,
+			"instance": 18,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				164,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 164,
+			"instance": 17,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				165,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 165,
+			"instance": 16,
+			"name": "landscape"
+		},
+		{
+			"components": [
+				166,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 166,
+			"instance": 22,
+			"name": "warehouse_brick_screen_building_02"
+		},
+		{
+			"components": [
+				167,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 167,
+			"name": "sphere_chrome"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9999899864196777,
+								0.9999899864196777,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.10000000149011612,
+								0.949999988079071,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "primitives/sphere.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				118.0,
+				-1.1981935501098633,
+				4.630000114440918
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				0.03420257568359375,
+				2.6696581840515137,
+				1.7751881387084723e-07
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				118.0,
+				-1.1981935501098633,
+				-4.630000114440918
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 3,
+			"pos": [
+				0.03420591354370117,
+				2.398193597793579,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-68.0,
+				-1.1981935501098633,
+				-4.630000114440918
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 5,
+			"pos": [
+				0.03420591354370117,
+				2.398193597793579,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-68.0,
+				-1.1981935501098633,
+				4.599999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 7,
+			"pos": [
+				0.03420257568359375,
+				2.398193597793579,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				88.94874572753906,
+				0.30000001192092896,
+				-8.084099769592285
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999990463256836,
+				1.0,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-40.035526275634766,
+				0.30000001192092896,
+				-8.135952949523926
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				95.16590881347656,
+				0.30000001192092896,
+				7.572199821472168
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				16.258190155029297,
+				0.30000001192092896,
+				-12.667953491210938
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.709879875183105,
+				0.39671051502227783,
+				-9.477149963378906
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				1.0,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.918884754180908,
+				0.30000001192092896,
+				7.400000095367432
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				33.57452392578125,
+				0.06168661266565323,
+				8.268574714660645
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				38.46943664550781,
+				0.39671051502227783,
+				8.901371955871582
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				55.28461837768555,
+				0.30000001192092896,
+				-7.776503562927246
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				130.0,
+				-1.100000023841858,
+				5.999995708465576
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.0,
+				-1.100000023841858,
+				5.999995708465576
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				29.999998092651367,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-70.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-70.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				130.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-20.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-20.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-31.49432373046875,
+				0.30000001192092896,
+				7.099999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-6.928567886352539,
+				0.30000001192092896,
+				-8.595087051391602
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-29.99886703491211,
+				0.23060786724090576,
+				8.5
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999991059303284,
+				1.0,
+				0.9999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-93.69570922851563,
+				0.30000001192092896,
+				-2.4589462280273438
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-42.49317169189453,
+				-0.10000000149011612,
+				-17.82518768310547
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				9.676726341247559,
+				2.5999999046325684,
+				7.42484712600708
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999986886978149,
+				1.0,
+				0.9999986886978149
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.1434497833251953,
+				2.384185791015625e-07,
+				6.253055572509766
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 35,
+			"pos": [
+				0.03323820233345032,
+				2.5999999046325684,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": 34,
+			"pos": [
+				-1.649003706916119e-07,
+				0.0,
+				0.0067653656005859375
+			],
+			"rot": [
+				-0.0,
+				179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 33,
+			"pos": [
+				-1.2480671784942388e-07,
+				0.0,
+				0.06762170791625977
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				180.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				180.0,
+				-1.100000023841858,
+				5.999995708465576
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-120.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-120.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				128.0,
+				-0.23999999463558197,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-88.0,
+				-0.23999999463558197,
+				1.6904581570997834e-05
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				429.0038757324219,
+				0.0,
+				0.3708667755126953
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-346.8404541015625,
+				-0.6570515632629395,
+				14.218045234680176
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-373.6746520996094,
+				-0.5248022079467773,
+				26.002544403076172
+			],
+			"rot": [
+				-0.0,
+				-45.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				450.720703125,
+				0.0,
+				0.3708667755126953
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-24.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-24.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				14.271489143371582,
+				0.30000001192092896,
+				-11.107625007629395
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				41.43438720703125,
+				0.30000001192092896,
+				7.040121555328369
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.194067001342773,
+				0.30000001192092896,
+				-6.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.037370681762695,
+				0.0,
+				5.389443397521973
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				1.0,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": 66,
+			"pos": [
+				0.03205299377441406,
+				2.700000047683716,
+				1.1863448889926076e-07
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992251396179,
+				1.0,
+				0.9999992251396179
+			]
+		},
+		{
+			"parent": 66,
+			"pos": [
+				-0.03412055969238281,
+				2.700000047683716,
+				1.2506408893386833e-05
+			],
+			"rot": [
+				-0.0,
+				90.02061462402344,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": 63,
+			"pos": [
+				0.03279685974121094,
+				2.700000047683716,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				1.0,
+				0.999998927116394
+			]
+		},
+		{
+			"parent": 63,
+			"pos": [
+				-0.03466033935546875,
+				2.700000047683716,
+				1.239776611328125e-05
+			],
+			"rot": [
+				-0.0,
+				90.02061462402344,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				35.0,
+				0.30000001192092896,
+				-7.699999809265137
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				120.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				21.730751037597656,
+				0.30000001192092896,
+				-9.787103652954102
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				21.682147979736328,
+				0.30000001192092896,
+				-8.149999618530273
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.273059844970703,
+				0.30000001192092896,
+				7.379958629608154
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.100000023841858,
+				1.100000023841858,
+				1.100000023841858
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				56.97371292114258,
+				0.30000001192092896,
+				-8.084121704101563
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 69,
+			"pos": [
+				31.98395538330078,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				96.61430358886719,
+				0.30000001192092896,
+				-7.699999809265137
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.9988698959350586,
+				0.39671051502227783,
+				-7.60918664932251
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999991059303284,
+				1.0,
+				0.9999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				10.91636848449707,
+				0.30000001192092896,
+				-9.742067337036133
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992251396179,
+				1.0,
+				0.9999992251396179
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.011508703231811523,
+				0.30000001192092896,
+				-7.537478446960449
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-8.624136924743652,
+				0.30000001192092896,
+				-8.149999618530273
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				10.951077461242676,
+				0.30000001192092896,
+				-8.149999618530273
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": 79,
+			"pos": [
+				16.091575622558594,
+				0.0,
+				-1.7748118352756137e-07
+			],
+			"rot": [
+				-0.0,
+				179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.172420501708984,
+				0.39671051502227783,
+				-7.60918664932251
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999989867210388,
+				1.0,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-29.15978240966797,
+				0.30000001192092896,
+				-7.537478446960449
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-49.09437561035156,
+				0.39671051502227783,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999988675117493,
+				1.0,
+				0.9999988675117493
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-47.303428649902344,
+				0.30000001192092896,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				39.1984748840332,
+				0.30000001192092896,
+				7.572176456451416
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				39.26836013793945,
+				0.29999977350234985,
+				9.197589874267578
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999991059303284,
+				1.0,
+				0.9999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.20635414123535,
+				0.30000001192092896,
+				-11.107625007629395
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-40.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				71.19523620605469,
+				0.30000001192092896,
+				7.572199821472168
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-30.0,
+				0.30000001192092896,
+				8.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-56.490570068359375,
+				0.0,
+				8.5
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999989867210388,
+				1.0,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				32.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-88.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.0,
+				-0.025327444076538086,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.967254400253296,
+				0.30000001192092896,
+				8.470033645629883
+			],
+			"rot": [
+				0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				22.0,
+				-0.25,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.0,
+				-0.25,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-151.99386596679688,
+				0.20000000298023224,
+				-24.675195693969727
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				-3.8966236114501953
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.04719543457031,
+				0.0,
+				-0.6963868141174316
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-78.51988220214844,
+				0.0,
+				-0.6963868141174316
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				69.28604125976563,
+				0.0,
+				-0.6963868141174316
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				14.987168312072754,
+				0.28999999165534973,
+				-7.169607162475586
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.949058532714844,
+				-0.007736131548881531,
+				4.368952751159668
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-151.99386596679688,
+				0.20000000298023224,
+				-32.638397216796875
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.808517456054688,
+				0.0,
+				-0.6963868141174316
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-49.793617248535156,
+				0.0,
+				54.72805404663086
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				2.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.5013575553894043,
+				0.029999999329447746,
+				13.609023094177246
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.370319366455078,
+				0.0,
+				14.246980667114258
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-15.269060134887695,
+				0.0,
+				14.583195686340332
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-88.8404769897461,
+				0.0,
+				-10.875221252441406
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.91616821289063,
+				-0.028424739837646484,
+				-76.79854583740234
+			],
+			"rot": [
+				-0.0,
+				179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.6999996304512024,
+				0.699999988079071,
+				0.6999996304512024
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-159.52801513671875,
+				0.09098291397094727,
+				-117.52349853515625
+			],
+			"rot": [
+				-0.0,
+				-125.55628967285156,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				9.755538940429688,
+				0.09099054336547852,
+				-101.24851989746094
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				98.3575439453125,
+				0.12330770492553711,
+				-66.68124389648438
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.6999991536140442,
+				0.699999988079071,
+				0.6999991536140442
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-74.6959228515625,
+				0.0,
+				7.512790679931641
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				1.9999998807907104,
+				2.0,
+				1.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				31.241987228393555,
+				0.0,
+				-170.3302001953125
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				21.94120216369629,
+				0.29999977350234985,
+				5.904850959777832
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.0999997854232788,
+				1.100000023841858,
+				1.0999997854232788
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.13141536712646484,
+				0.0,
+				18.88527488708496
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.699999988079071,
+				0.699999988079071,
+				0.699999988079071
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.902523040771484,
+				-9.5367431640625e-07,
+				18.421966552734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.6999996304512024,
+				0.699999988079071,
+				0.6999996304512024
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-28.28006362915039,
+				-0.32911503314971924,
+				-14.849201202392578
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.699999213218689,
+				0.699999988079071,
+				0.699999213218689
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-23.538846969604492,
+				0.0,
+				17.68040657043457
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.7499997019767761,
+				0.75,
+				0.7499997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.5226945877075195,
+				0.0,
+				-19.400114059448242
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				15.907090187072754,
+				0.0,
+				-102.8237533569336
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				-0.10000000149011612,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-351.0771789550781,
+				-5.0,
+				-3.5338387489318848
+			],
+			"rot": [
+				-0.0,
+				-30.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				9.246323585510254,
+				0.7377930879592896,
+				4.169802665710449
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				9.794742584228516,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-107.4842300415039,
+				-5.7220458984375e-06,
+				-56.22160339355469
+			],
+			"rot": [
+				-0.0,
+				-6.2287187576293945,
+				0.0
+			],
+			"scl": [
+				1.1999999284744263,
+				1.2000000476837158,
+				1.1999999284744263
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-29.245281219482422,
+				0.0,
+				-98.916748046875
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 135,
+			"pos": [
+				-4.72943115234375,
+				0.0,
+				89.20948028564453
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-58.98462677001953,
+				0.0,
+				-68.17181396484375
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.5,
+				1.5,
+				1.5
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-103.58949279785156,
+				0.6018841862678528,
+				-84.59052276611328
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-8.251364707946777,
+				-2.86102294921875e-06,
+				61.016963958740234
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				1.2000000476837158,
+				1.2000000476837158,
+				1.2000000476837158
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-89.80874633789063,
+				0.0,
+				-128.7659912109375
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.2000000476837158,
+				1.2000000476837158,
+				1.2000000476837158
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-20.64987564086914,
+				-2.86102294921875e-06,
+				57.677635192871094
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.2000000476837158,
+				1.2000000476837158,
+				1.2000000476837158
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				47.76161193847656,
+				0.1128324568271637,
+				-16.03732681274414
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.299999713897705,
+				1.2999999523162842,
+				1.299999713897705
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				29.869224548339844,
+				0.5767910480499268,
+				-16.03732681274414
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				47.42871856689453,
+				0.0,
+				18.795753479003906
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.1128324568271637,
+				-16.863018035888672
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.2000000476837158,
+				1.2000000476837158,
+				1.2000000476837158
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.219964027404785,
+				1.9073486328125e-06,
+				-15.83726692199707
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.100000023841858,
+				1.100000023841858,
+				1.100000023841858
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				13.152037620544434,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				96.39518737792969,
+				0.0,
+				70.64215087890625
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				0.8999999761581421,
+				0.8999999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.1813735961914,
+				0.0,
+				35.93836975097656
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				6.99999475479126,
+				7.0,
+				6.99999475479126
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				235.2089080810547,
+				-0.40914201736450195,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.7999998927116394,
+				0.800000011920929,
+				0.7999998927116394
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				68.15103912353516,
+				-1.688826560974121,
+				126.20614624023438
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				81.43731689453125,
+				-3.500213623046875,
+				-127.05626678466797
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				14.957256317138672,
+				13.927206039428711,
+				324.40960693359375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.8999995589256287,
+				0.8999999761581421,
+				0.8999995589256287
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				58.6259765625,
+				11.58599853515625,
+				369.89202880859375
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.8999994993209839,
+				0.8999999761581421,
+				0.8999994993209839
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-29.60915184020996,
+				15.575881004333496,
+				330.13336181640625
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.6999998688697815,
+				0.699999988079071,
+				0.6999998688697815
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				56.95497131347656,
+				17.12212371826172,
+				348.0133361816406
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.6999996900558472,
+				0.699999988079071,
+				0.6999996900558472
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-282.73760986328125,
+				-0.2041940689086914,
+				1.6143131256103516
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-226.59625244140625,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				-0.5182168483734131,
+				76.35087585449219
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-48.396148681640625,
+				-0.9888501167297363,
+				132.65194702148438
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.8999998569488525,
+				0.8999999761581421,
+				0.8999998569488525
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-48.396148681640625,
+				-3.500213623046875,
+				-128.90829467773438
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				289.26971435546875,
+				-0.22141146659851074,
+				-0.6246078014373779
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.8999998569488525,
+				0.8999999761581421,
+				0.8999998569488525
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-255.37384033203125,
+				-3.500213623046875,
+				62.0965461730957
+			],
+			"rot": [
+				-0.0,
+				45.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-255.37384033203125,
+				-0.7195849418640137,
+				-132.0095672607422
+			],
+			"rot": [
+				-0.0,
+				-15.157447814941406,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				329.5600891113281,
+				-3.3935327529907227,
+				-76.06232452392578
+			],
+			"rot": [
+				-0.0,
+				11.373886108398438,
+				0.0
+			],
+			"scl": [
+				0.7999998331069946,
+				0.800000011920929,
+				0.7999998331069946
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				219.0029296875,
+				-3.500213623046875,
+				68.62939453125
+			],
+			"rot": [
+				-0.0,
+				133.0087127685547,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				267.1670227050781,
+				-0.6782560348510742,
+				-159.86920166015625
+			],
+			"rot": [
+				-0.0,
+				-121.38946533203125,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				-1.640342354774475,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				0.8999999761581421,
+				0.8999999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				165.1374053955078,
+				0.0,
+				-83.17025756835938
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.4999996423721313,
+				1.5,
+				1.4999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				0.5404773950576782,
+				1.3097915649414063
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

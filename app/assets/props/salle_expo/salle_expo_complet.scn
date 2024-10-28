@@ -1,0 +1,625 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			165,
+			165,
+			165,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "probes/salle_expo.hdr.irradiance",
+			"parallax": 1.0,
+			"pos": [
+				17.209999084472656,
+				1.7999999523162842,
+				10.267999649047852
+			],
+			"radiance_map": "probes/salle_expo.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				9.0,
+				3.5,
+				4.75
+			],
+			"type": "cube"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_01/affichage_hall_01.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_03/affichage_hall_03.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_04/affichage_hall_04.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_05/affichage_hall_05.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_06/affichage_hall_06.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_02/affichage_hall_02.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_07/affichage_hall_07.scn"
+		},
+		{
+			"name": "props/panneau_affichage/panneau_expo_hall_08/affichage_hall_08.scn"
+		},
+		{
+			"name": "props/salle_expo/salle_expo.scn"
+		},
+		{
+			"name": "props/ecran/ecran_espace_recharge/ecran.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				239,
+				234,
+				216,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 0.3211405873298645,
+			"outer_angle": 0.8117700815200806,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 6.0,
+			"shadow_bias": 0.004999999888241291,
+			"shadow_type": "none",
+			"specular": [
+				244,
+				190,
+				73,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				239,
+				234,
+				216,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 1.5011402368545532,
+			"priority": 37.900001525878906,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 6.0,
+			"shadow_bias": 0.00800000037997961,
+			"shadow_type": "map",
+			"specular": [
+				229,
+				133,
+				25,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 0,
+			"name": "affichage_hall_01"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 5,
+			"name": "affichage_hall_02"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 1,
+			"name": "affichage_hall_03"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 2,
+			"name": "affichage_hall_04"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 3,
+			"name": "affichage_hall_05"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 4,
+			"name": "affichage_hall_06"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 6,
+			"name": "affichage_hall_07"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 7,
+			"name": "affichage_hall_08"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 8,
+			"name": "salle_expo"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 9,
+			"name": "ecran"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"name": "Light"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				1,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"name": "Light"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 26,
+			"name": "sphere_chrome"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9999899864196777,
+								0.9999899864196777,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.10000000149011612,
+								0.949999988079071,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "primitives/sphere.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				13.77580738067627,
+				0.32100000977516174,
+				11.396637916564941
+			],
+			"rot": [
+				-0.0,
+				45.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999995827674866,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				17.131183624267578,
+				0.32100000977516174,
+				12.0
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.54634666442871,
+				0.32100000977516174,
+				9.34446907043457
+			],
+			"rot": [
+				-0.0,
+				-153.23751831054688,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998211860657,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				15.35892105102539,
+				0.32100000977516174,
+				12.0
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				16.1867618560791,
+				0.32145988941192627,
+				10.243258476257324
+			],
+			"rot": [
+				-0.0,
+				135.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				0.999999463558197,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.876834869384766,
+				0.32100000977516174,
+				11.999998092651367
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.59409523010254,
+				0.32100000977516174,
+				11.256088256835938
+			],
+			"rot": [
+				-0.0,
+				147.58251953125,
+				0.0
+			],
+			"scl": [
+				1.000000238418579,
+				0.9999996423721313,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				16.93444061279297,
+				0.30000001192092896,
+				10.294121742248535
+			],
+			"rot": [
+				-0.0,
+				45.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				21.678117752075195,
+				2.756356716156006,
+				10.12657642364502
+			],
+			"rot": [
+				27.923154830932617,
+				-92.29598236083984,
+				-87.44706726074219
+			],
+			"scl": [
+				2.480436325073242,
+				0.9999979734420776,
+				2.2699732780456543
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				19.538875579833984,
+				1.893109679222107,
+				8.353377342224121
+			],
+			"rot": [
+				-0.0,
+				-179.99990844726563,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.7999997138977051,
+				0.7999997138977051
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				14.870150566101074,
+				3.463045597076416,
+				10.334030151367188
+			],
+			"rot": [
+				89.99994659423828,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.480435371398926,
+				0.9999983906745911,
+				2.269974708557129
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.935680389404297,
+				0.7714347839355469,
+				10.072928428649902
+			],
+			"rot": [
+				-7.016712938353849e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		}
+	]
+}

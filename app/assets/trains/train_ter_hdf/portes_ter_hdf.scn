@@ -1,0 +1,2926 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 650000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									-0.11999999731779099
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 0
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 650000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									-0.11999999731779099
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 1
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.962480068206787,
+									-1.4716120958328247
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.949999988079071,
+									1.962480068206787,
+									-1.4716120958328247
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 2
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									-1.4716119766235352
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-0.949999988079071,
+									1.9624799489974976,
+									-1.4716119766235352
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 3
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 3350000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									-0.11999999731779099
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 4
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 3350000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									-0.11999999731779099
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 5
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.949999988079071,
+									1.962480068206787,
+									-1.4716120958328247
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.962480068206787,
+									-1.4716120958328247
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 6
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-0.949999988079071,
+									1.9624799489974976,
+									-1.4716119766235352
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									-1.4716119766235352
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 7
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 650000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.11999999731779099
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 8
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 650000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.11999999731779099
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 9
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									1.4706119298934937
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.949999988079071,
+									1.9624799489974976,
+									1.4706119298934937
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 10
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									1.4706124067306519
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-0.949999988079071,
+									1.9624799489974976,
+									1.4706124067306519
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 11
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 3350000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.11999999731779099
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 12
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 3350000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.11999999731779099
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 13
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-0.949999988079071,
+									1.9624799489974976,
+									1.4706124067306519
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									1.4706124067306519
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 14
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.949999988079071,
+									1.9624799489974976,
+									1.4706119298934937
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									1.4706119298934937
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 15
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									1.4706124067306519
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 16
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 17
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 18
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.962480068206787,
+									-1.4716120958328247
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 19
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									-1.4716119766235352
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 20
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 21
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									1.9624799489974976,
+									1.4706119298934937
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 22
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 23
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 50000000,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									4.046503931931511e-08,
+									0.6394907832145691,
+									-0.9756520390510559
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-8.564686460044157e-11,
+									0.6729999780654907,
+									-1.3980000019073486
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-0.0,
+									3.1415927410125732,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-0.1249414011836052,
+									3.1415927410125732,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 24
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							},
+							{
+								"t": 4000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-8.564686460044157e-11,
+									0.6729999780654907,
+									-1.3980000019073486
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-8.564686460044157e-11,
+									0.6729999780654907,
+									-0.9760000109672546
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-0.1249414011836052,
+									3.1415927410125732,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									3.1415927410125732,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 25
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 50000000,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.6389999985694885,
+									0.9760000109672546
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.6730896234512329,
+									1.3975549936294556
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-0.12494812160730362,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 26
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							},
+							{
+								"t": 4000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.6730896234512329,
+									1.3975549936294556
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.6389999985694885,
+									0.9760000109672546
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-0.12494812160730362,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 27
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.6389999985694885,
+									0.9760000109672546
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 28
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-8.564686460044157e-11,
+									0.6729999780654907,
+									-0.9760000109672546
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									3.1415927410125732,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 29
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/close_doors_4s.ogg",
+							"t": 50000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 5000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0
+			},
+			"idx": 30
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/close_doors_4s.ogg",
+							"t": 50000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 5000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 4000000000,
+				"t_start": 0
+			},
+			"idx": 31
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/open_doors_4s.ogg",
+							"t": 50000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 5000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 32
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/open_doors_4s.ogg",
+							"t": 50000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 5000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 33
+		}
+	],
+	"audio_sources": [
+		{
+			"gain": 1.0,
+			"is_stream": false,
+			"loop": false,
+			"path": ""
+		},
+		{
+			"gain": 1.0,
+			"is_stream": false,
+			"loop": false,
+			"path": ""
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "trains/train_ter_hdf/train_mobile_doorstep.scn"
+		},
+		{
+			"name": "trains/train_ter_hdf/train_mobile_doorstep.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				5,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "door_left_rear"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "slide_right_front"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "slide_left_front"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 3,
+			"name": "train_locomotive"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 4,
+			"name": "train_locomotive_interior"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"name": "door_right_front"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"name": "door_right_rear"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"name": "slide_right_rear"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"name": "door_left_front"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"name": "slide_left_rear"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 10,
+			"instance": 0,
+			"name": "train_mobile_doorstep_left"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 11,
+			"instance": 1,
+			"name": "train_mobile_doorstep_right"
+		},
+		{
+			"audio_source": 0,
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"name": "sfx_right"
+		},
+		{
+			"audio_source": 1,
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"name": "sfx_left"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER__wagon_02_pubage_BaseColor"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER__wagon_02_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/door_right_front_51.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER__wagon_02_pubage_BaseColor"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER__wagon_02_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/door_right_rear_52.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER_loco_pubage_BaseColor"
+				},
+				{
+					"name": "TER_chassis_roof_BaseColor.002"
+				},
+				{
+					"name": "glass_light"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.3544304370880127,
+								0.3544304370880127,
+								0.3544304370880127,
+								0.6481000185012817
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.13199999928474426,
+								0.5,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.27848106622695923,
+								0.27848106622695923,
+								0.27848106622695923,
+								0.7120000123977661
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "trains/train_ter_hdf/train_locomotive_50.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "Material #40"
+				},
+				{
+					"name": "stikers_Base_Color"
+				},
+				{
+					"name": "interieur_subs_05_seats_TER_BaseColor"
+				},
+				{
+					"name": "glass_inner"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_loco__BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_locor_Emissive.png",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.8143460154533386,
+								0.8143460154533386,
+								0.8143460154533386,
+								0.46000000834465027
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.07199999690055847,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER__wagon_02_pubage_BaseColor"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER__wagon_02_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/door_left_front_54.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER__wagon_02_pubage_BaseColor"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER__wagon_02_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/door_left_rear_53.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_right",
+			"node_anims": [
+				{
+					"anim": 0,
+					"node": 1
+				},
+				{
+					"anim": 1,
+					"node": 7
+				},
+				{
+					"anim": 2,
+					"node": 5
+				},
+				{
+					"anim": 3,
+					"node": 6
+				},
+				{
+					"anim": 24,
+					"node": 11
+				},
+				{
+					"anim": 32,
+					"node": 14
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "close_right",
+			"node_anims": [
+				{
+					"anim": 4,
+					"node": 1
+				},
+				{
+					"anim": 5,
+					"node": 7
+				},
+				{
+					"anim": 6,
+					"node": 5
+				},
+				{
+					"anim": 7,
+					"node": 6
+				},
+				{
+					"anim": 25,
+					"node": 11
+				},
+				{
+					"anim": 30,
+					"node": 14
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_left",
+			"node_anims": [
+				{
+					"anim": 8,
+					"node": 2
+				},
+				{
+					"anim": 9,
+					"node": 9
+				},
+				{
+					"anim": 11,
+					"node": 0
+				},
+				{
+					"anim": 10,
+					"node": 8
+				},
+				{
+					"anim": 26,
+					"node": 10
+				},
+				{
+					"anim": 33,
+					"node": 14
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "close_left",
+			"node_anims": [
+				{
+					"anim": 12,
+					"node": 2
+				},
+				{
+					"anim": 13,
+					"node": 9
+				},
+				{
+					"anim": 14,
+					"node": 0
+				},
+				{
+					"anim": 15,
+					"node": 8
+				},
+				{
+					"anim": 27,
+					"node": 10
+				},
+				{
+					"anim": 31,
+					"node": 14
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "all_closed",
+			"node_anims": [
+				{
+					"anim": 16,
+					"node": 0
+				},
+				{
+					"anim": 17,
+					"node": 1
+				},
+				{
+					"anim": 18,
+					"node": 2
+				},
+				{
+					"anim": 19,
+					"node": 5
+				},
+				{
+					"anim": 20,
+					"node": 6
+				},
+				{
+					"anim": 21,
+					"node": 7
+				},
+				{
+					"anim": 22,
+					"node": 8
+				},
+				{
+					"anim": 23,
+					"node": 9
+				},
+				{
+					"anim": 28,
+					"node": 10
+				},
+				{
+					"anim": 29,
+					"node": 11
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": 1,
+			"pos": [
+				0.0,
+				1.962480068206787,
+				-1.4716120958328247
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 7,
+			"pos": [
+				0.0,
+				1.9624799489974976,
+				-1.4716119766235352
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.9607608318328857,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 3,
+			"pos": [
+				-1.4592914581298828,
+				2.018068552017212,
+				0.01175404991954565
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				0.0,
+				1.9624799489974976,
+				1.4706119298934937
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				0.0,
+				1.9624799489974976,
+				1.4706124067306519
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.6389999985694885,
+				0.9760000109672546
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999998211860657,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.046503931931511e-08,
+				0.6394907832145691,
+				-0.9756520390510559
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999992251396179,
+				0.9999987483024597
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				2.5,
+				-1.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				2.5,
+				1.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		}
+	]
+}

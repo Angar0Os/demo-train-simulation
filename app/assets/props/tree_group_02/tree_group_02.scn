@@ -1,0 +1,3832 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_03/tree_long_03.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_03/tree_long_03.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_03/tree_long_03.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_03/tree_long_03.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_02/tree_long_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_02/tree_large_02.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_large/tree_large_01/tree_large_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_2/spruce_2_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_2/spruce_2_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_2/spruce_2_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_2/spruce_2_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_1/spruce_1_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_2/spruce_2_lod0.scn"
+		},
+		{
+			"name": "props/forest_pack_000/Spruce_8/spruce_8_lod2.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		},
+		{
+			"name": "props/tree_long/tree_long_01/tree_long_01.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 5,
+			"name": "tree_long_03"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 1,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 25,
+			"name": "tree_long_03"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 2,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 0,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 3,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 6,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 7,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 4,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 24,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 8,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 10,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"instance": 11,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 9,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 13,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 12,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 14,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 16,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 17,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 15,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"instance": 18,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"instance": 20,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"instance": 21,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"instance": 19,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				107,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 46,
+			"instance": 22,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 66,
+			"name": "tree_long_03"
+		},
+		{
+			"components": [
+				108,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 48,
+			"instance": 109,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
+			"instance": 23,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"instance": 26,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"instance": 27,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 28,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 53,
+			"instance": 30,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 31,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 55,
+			"instance": 29,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 33,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 57,
+			"instance": 32,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 58,
+			"instance": 34,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 59,
+			"instance": 36,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 60,
+			"instance": 37,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 61,
+			"instance": 35,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				40,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 62,
+			"instance": 38,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 63,
+			"instance": 40,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 64,
+			"instance": 41,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 65,
+			"instance": 39,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 69,
+			"instance": 45,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				76,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 88,
+			"instance": 82,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 89,
+			"instance": 46,
+			"name": "tree_long_03"
+		},
+		{
+			"components": [
+				78,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 90,
+			"instance": 80,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				109,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 91,
+			"instance": 42,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 92,
+			"instance": 43,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				110,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 93,
+			"instance": 110,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 94,
+			"instance": 44,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 95,
+			"instance": 47,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 96,
+			"instance": 48,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 97,
+			"instance": 49,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 98,
+			"instance": 51,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 99,
+			"instance": 52,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 100,
+			"instance": 50,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 101,
+			"instance": 54,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 102,
+			"instance": 53,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 103,
+			"instance": 55,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 104,
+			"instance": 57,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 105,
+			"instance": 58,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 106,
+			"instance": 56,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 107,
+			"instance": 59,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 108,
+			"instance": 61,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 109,
+			"instance": 62,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 110,
+			"instance": 60,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				80,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 111,
+			"instance": 63,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				81,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 112,
+			"instance": 83,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 113,
+			"instance": 64,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 114,
+			"instance": 67,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 115,
+			"instance": 68,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				69,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 116,
+			"instance": 69,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 117,
+			"instance": 71,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 118,
+			"instance": 72,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 119,
+			"instance": 70,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				71,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 120,
+			"instance": 74,
+			"name": "tree_long_02"
+		},
+		{
+			"components": [
+				70,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 121,
+			"instance": 73,
+			"name": "tree_long_01"
+		},
+		{
+			"components": [
+				75,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 122,
+			"instance": 75,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				73,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 123,
+			"instance": 77,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				72,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 124,
+			"instance": 78,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				74,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 125,
+			"instance": 76,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				79,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 126,
+			"instance": 79,
+			"name": "tree_large_02"
+		},
+		{
+			"components": [
+				77,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 127,
+			"instance": 81,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 128,
+			"instance": 65,
+			"name": "tree_large_01"
+		},
+		{
+			"components": [
+				104,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 172,
+			"instance": 102,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				86,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 173,
+			"instance": 86,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				84,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 174,
+			"instance": 107,
+			"name": "spruce_2_lod0"
+		},
+		{
+			"components": [
+				82,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 175,
+			"instance": 84,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				85,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 176,
+			"instance": 106,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				95,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 177,
+			"instance": 105,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				83,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 178,
+			"instance": 108,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				105,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 179,
+			"instance": 101,
+			"name": "spruce_1_lod0"
+		},
+		{
+			"components": [
+				87,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 180,
+			"instance": 85,
+			"name": "spruce_2_lod0"
+		},
+		{
+			"components": [
+				91,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 181,
+			"instance": 90,
+			"name": "spruce_2_lod0"
+		},
+		{
+			"components": [
+				88,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 182,
+			"instance": 87,
+			"name": "spruce_1_lod0"
+		},
+		{
+			"components": [
+				89,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 183,
+			"instance": 92,
+			"name": "spruce_2_lod0"
+		},
+		{
+			"components": [
+				90,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 184,
+			"instance": 91,
+			"name": "spruce_1_lod0"
+		},
+		{
+			"components": [
+				93,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 185,
+			"instance": 89,
+			"name": "spruce_1_lod0"
+		},
+		{
+			"components": [
+				96,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 186,
+			"instance": 104,
+			"name": "spruce_1_lod0"
+		},
+		{
+			"components": [
+				92,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 187,
+			"instance": 88,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				102,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 188,
+			"instance": 98,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				94,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 189,
+			"instance": 93,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				103,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 190,
+			"instance": 103,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				101,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 191,
+			"instance": 99,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				106,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 192,
+			"instance": 100,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				98,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 193,
+			"instance": 94,
+			"name": "spruce_1_lod0"
+		},
+		{
+			"components": [
+				100,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 194,
+			"instance": 97,
+			"name": "spruce_8_lod2"
+		},
+		{
+			"components": [
+				99,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 195,
+			"instance": 96,
+			"name": "spruce_2_lod0"
+		},
+		{
+			"components": [
+				97,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 196,
+			"instance": 95,
+			"name": "spruce_1_lod0"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-40.70246887207031,
+				-1.9073486328125e-06,
+				-9.338186264038086
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.6999998092651367,
+				0.6999998092651367,
+				0.6999998092651367
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-25.288301467895508,
+				-0.32911503314971924,
+				-6.192371368408203
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.6999989151954651,
+				0.6999996900558472,
+				0.6999989151954651
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-16.033432006835938,
+				-7.62939453125e-06,
+				1.1661243438720703
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.7499995827674866,
+				0.7499998211860657,
+				0.7499995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-33.211517333984375,
+				0.1128324568271637,
+				-9.574569702148438
+			],
+			"rot": [
+				-0.0,
+				162.72341918945313,
+				0.0
+			],
+			"scl": [
+				1.2999992370605469,
+				1.299999475479126,
+				1.2999991178512573
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-28.393085479736328,
+				0.5767910480499268,
+				-16.855966567993164
+			],
+			"rot": [
+				-0.0,
+				135.7139892578125,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999998211860657,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.9503021240234375,
+				0.0,
+				2.4142589569091797
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-34.85090637207031,
+				0.1128324568271637,
+				-17.925174713134766
+			],
+			"rot": [
+				-0.0,
+				-71.09762573242188,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.399999976158142,
+				1.1999995708465576
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-45.4318962097168,
+				1.9073486328125e-06,
+				-16.310558319091797
+			],
+			"rot": [
+				-0.0,
+				-170.44723510742188,
+				0.0
+			],
+			"scl": [
+				1.4798061847686768,
+				1.479805827140808,
+				1.4799995422363281
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-52.89301300048828,
+				0.1128324568271637,
+				-13.640907287597656
+			],
+			"rot": [
+				-0.0,
+				50.00292205810547,
+				0.0
+			],
+			"scl": [
+				1.5,
+				1.5599998235702515,
+				1.4999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-41.65731430053711,
+				0.5767910480499268,
+				-19.414037704467773
+			],
+			"rot": [
+				-0.0,
+				135.7139892578125,
+				0.0
+			],
+			"scl": [
+				1.0,
+				0.9999997019767761,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-25.6927433013916,
+				0.1128324568271637,
+				0.30628395080566406
+			],
+			"rot": [
+				-0.0,
+				-71.09762573242188,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.199999451637268,
+				1.1999995708465576
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-47.25408935546875,
+				-9.5367431640625e-07,
+				-21.66168975830078
+			],
+			"rot": [
+				-0.0,
+				61.06875228881836,
+				0.0
+			],
+			"scl": [
+				1.2999999523162842,
+				1.299999475479126,
+				1.2999995946884155
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.81500244140625,
+				-1.9073486328125e-06,
+				-3.215940475463867
+			],
+			"rot": [
+				0.0,
+				-159.3220977783203,
+				0.0
+			],
+			"scl": [
+				0.6999996900558472,
+				0.6999995708465576,
+				0.6999995708465576
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-23.328826904296875,
+				-0.32911503314971924,
+				-15.228665351867676
+			],
+			"rot": [
+				-0.0,
+				-69.32210540771484,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				0.8999999761581421,
+				0.8999999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-14.721721649169922,
+				0.1128324568271637,
+				-14.862142562866211
+			],
+			"rot": [
+				-0.0,
+				60.20386505126953,
+				0.0
+			],
+			"scl": [
+				1.2999989986419678,
+				1.5999999046325684,
+				1.2999987602233887
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-16.65859031677246,
+				0.5767910480499268,
+				-6.3483567237854
+			],
+			"rot": [
+				-0.0,
+				-23.608112335205078,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999996423721313,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-10.239228248596191,
+				0.1128324568271637,
+				-7.6283721923828125
+			],
+			"rot": [
+				-0.0,
+				129.5802459716797,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.1999990940093994,
+				1.1999993324279785
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-3.3677282333374023,
+				1.9073486328125e-06,
+				-15.023344039916992
+			],
+			"rot": [
+				-0.0,
+				30.230640411376953,
+				0.0
+			],
+			"scl": [
+				1.5,
+				1.5,
+				1.5199999809265137
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				3.3411951065063477,
+				0.1128324568271637,
+				-17.33325958251953
+			],
+			"rot": [
+				0.0,
+				-109.31918334960938,
+				0.0
+			],
+			"scl": [
+				1.4999998807907104,
+				1.5599995851516724,
+				1.4999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-3.345548391342163,
+				0.5767910480499268,
+				-8.638856887817383
+			],
+			"rot": [
+				-0.0,
+				-110.20274353027344,
+				0.0
+			],
+			"scl": [
+				1.000000238418579,
+				0.999999463558197,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-25.24520492553711,
+				0.1128324568271637,
+				-21.451492309570313
+			],
+			"rot": [
+				-0.0,
+				129.5802459716797,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.1999990940093994,
+				1.1999993324279785
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.6843621730804443,
+				-9.5367431640625e-07,
+				-8.512295722961426
+			],
+			"rot": [
+				-0.0,
+				-62.995323181152344,
+				0.0
+			],
+			"scl": [
+				1.3000000715255737,
+				1.2999988794326782,
+				1.2999991178512573
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-59.57354736328125,
+				0.11284008622169495,
+				0.6323070526123047
+			],
+			"rot": [
+				-0.0,
+				-52.80171203613281,
+				0.0
+			],
+			"scl": [
+				1.2999992370605469,
+				1.2999987602233887,
+				1.2999985218048096
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-67.72601318359375,
+				0.576798677444458,
+				3.758544921875
+			],
+			"rot": [
+				-0.0,
+				177.4906005859375,
+				0.0
+			],
+			"scl": [
+				1.000000238418579,
+				0.9999994039535522,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-81.1650161743164,
+				-7.62939453125e-06,
+				-11.209325790405273
+			],
+			"rot": [
+				-0.0,
+				144.474853515625,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-63.09151840209961,
+				0.11284008622169495,
+				8.381120681762695
+			],
+			"rot": [
+				-0.0,
+				73.37724304199219,
+				0.0
+			],
+			"scl": [
+				1.199999451637268,
+				1.3999992609024048,
+				1.1999990940093994
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-53.54188537597656,
+				9.5367431640625e-06,
+				13.215234756469727
+			],
+			"rot": [
+				-0.0,
+				-25.97237777709961,
+				0.0
+			],
+			"scl": [
+				1.4798061847686768,
+				1.4798051118850708,
+				1.4799989461898804
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-47.47249221801758,
+				0.11284008622169495,
+				14.268278121948242
+			],
+			"rot": [
+				0.0,
+				-165.52220153808594,
+				0.0
+			],
+			"scl": [
+				1.4999998807907104,
+				1.5599992275238037,
+				1.4999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-58.41717529296875,
+				0.576798677444458,
+				13.547773361206055
+			],
+			"rot": [
+				-0.0,
+				-79.8111343383789,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999993443489075,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-59.951416015625,
+				0.11284008622169495,
+				-11.778194427490234
+			],
+			"rot": [
+				-0.0,
+				73.37724304199219,
+				0.0
+			],
+			"scl": [
+				1.199999451637268,
+				1.1999987363815308,
+				1.1999990940093994
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-55.16820526123047,
+				6.67572021484375e-06,
+				18.629117965698242
+			],
+			"rot": [
+				0.0,
+				-154.4563751220703,
+				0.0
+			],
+			"scl": [
+				1.3000000715255737,
+				1.2999987602233887,
+				1.2999991178512573
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-90.41130828857422,
+				5.7220458984375e-06,
+				-7.131336212158203
+			],
+			"rot": [
+				-0.0,
+				-14.84724235534668,
+				0.0
+			],
+			"scl": [
+				0.6999996900558472,
+				0.6999990940093994,
+				0.6999993920326233
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-70.90205383300781,
+				-0.329107403755188,
+				-0.5084857940673828
+			],
+			"rot": [
+				-0.0,
+				75.15276336669922,
+				0.0
+			],
+			"scl": [
+				0.6999988555908203,
+				0.6999991536140442,
+				0.6999986171722412
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-77.69406127929688,
+				0.11284008622169495,
+				-5.808036804199219
+			],
+			"rot": [
+				-0.0,
+				13.194942474365234,
+				0.0
+			],
+			"scl": [
+				1.2999991178512573,
+				1.599999189376831,
+				1.29999840259552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-71.17070007324219,
+				0.576798677444458,
+				-11.611628532409668
+			],
+			"rot": [
+				-0.0,
+				104.6350326538086,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999992251396179,
+				0.999998927116394
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-77.13892364501953,
+				0.11284008622169495,
+				-14.299907684326172
+			],
+			"rot": [
+				-0.0,
+				173.9402313232422,
+				0.0
+			],
+			"scl": [
+				1.1999998092651367,
+				1.1999982595443726,
+				1.1999986171722412
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-87.02830505371094,
+				9.5367431640625e-06,
+				-12.274190902709961
+			],
+			"rot": [
+				-0.0,
+				174.7054901123047,
+				0.0
+			],
+			"scl": [
+				1.4798057079315186,
+				1.4798046350479126,
+				1.4799977540969849
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-93.83061981201172,
+				0.11284008622169495,
+				-14.292522430419922
+			],
+			"rot": [
+				-0.0,
+				35.15567398071289,
+				0.0
+			],
+			"scl": [
+				1.5,
+				1.559998869895935,
+				1.4999988079071045
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-83.33658599853516,
+				0.576798677444458,
+				-17.48316192626953
+			],
+			"rot": [
+				-0.0,
+				-161.99766540527344,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999991059303284,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-72.95823669433594,
+				0.11284008622169495,
+				5.669553756713867
+			],
+			"rot": [
+				-0.0,
+				-85.94488525390625,
+				0.0
+			],
+			"scl": [
+				1.1999996900558472,
+				1.199998378753662,
+				1.1999986171722412
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-88.17056274414063,
+				6.67572021484375e-06,
+				-21.089908599853516
+			],
+			"rot": [
+				-0.0,
+				46.22150802612305,
+				0.0
+			],
+			"scl": [
+				1.3000000715255737,
+				1.29999840259552,
+				1.2999987602233887
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.2791614532470703,
+				-7.62939453125e-06,
+				35.86443328857422
+			],
+			"rot": [
+				0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.7499995231628418,
+				0.7499997615814209,
+				0.7499995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-17.457246780395508,
+				0.1128324568271637,
+				25.123741149902344
+			],
+			"rot": [
+				-0.0,
+				162.72341918945313,
+				0.0
+			],
+			"scl": [
+				1.2999992370605469,
+				1.2999993562698364,
+				1.2999989986419678
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.638814926147461,
+				0.5767910480499268,
+				17.842344284057617
+			],
+			"rot": [
+				-0.0,
+				135.7139892578125,
+				0.0
+			],
+			"scl": [
+				1.0,
+				0.9999997615814209,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				22.704572677612305,
+				0.0,
+				37.112571716308594
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-19.096635818481445,
+				0.1128324568271637,
+				16.773136138916016
+			],
+			"rot": [
+				-0.0,
+				-71.09762573242188,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.3999998569488525,
+				1.1999995708465576
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-29.67762565612793,
+				1.9073486328125e-06,
+				18.387752532958984
+			],
+			"rot": [
+				0.0,
+				-170.44723510742188,
+				0.0
+			],
+			"scl": [
+				1.4798061847686768,
+				1.4798057079315186,
+				1.4799994230270386
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-37.13874053955078,
+				0.1128324568271637,
+				21.057403564453125
+			],
+			"rot": [
+				-0.0,
+				50.00292205810547,
+				0.0
+			],
+			"scl": [
+				1.4999998807907104,
+				1.559999704360962,
+				1.499999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-25.903043746948242,
+				0.5767910480499268,
+				15.284273147583008
+			],
+			"rot": [
+				-0.0,
+				135.7139892578125,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999996423721313,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-9.938472747802734,
+				0.1128324568271637,
+				35.00459289550781
+			],
+			"rot": [
+				-0.0,
+				-71.09762573242188,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.1999993324279785,
+				1.1999995708465576
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-31.499818801879883,
+				-9.5367431640625e-07,
+				13.03662109375
+			],
+			"rot": [
+				-0.0,
+				61.06875228881836,
+				0.0
+			],
+			"scl": [
+				1.2999999523162842,
+				1.2999993562698364,
+				1.299999475479126
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				9.939268112182617,
+				-1.9073486328125e-06,
+				31.482370376586914
+			],
+			"rot": [
+				0.0,
+				-159.3220977783203,
+				0.0
+			],
+			"scl": [
+				0.6999996900558472,
+				0.6999995112419128,
+				0.6999995112419128
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.574556350708008,
+				-0.32911503314971924,
+				19.469646453857422
+			],
+			"rot": [
+				-0.0,
+				-69.32210540771484,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				0.8999999165534973,
+				0.8999999165534973
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.0325489044189453,
+				0.1128324568271637,
+				19.83616828918457
+			],
+			"rot": [
+				-0.0,
+				60.203857421875,
+				0.0
+			],
+			"scl": [
+				1.2999989986419678,
+				1.5999997854232788,
+				1.2999986410140991
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.9043197631835938,
+				0.5767910480499268,
+				28.34995460510254
+			],
+			"rot": [
+				-0.0,
+				-23.608112335205078,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999995827674866,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.515042304992676,
+				0.1128324568271637,
+				27.06993865966797
+			],
+			"rot": [
+				-0.0,
+				129.5802459716797,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.1999989748001099,
+				1.1999990940093994
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				12.386542320251465,
+				1.9073486328125e-06,
+				19.67496681213379
+			],
+			"rot": [
+				-0.0,
+				30.230640411376953,
+				0.0
+			],
+			"scl": [
+				1.5,
+				1.4999998807907104,
+				1.5199998617172241
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				19.09546661376953,
+				0.1128324568271637,
+				17.36505126953125
+			],
+			"rot": [
+				0.0,
+				-109.31918334960938,
+				0.0
+			],
+			"scl": [
+				1.4999998807907104,
+				1.5599994659423828,
+				1.4999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				12.408721923828125,
+				0.5767910480499268,
+				26.0594539642334
+			],
+			"rot": [
+				0.0,
+				-110.20274353027344,
+				0.0
+			],
+			"scl": [
+				1.000000238418579,
+				0.9999994039535522,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-9.490934371948242,
+				0.1128324568271637,
+				13.246818542480469
+			],
+			"rot": [
+				-0.0,
+				129.5802459716797,
+				0.0
+			],
+			"scl": [
+				1.1999995708465576,
+				1.1999989748001099,
+				1.1999990940093994
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.43863296508789,
+				-9.5367431640625e-07,
+				26.186016082763672
+			],
+			"rot": [
+				-0.0,
+				-62.995323181152344,
+				0.0
+			],
+			"scl": [
+				1.3000000715255737,
+				1.2999987602233887,
+				1.2999991178512573
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-43.81927490234375,
+				0.11284008622169495,
+				35.33061981201172
+			],
+			"rot": [
+				-0.0,
+				-52.80171203613281,
+				0.0
+			],
+			"scl": [
+				1.2999993562698364,
+				1.2999986410140991,
+				1.29999840259552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-51.97174072265625,
+				0.576798677444458,
+				38.45685577392578
+			],
+			"rot": [
+				-0.0,
+				177.4906005859375,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999993443489075,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-65.4107437133789,
+				-7.62939453125e-06,
+				23.488985061645508
+			],
+			"rot": [
+				-0.0,
+				144.474853515625,
+				0.0
+			],
+			"scl": [
+				1.0,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-47.337249755859375,
+				0.11284008622169495,
+				43.079429626464844
+			],
+			"rot": [
+				-0.0,
+				73.37724304199219,
+				0.0
+			],
+			"scl": [
+				1.199999451637268,
+				1.3999991416931152,
+				1.1999989748001099
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-37.78761291503906,
+				9.5367431640625e-06,
+				47.913543701171875
+			],
+			"rot": [
+				-0.0,
+				-25.97237777709961,
+				0.0
+			],
+			"scl": [
+				1.4798061847686768,
+				1.4798049926757813,
+				1.4799988269805908
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-31.71822166442871,
+				0.11284008622169495,
+				48.966590881347656
+			],
+			"rot": [
+				0.0,
+				-165.52220153808594,
+				0.0
+			],
+			"scl": [
+				1.4999998807907104,
+				1.5599991083145142,
+				1.499998927116394
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-42.66290283203125,
+				0.576798677444458,
+				48.24608612060547
+			],
+			"rot": [
+				-0.0,
+				-79.8111343383789,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999992847442627,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-44.1971435546875,
+				0.11284008622169495,
+				22.920116424560547
+			],
+			"rot": [
+				-0.0,
+				73.37724304199219,
+				0.0
+			],
+			"scl": [
+				1.199999451637268,
+				1.1999986171722412,
+				1.1999989748001099
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-39.41393280029297,
+				6.67572021484375e-06,
+				53.327430725097656
+			],
+			"rot": [
+				0.0,
+				-154.4563751220703,
+				0.0
+			],
+			"scl": [
+				1.3000000715255737,
+				1.2999986410140991,
+				1.2999989986419678
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-74.65703582763672,
+				5.7220458984375e-06,
+				27.566974639892578
+			],
+			"rot": [
+				-0.0,
+				-14.84724235534668,
+				0.0
+			],
+			"scl": [
+				0.6999996900558472,
+				0.6999990344047546,
+				0.6999993920326233
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-55.14778137207031,
+				-0.329107403755188,
+				34.18982696533203
+			],
+			"rot": [
+				-0.0,
+				75.15276336669922,
+				0.0
+			],
+			"scl": [
+				0.6999988555908203,
+				0.6999990940093994,
+				0.6999985575675964
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-61.939788818359375,
+				0.11284008622169495,
+				28.890274047851563
+			],
+			"rot": [
+				-0.0,
+				13.194942474365234,
+				0.0
+			],
+			"scl": [
+				1.2999989986419678,
+				1.5999990701675415,
+				1.2999982833862305
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-55.41642761230469,
+				0.576798677444458,
+				23.086681365966797
+			],
+			"rot": [
+				-0.0,
+				104.6350326538086,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999991655349731,
+				0.9999988079071045
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-61.38465118408203,
+				0.11284008622169495,
+				20.39840316772461
+			],
+			"rot": [
+				-0.0,
+				173.9402313232422,
+				0.0
+			],
+			"scl": [
+				1.1999996900558472,
+				1.199998140335083,
+				1.1999984979629517
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-71.27403259277344,
+				9.5367431640625e-06,
+				22.42411994934082
+			],
+			"rot": [
+				-0.0,
+				174.7054901123047,
+				0.0
+			],
+			"scl": [
+				1.4798057079315186,
+				1.479804515838623,
+				1.4799977540969849
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-78.07634735107422,
+				0.11284008622169495,
+				20.40578842163086
+			],
+			"rot": [
+				-0.0,
+				35.155670166015625,
+				0.0
+			],
+			"scl": [
+				1.5,
+				1.5599987506866455,
+				1.499998688697815
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-67.58231353759766,
+				0.576798677444458,
+				17.21514892578125
+			],
+			"rot": [
+				0.0,
+				-161.99766540527344,
+				0.0
+			],
+			"scl": [
+				1.0000001192092896,
+				0.9999990463256836,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-57.20396423339844,
+				0.11284008622169495,
+				40.36786651611328
+			],
+			"rot": [
+				-0.0,
+				-85.94488525390625,
+				0.0
+			],
+			"scl": [
+				1.1999996900558472,
+				1.1999982595443726,
+				1.1999984979629517
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-72.41629028320313,
+				6.67572021484375e-06,
+				13.608402252197266
+			],
+			"rot": [
+				-0.0,
+				46.22150802612305,
+				0.0
+			],
+			"scl": [
+				1.3000000715255737,
+				1.2999982833862305,
+				1.2999986410140991
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-48.30241394042969,
+				-0.329107403755188,
+				27.974109649658203
+			],
+			"rot": [
+				0.0,
+				-125.52511596679688,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				0.8999999165534973,
+				0.9599998593330383
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-37.58534240722656,
+				5.7220458984375e-06,
+				39.49092483520508
+			],
+			"rot": [
+				-0.0,
+				144.47483825683594,
+				0.0
+			],
+			"scl": [
+				0.6999996304512024,
+				0.6999993920326233,
+				0.6999993324279785
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-24.525930404663086,
+				0.30000001192092896,
+				-3.1992149353027344
+			],
+			"rot": [
+				-0.0,
+				16.398712158203125,
+				0.0
+			],
+			"scl": [
+				2.1999995708465576,
+				2.1999993324279785,
+				2.1999995708465576
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-60.70738983154297,
+				0.48942309617996216,
+				1.3360919952392578
+			],
+			"rot": [
+				-0.0,
+				127.00125122070313,
+				0.0
+			],
+			"scl": [
+				1.7999992370605469,
+				1.7999988794326782,
+				1.799998164176941
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-37.96886444091797,
+				0.0,
+				4.0399169921875
+			],
+			"rot": [
+				0.0,
+				-96.28877258300781,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.999999463558197,
+				0.9999988675117493
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-33.10932922363281,
+				0.26275354623794556,
+				-0.4466056823730469
+			],
+			"rot": [
+				-0.0,
+				103.5479965209961,
+				0.0
+			],
+			"scl": [
+				2.199998617172241,
+				2.1999969482421875,
+				2.1999974250793457
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-6.8476972579956055,
+				0.30000001192092896,
+				-4.825989246368408
+			],
+			"rot": [
+				-0.0,
+				16.0087833404541,
+				0.0
+			],
+			"scl": [
+				2.199998378753662,
+				2.1999974250793457,
+				2.199997663497925
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-19.443836212158203,
+				0.0,
+				-3.7962334156036377
+			],
+			"rot": [
+				-0.0,
+				87.1977767944336,
+				0.0
+			],
+			"scl": [
+				0.9999991655349731,
+				0.9999992847442627,
+				0.9999985098838806
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.149553298950195,
+				0.0,
+				9.07522201538086
+			],
+			"rot": [
+				0.0,
+				-166.92042541503906,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.999999463558197,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-8.386957168579102,
+				0.0,
+				21.208290100097656
+			],
+			"rot": [
+				0.0,
+				-96.28877258300781,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999994039535522,
+				0.9999987483024597
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-16.95375633239746,
+				0.4227546453475952,
+				16.106426239013672
+			],
+			"rot": [
+				-0.0,
+				67.610107421875,
+				0.0
+			],
+			"scl": [
+				0.8999999165534973,
+				0.9599996209144592,
+				0.9599995017051697
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				32.8868293762207,
+				0.0,
+				19.73992156982422
+			],
+			"rot": [
+				0.0,
+				-96.96682739257813,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999994039535522,
+				0.9999986886978149
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.686405181884766,
+				0.26275354623794556,
+				7.54154109954834
+			],
+			"rot": [
+				-0.0,
+				-72.9654312133789,
+				0.0
+			],
+			"scl": [
+				2.199998617172241,
+				2.199995756149292,
+				2.1999969482421875
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				3.95037841796875,
+				0.0,
+				19.525699615478516
+			],
+			"rot": [
+				0.0,
+				-167.31036376953125,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999989867210388,
+				0.9999983906745911
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-89.7088623046875,
+				0.4894269108772278,
+				7.788212776184082
+			],
+			"rot": [
+				-0.0,
+				126.5701904296875,
+				0.0
+			],
+			"scl": [
+				1.7999995946884155,
+				1.7999989986419678,
+				1.79999840259552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-107.905029296875,
+				0.30000001192092896,
+				14.286897659301758
+			],
+			"rot": [
+				0.0,
+				-167.47776794433594,
+				0.0
+			],
+			"scl": [
+				2.199998617172241,
+				2.199998140335083,
+				2.199998378753662
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-98.0537109375,
+				0.0,
+				19.85959243774414
+			],
+			"rot": [
+				-0.0,
+				9.203065872192383,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.7999999523162842,
+				0.7999999523162842
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-49.94389343261719,
+				0.0,
+				19.589628219604492
+			],
+			"rot": [
+				-0.0,
+				69.3141860961914,
+				0.0
+			],
+			"scl": [
+				0.7999995350837708,
+				0.7999992966651917,
+				0.7999989986419678
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-82.89742279052734,
+				0.0,
+				24.15245246887207
+			],
+			"rot": [
+				0.0,
+				-167.31036376953125,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999989867210388,
+				0.9999983906745911
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-42.84035110473633,
+				0.0,
+				31.311962127685547
+			],
+			"rot": [
+				0.0,
+				-96.57691192626953,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999997615814209,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-43.83013916015625,
+				0.48942309617996216,
+				24.9854679107666
+			],
+			"rot": [
+				-0.0,
+				-49.12223815917969,
+				0.0
+			],
+			"scl": [
+				1.799999713897705,
+				1.7999992370605469,
+				1.7999991178512573
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-60.126953125,
+				0.4894269108772278,
+				24.956584930419922
+			],
+			"rot": [
+				-0.0,
+				126.5701904296875,
+				0.0
+			],
+			"scl": [
+				1.7999995946884155,
+				1.7999988794326782,
+				1.799998164176941
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-70.1770248413086,
+				0.26275354623794556,
+				29.90393829345703
+			],
+			"rot": [
+				-0.0,
+				-72.57550048828125,
+				0.0
+			],
+			"scl": [
+				2.199998378753662,
+				2.1999974250793457,
+				2.199997901916504
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-88.39137268066406,
+				0.48942309617996216,
+				40.299591064453125
+			],
+			"rot": [
+				-0.0,
+				127.00125122070313,
+				0.0
+			],
+			"scl": [
+				1.7999989986419678,
+				1.7999986410140991,
+				1.7999975681304932
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-71.15486145019531,
+				0.4894269108772278,
+				42.77348327636719
+			],
+			"rot": [
+				-0.0,
+				-57.30629348754883,
+				0.0
+			],
+			"scl": [
+				1.799999713897705,
+				1.79999840259552,
+				1.7999975681304932
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-30.62626838684082,
+				0.4227546453475952,
+				37.12810516357422
+			],
+			"rot": [
+				-0.0,
+				120.67288970947266,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999993443489075,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-41.622005462646484,
+				0.4894269108772278,
+				35.062171936035156
+			],
+			"rot": [
+				-0.0,
+				126.18025207519531,
+				0.0
+			],
+			"scl": [
+				1.8000001907348633,
+				1.7999980449676514,
+				1.7999976873397827
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-63.86958694458008,
+				-0.329107403755188,
+				-6.904912948608398
+			],
+			"rot": [
+				0.0,
+				-125.52511596679688,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				0.8999999165534973,
+				0.9599998593330383
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-53.33961486816406,
+				5.7220458984375e-06,
+				4.7926130294799805
+			],
+			"rot": [
+				-0.0,
+				144.47483825683594,
+				0.0
+			],
+			"scl": [
+				0.6999996304512024,
+				0.6999994516372681,
+				0.6999993920326233
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-9.53403091430664,
+				-0.32911503314971924,
+				28.505939483642578
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.6999988555908203,
+				0.6999996304512024,
+				0.6999988555908203
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-24.948198318481445,
+				-1.9073486328125e-06,
+				25.360124588012695
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.6999997496604919,
+				0.6999997496604919,
+				0.6999997496604919
+			]
+		}
+	]
+}

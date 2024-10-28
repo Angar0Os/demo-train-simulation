@@ -1,0 +1,7332 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 136
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 137
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 138
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 139
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 140
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 141
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 142
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 143
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 144
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 145
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 146
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "open_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 147
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 148
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 149
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 150
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_right",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 151
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 152
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 153
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 154
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "close_left",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 155
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "all_closed",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 156
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "all_closed",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 157
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "all_closed",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 158
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance_anim": {
+					"keys": [
+						{
+							"loop": "none",
+							"name": "all_closed",
+							"scale": 1.0,
+							"t": 0
+						}
+					]
+				},
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 159
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 160
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 161
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 162
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 163
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 164
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 30000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-600.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									600.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 165
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-400.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 20000000000,
+								"tension": 0.0,
+								"v": [
+									400.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 166
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 29000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 167
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 168
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 2000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 28000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 169
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 3000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 27000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 170
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 171
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 172
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 173
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 29500000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 174
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 4000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 16000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 175
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 2000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 18000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 176
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 3000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 17000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 177
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 19000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 178
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 179
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 180
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 181
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 182
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-200.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 10000000000,
+								"tension": 0.0,
+								"v": [
+									200.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 183
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 350000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9650000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 184
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 650000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9350000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 185
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 186
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 150000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9850000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 187
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 30000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									600.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									-600.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 188
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 29000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 189
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 2000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 28000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 190
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 3000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 27000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 191
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 29500000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 192
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									400.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 20000000000,
+								"tension": 0.0,
+								"v": [
+									-400.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 193
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 4000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 16000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 194
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 2000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 18000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 195
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 3000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 17000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 196
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 19000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0
+			},
+			"idx": 197
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									200.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 10000000000,
+								"tension": 0.0,
+								"v": [
+									-200.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 198
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 350000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9650000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 199
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 650000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9350000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 200
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 201
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 150000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 9850000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0
+			},
+			"idx": 202
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 100.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000000000,
+								"tension": 0.0,
+								"v": [
+									1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 203
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_leaving.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 5900000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 204
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 205
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 206
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 207
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 100.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000000000,
+								"tension": 0.0,
+								"v": [
+									-1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 208
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_leaving.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 5900000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 209
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 210
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 211
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 212
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 213
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 214
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-400.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 215
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-270.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 20000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 216
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-130.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 10000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 217
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 27900000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 218
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 26000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 219
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 26000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 220
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 26000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 221
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 18000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 222
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 223
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 224
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 225
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 8000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 226
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 227
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 228
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 229
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									400.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 230
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 27900000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 231
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 26000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 232
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 26000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 233
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 26000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 234
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 20000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									270.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 20000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 235
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 18000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 236
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 237
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 238
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 20000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 239
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 10000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									130.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 10000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 240
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 500000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 8000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 241
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 242
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 243
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 244
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-400.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 245
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 57950000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 246
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 247
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 248
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 249
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 60000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									1200.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": [
+									-1200.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 250
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 2000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 58000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 251
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 4000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 252
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 54000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 253
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 59000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 254
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-800.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 255
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 57950000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 256
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 257
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 258
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_braking.ogg",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 259
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 60000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-1200.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": [
+									1200.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 260
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low.ogg",
+							"t": 2000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 58000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 261
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 4000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 56000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 262
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 6000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 54000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 263
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_high.ogg",
+							"t": 1000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 59000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 60000000000,
+				"t_start": 0
+			},
+			"idx": 264
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 100.0,
+								"t": 10000000000,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 99950000000,
+								"tension": 0.0,
+								"v": [
+									1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 265
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "sounds/trains/train_leaving.ogg",
+							"t": 10000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 16000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 100000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 266
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "sounds/trains/train_passing_low_repeat.ogg",
+							"t": 11000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 267
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 90000001024
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 268
+		},
+		{
+			"anim": {
+				"audio_source_anim": {
+					"keys": [
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 0
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": false,
+							"name": "",
+							"t": 10000000000
+						},
+						{
+							"gain": 1.0,
+							"is_stream": false,
+							"loop": true,
+							"name": "",
+							"t": 100000000000
+						}
+					]
+				},
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 269
+		}
+	],
+	"audio_sources": [
+		{
+			"gain": 1.0,
+			"is_stream": false,
+			"loop": false,
+			"path": ""
+		},
+		{
+			"gain": 1.0,
+			"is_stream": false,
+			"loop": false,
+			"path": ""
+		},
+		{
+			"gain": 1.0,
+			"is_stream": false,
+			"loop": false,
+			"path": ""
+		},
+		{
+			"gain": 1.0,
+			"is_stream": false,
+			"loop": false,
+			"path": ""
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			90,
+			90,
+			90,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"anim": "all_closed",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
+		},
+		{
+			"anim": "all_closed",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
+		},
+		{
+			"anim": "all_closed",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
+		},
+		{
+			"anim": "all_closed",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "train_wagon_long"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "train_wagon_short_interior"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "train_wagon_short"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"name": "train_locomotive_interior"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "train_locomotive"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 8,
+			"name": "doors_front"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 9,
+			"name": "doors_locomotive"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 7,
+			"name": "doors_rear"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"name": "train_wagon_long_rear"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"name": "train_locomotive_rear"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 6,
+			"name": "doors_locomotive_rear"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"name": "train_motion"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"name": "train_locomotive_interior"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"name": "root"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 5,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 4,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"instance": 3,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 2,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 1,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 0,
+			"name": "round_shadow"
+		},
+		{
+			"audio_source": 0,
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"name": "source_low"
+		},
+		{
+			"audio_source": 1,
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"name": "source_high_center"
+		},
+		{
+			"audio_source": 2,
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"name": "source_high_rear"
+		},
+		{
+			"audio_source": 3,
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"name": "source_high_front"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "MTER_wagon_01_pubage_BaseColor"
+				},
+				{
+					"name": "TER_chassis_roof_BaseColor"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_wagon_01_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_01_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.27848106622695923,
+								0.27848106622695923,
+								0.27848106622695923,
+								0.7120000123977661
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "trains/train_ter_hdf/train_wagon_long_46.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "interieur_subs_05_interior_TER_wagon_BaseColor"
+				},
+				{
+					"name": "stikers_Base_Color"
+				},
+				{
+					"name": "interieur_subs_05_seats_TER_BaseColor"
+				},
+				{
+					"name": "glass_inner"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_interior_TER_wagon_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_interior_wagon_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_locor_Emissive.png",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/stikers_Base_Color.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_seats_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.8143460154533386,
+								0.8143460154533386,
+								0.8143460154533386,
+								0.46000000834465027
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.07199999690055847,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/train_wagon_short_interior_47.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER__wagon_02_pubage_BaseColor"
+				},
+				{
+					"name": "TER_chassis_roof_BaseColor.001"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER__wagon_02_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_02_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.27848106622695923,
+								0.27848106622695923,
+								0.27848106622695923,
+								0.7120000123977661
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "trains/train_ter_hdf/train_wagon_short_48.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "Material #40"
+				},
+				{
+					"name": "stikers_Base_Color"
+				},
+				{
+					"name": "interieur_subs_05_seats_TER_BaseColor"
+				},
+				{
+					"name": "glass_inner"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_loco__BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_loco_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_locor_Emissive.png",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/stikers_Base_Color.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_seats_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.8143460154533386,
+								0.8143460154533386,
+								0.8143460154533386,
+								0.46000000834465027
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.07199999690055847,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER_loco_pubage_BaseColor"
+				},
+				{
+					"name": "TER_chassis_roof_BaseColor.002"
+				},
+				{
+					"name": "glass_light"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.3544304370880127,
+								0.3544304370880127,
+								0.3544304370880127,
+								0.6481000185012817
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.13199999928474426,
+								0.5,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.27848106622695923,
+								0.27848106622695923,
+								0.27848106622695923,
+								0.7120000123977661
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "trains/train_ter_hdf/train_locomotive_50.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "MTER_wagon_01_pubage_BaseColor"
+				},
+				{
+					"name": "TER_chassis_roof_BaseColor"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_wagon_01_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_wagon_01_habillage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.27848106622695923,
+								0.27848106622695923,
+								0.27848106622695923,
+								0.7120000123977661
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "trains/train_ter_hdf/train_wagon_long_46.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "TER_loco_pubage_BaseColor"
+				},
+				{
+					"name": "TER_chassis_roof_BaseColor.002"
+				},
+				{
+					"name": "glass_light"
+				},
+				{
+					"name": "glass_windows"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_loco_pubage_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/low_new_TER_low_all_roof_bottom_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.3544304370880127,
+								0.3544304370880127,
+								0.3544304370880127,
+								0.6481000185012817
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.13199999928474426,
+								0.5,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.27848106622695923,
+								0.27848106622695923,
+								0.27848106622695923,
+								0.7120000123977661
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "trains/train_ter_hdf/train_locomotive_50.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "Material #40"
+				},
+				{
+					"name": "stikers_Base_Color"
+				},
+				{
+					"name": "interieur_subs_05_seats_TER_BaseColor"
+				},
+				{
+					"name": "glass_inner"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_loco__BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_loco_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"path": "trains/train_ter_hdf/maps/TER_interieur_locor_Emissive.png",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/stikers_Base_Color.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_BaseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "trains/train_ter_hdf/maps/interieur_subs_05_seats_TER_Normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "trains/train_ter_hdf/maps/TER_seats_OcclusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.5,
+								0.5,
+								0.5,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5527864098548889,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.8143460154533386,
+								0.8143460154533386,
+								0.8143460154533386,
+								0.46000000834465027
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.07199999690055847,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "show_interior",
+			"node_anims": [
+				{
+					"anim": 136,
+					"node": 1
+				},
+				{
+					"anim": 137,
+					"node": 3
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "hide_interior",
+			"node_anims": [
+				{
+					"anim": 138,
+					"node": 1
+				},
+				{
+					"anim": 139,
+					"node": 3
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_doors_right",
+			"node_anims": [
+				{
+					"anim": 140,
+					"node": 5
+				},
+				{
+					"anim": 141,
+					"node": 6
+				},
+				{
+					"anim": 142,
+					"node": 7
+				},
+				{
+					"anim": 143,
+					"node": 10
+				}
+			],
+			"t_end": 6000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_doors_left",
+			"node_anims": [
+				{
+					"anim": 144,
+					"node": 5
+				},
+				{
+					"anim": 145,
+					"node": 6
+				},
+				{
+					"anim": 146,
+					"node": 7
+				},
+				{
+					"anim": 147,
+					"node": 10
+				}
+			],
+			"t_end": 6000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "close_doors_right",
+			"node_anims": [
+				{
+					"anim": 148,
+					"node": 5
+				},
+				{
+					"anim": 149,
+					"node": 6
+				},
+				{
+					"anim": 150,
+					"node": 7
+				},
+				{
+					"anim": 151,
+					"node": 10
+				}
+			],
+			"t_end": 6000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "close_doors_left",
+			"node_anims": [
+				{
+					"anim": 152,
+					"node": 5
+				},
+				{
+					"anim": 153,
+					"node": 6
+				},
+				{
+					"anim": 154,
+					"node": 7
+				},
+				{
+					"anim": 155,
+					"node": 10
+				}
+			],
+			"t_end": 6000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "init",
+			"node_anims": [
+				{
+					"anim": 156,
+					"node": 5
+				},
+				{
+					"anim": 157,
+					"node": 6
+				},
+				{
+					"anim": 158,
+					"node": 7
+				},
+				{
+					"anim": 159,
+					"node": 10
+				},
+				{
+					"anim": 161,
+					"node": 11
+				},
+				{
+					"anim": 168,
+					"node": 20
+				},
+				{
+					"anim": 171,
+					"node": 21
+				},
+				{
+					"anim": 172,
+					"node": 22
+				},
+				{
+					"anim": 173,
+					"node": 23
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "far_forward",
+			"node_anims": [
+				{
+					"anim": 163,
+					"node": 11
+				},
+				{
+					"anim": 179,
+					"node": 20
+				},
+				{
+					"anim": 160,
+					"node": 21
+				},
+				{
+					"anim": 213,
+					"node": 22
+				},
+				{
+					"anim": 214,
+					"node": 23
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "far_backward",
+			"node_anims": [
+				{
+					"anim": 164,
+					"node": 11
+				},
+				{
+					"anim": 162,
+					"node": 20
+				},
+				{
+					"anim": 182,
+					"node": 22
+				},
+				{
+					"anim": 181,
+					"node": 21
+				},
+				{
+					"anim": 180,
+					"node": 23
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_forward_30sec",
+			"node_anims": [
+				{
+					"anim": 165,
+					"node": 11
+				},
+				{
+					"anim": 167,
+					"node": 20
+				},
+				{
+					"anim": 169,
+					"node": 21
+				},
+				{
+					"anim": 170,
+					"node": 22
+				},
+				{
+					"anim": 174,
+					"node": 23
+				}
+			],
+			"t_end": 30000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_forward_20sec",
+			"node_anims": [
+				{
+					"anim": 166,
+					"node": 11
+				},
+				{
+					"anim": 175,
+					"node": 20
+				},
+				{
+					"anim": 176,
+					"node": 21
+				},
+				{
+					"anim": 177,
+					"node": 22
+				},
+				{
+					"anim": 178,
+					"node": 23
+				}
+			],
+			"t_end": 20000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_forward_10sec",
+			"node_anims": [
+				{
+					"anim": 183,
+					"node": 11
+				},
+				{
+					"anim": 184,
+					"node": 20
+				},
+				{
+					"anim": 185,
+					"node": 21
+				},
+				{
+					"anim": 186,
+					"node": 22
+				},
+				{
+					"anim": 187,
+					"node": 23
+				}
+			],
+			"t_end": 10000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_backward_30sec",
+			"node_anims": [
+				{
+					"anim": 188,
+					"node": 11
+				},
+				{
+					"anim": 189,
+					"node": 20
+				},
+				{
+					"anim": 190,
+					"node": 21
+				},
+				{
+					"anim": 191,
+					"node": 22
+				},
+				{
+					"anim": 192,
+					"node": 23
+				}
+			],
+			"t_end": 30000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_backward_20sec",
+			"node_anims": [
+				{
+					"anim": 193,
+					"node": 11
+				},
+				{
+					"anim": 194,
+					"node": 20
+				},
+				{
+					"anim": 195,
+					"node": 21
+				},
+				{
+					"anim": 196,
+					"node": 22
+				},
+				{
+					"anim": 197,
+					"node": 23
+				}
+			],
+			"t_end": 20000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_backward_10sec",
+			"node_anims": [
+				{
+					"anim": 198,
+					"node": 11
+				},
+				{
+					"anim": 199,
+					"node": 20
+				},
+				{
+					"anim": 200,
+					"node": 21
+				},
+				{
+					"anim": 201,
+					"node": 22
+				},
+				{
+					"anim": 202,
+					"node": 23
+				}
+			],
+			"t_end": 10000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_leave_forward",
+			"node_anims": [
+				{
+					"anim": 203,
+					"node": 11
+				},
+				{
+					"anim": 204,
+					"node": 20
+				},
+				{
+					"anim": 205,
+					"node": 21
+				},
+				{
+					"anim": 206,
+					"node": 22
+				},
+				{
+					"anim": 207,
+					"node": 23
+				}
+			],
+			"t_end": 90000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_leave_backward",
+			"node_anims": [
+				{
+					"anim": 208,
+					"node": 11
+				},
+				{
+					"anim": 209,
+					"node": 20
+				},
+				{
+					"anim": 210,
+					"node": 21
+				},
+				{
+					"anim": 211,
+					"node": 22
+				},
+				{
+					"anim": 212,
+					"node": 23
+				}
+			],
+			"t_end": 90000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_forward_30sec",
+			"node_anims": [
+				{
+					"anim": 215,
+					"node": 11
+				},
+				{
+					"anim": 218,
+					"node": 20
+				},
+				{
+					"anim": 219,
+					"node": 21
+				},
+				{
+					"anim": 220,
+					"node": 22
+				},
+				{
+					"anim": 221,
+					"node": 23
+				}
+			],
+			"t_end": 30000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_forward_20sec",
+			"node_anims": [
+				{
+					"anim": 216,
+					"node": 11
+				},
+				{
+					"anim": 222,
+					"node": 20
+				},
+				{
+					"anim": 223,
+					"node": 21
+				},
+				{
+					"anim": 224,
+					"node": 22
+				},
+				{
+					"anim": 225,
+					"node": 23
+				}
+			],
+			"t_end": 20000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_forward_10sec",
+			"node_anims": [
+				{
+					"anim": 217,
+					"node": 11
+				},
+				{
+					"anim": 226,
+					"node": 20
+				},
+				{
+					"anim": 227,
+					"node": 21
+				},
+				{
+					"anim": 228,
+					"node": 22
+				},
+				{
+					"anim": 229,
+					"node": 23
+				}
+			],
+			"t_end": 10000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_backward_30sec",
+			"node_anims": [
+				{
+					"anim": 230,
+					"node": 11
+				},
+				{
+					"anim": 231,
+					"node": 20
+				},
+				{
+					"anim": 232,
+					"node": 21
+				},
+				{
+					"anim": 233,
+					"node": 22
+				},
+				{
+					"anim": 234,
+					"node": 23
+				}
+			],
+			"t_end": 30000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_backward_20sec",
+			"node_anims": [
+				{
+					"anim": 235,
+					"node": 11
+				},
+				{
+					"anim": 236,
+					"node": 20
+				},
+				{
+					"anim": 237,
+					"node": 21
+				},
+				{
+					"anim": 238,
+					"node": 22
+				},
+				{
+					"anim": 239,
+					"node": 23
+				}
+			],
+			"t_end": 20000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_backward_10sec",
+			"node_anims": [
+				{
+					"anim": 240,
+					"node": 11
+				},
+				{
+					"anim": 241,
+					"node": 20
+				},
+				{
+					"anim": 242,
+					"node": 21
+				},
+				{
+					"anim": 243,
+					"node": 22
+				},
+				{
+					"anim": 244,
+					"node": 23
+				}
+			],
+			"t_end": 10000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_forward_60sec",
+			"node_anims": [
+				{
+					"anim": 245,
+					"node": 11
+				},
+				{
+					"anim": 246,
+					"node": 20
+				},
+				{
+					"anim": 247,
+					"node": 21
+				},
+				{
+					"anim": 248,
+					"node": 22
+				},
+				{
+					"anim": 249,
+					"node": 23
+				}
+			],
+			"t_end": 60000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_backward_60sec",
+			"node_anims": [
+				{
+					"anim": 250,
+					"node": 11
+				},
+				{
+					"anim": 251,
+					"node": 20
+				},
+				{
+					"anim": 252,
+					"node": 21
+				},
+				{
+					"anim": 253,
+					"node": 22
+				},
+				{
+					"anim": 254,
+					"node": 23
+				}
+			],
+			"t_end": 60000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_forward_60sec",
+			"node_anims": [
+				{
+					"anim": 255,
+					"node": 11
+				},
+				{
+					"anim": 256,
+					"node": 20
+				},
+				{
+					"anim": 257,
+					"node": 21
+				},
+				{
+					"anim": 258,
+					"node": 22
+				},
+				{
+					"anim": 259,
+					"node": 23
+				}
+			],
+			"t_end": 60000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_forward_60sec",
+			"node_anims": [
+				{
+					"anim": 260,
+					"node": 11
+				},
+				{
+					"anim": 261,
+					"node": 20
+				},
+				{
+					"anim": 262,
+					"node": 21
+				},
+				{
+					"anim": 263,
+					"node": 22
+				},
+				{
+					"anim": 264,
+					"node": 23
+				}
+			],
+			"t_end": 60000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_leave_forward_delay_10sec",
+			"node_anims": [
+				{
+					"anim": 265,
+					"node": 11
+				},
+				{
+					"anim": 266,
+					"node": 20
+				},
+				{
+					"anim": 267,
+					"node": 21
+				},
+				{
+					"anim": 268,
+					"node": 22
+				},
+				{
+					"anim": 269,
+					"node": 23
+				}
+			],
+			"t_end": 100000000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": 11,
+			"pos": [
+				-1.485363483428955,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				-0.007716178894042969,
+				1.995819091796875,
+				0.0115966796875
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-15.228610038757324,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				-1.4592914581298828,
+				2.018068552017212,
+				0.01175404991954565
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				13.634490013122559,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				0.965510368347168,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				-1.995671272277832,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-29.010000228881836,
+				0.0,
+				2.4081236915662885e-06
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-44.11293411254883,
+				0.0,
+				2.874739720937214e-06
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				0.965510368347168,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 13,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				1.9162654876708984,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				-1.4592914581298828,
+				2.018068552017212,
+				0.01175404991954565
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-22.026641845703125,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				7.506418228149414,
+				0.38507160544395447,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.999999761581421,
+				2.9999992847442627,
+				2.9999990463256836
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				6.834290027618408,
+				0.424553781747818,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.999998569488525,
+				2.9999992847442627,
+				2.9999990463256836
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				7.506417751312256,
+				0.44087329506874084,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.0,
+				2.9999990463256836,
+				2.9999985694885254
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				7.506418228149414,
+				0.38507160544395447,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.999999761581421,
+				2.9999992847442627,
+				2.9999990463256836
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				6.834290027618408,
+				0.424553781747818,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.999998569488525,
+				2.9999992847442627,
+				2.9999990463256836
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				7.506417751312256,
+				0.44087329506874084,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.0,
+				2.9999990463256836,
+				2.9999985694885254
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-15.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-15.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-50.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				20.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999997615814209
+			]
+		}
+	]
+}

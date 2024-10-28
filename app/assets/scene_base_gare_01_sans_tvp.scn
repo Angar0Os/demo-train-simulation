@@ -1,0 +1,5498 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			121,
+			121,
+			121,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			255,
+			255,
+			255,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "probes/probe_autoshop.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "probes/probe_autoshop.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/car_minivan/car_minivan_black.scn"
+		},
+		{
+			"name": "props/cars/clio_02/clio_02.scn"
+		},
+		{
+			"name": "props/cars/audi_a3_03/audi_a3_03.scn"
+		},
+		{
+			"name": "props/cars/clio_02/clio_02.scn"
+		},
+		{
+			"name": "props/cars/nissan_suv_03/nissan_suv_03.scn"
+		},
+		{
+			"name": "props/cars/ford_fiesta_01/ford_fiesta.scn"
+		},
+		{
+			"name": "props/cars/clio_04/clio_04.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/bck_big_barracks/bck_big_barracks.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X10/fence_small_dark_X10.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X20/fence_small_dark_X20.scn"
+		},
+		{
+			"name": "props_background/landscape/landscape.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "blocs/quai_sud_est/quai_sud_est.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X5/fence_small_dark_X5.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X20/fence_small_dark_X20.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X5/fence_small_dark_X5.scn"
+		},
+		{
+			"name": "props/gare_annexe_02/gare_annexe_02.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_pole_dark/fence_small_pole_dark.scn"
+		},
+		{
+			"name": "props_background/road/road_side_walk/raod_side_walk.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_sud/tree_ouest_sud.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props_background/road/road_side_walk/raod_side_walk.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props/fence_white/fence_big_clear_closed_x10/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X20/fence_small_dark_X20.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_sud/tree_ouest_sud.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X10/fence_small_dark_X10.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_nord/tree_ouest_nord.scn"
+		},
+		{
+			"name": "props/fence_white/fence_big_clear_closed_x10/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X5/fence_small_dark_X5.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_D/sgn_sortie_D.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_pole_dark/fence_small_pole_dark.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props/fence_white/fence_big_clear_closed_x10/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "props_background/road/road_side_walk/raod_side_walk.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/abris_quais/abris_quais.scn"
+		},
+		{
+			"name": "blocs/quai_nord_est/quai_nord_est.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/fence_white/fence_big_clear_closed_x10/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "blocs/bck_factory_01/bck_factory_01.scn"
+		},
+		{
+			"name": "blocs/quai_sud_annexe/quai_sud_annexe.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X10/fence_small_dark_X10.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_closed_x15/fence_small_dark_closed_x15.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_pole_dark/fence_small_pole_dark.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props_background/road/road_band/road_band.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/totem/totem_bois_la_ville.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props_background/road/road_band/road_band.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_ouest_nord/tree_ouest_nord.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props_background/road/road_band/road_band.scn"
+		},
+		{
+			"name": "environment.scn"
+		},
+		{
+			"name": "props/abris_quais/abris_quais.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X10/fence_small_dark_X10.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "blocs/quai_nord_gare_01/quai_nord_gare_01.scn"
+		},
+		{
+			"name": "blocs/ground_grass_sud/ground_grass_sud.scn"
+		},
+		{
+			"name": "blocs/quai_nord_est/quai_nord_est.scn"
+		},
+		{
+			"name": "blocs/ground_grass_nord/ground_grass_nord.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "blocs/quai_sud_est/quai_sud_est.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "blocs/bck_blockPost/bck_blockPost.scn"
+		},
+		{
+			"name": "blocs/bck_big_barracks/bck_big_barracks.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_G/sgn_sortie_G.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X10/fence_small_dark_X10.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/fence_white/fence_big_clear_closed_x10/fence_big_clear_closed_x10.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_D/sgn_sortie_D.scn"
+		},
+		{
+			"name": "signaletique/sgn_poteau/sgn_poteau.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/car_minivan/car_minivan_black.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "signaletique/sgn_fin_de_quai/sgn_fin_de_quai.scn"
+		},
+		{
+			"name": "props_background/road/road_side_walk/raod_side_walk.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/catenaire/catenaire.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+		},
+		{
+			"name": "signaletique/sgn_sortie_G/sgn_sortie_G.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props/transformateur/transformateur.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props_background/road/road_side_walk/raod_side_walk.scn"
+		},
+		{
+			"name": "props_background/entrepots_01/entrepots_01.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "blocs/bck_blockPost/bck_blockPost.scn"
+		},
+		{
+			"name": "props/fence_small_dark/fence_small_dark_X1/fence_small_dark_X1.scn"
+		},
+		{
+			"name": "props_background/road/road_side_walk/raod_side_walk.scn"
+		},
+		{
+			"name": "props_background/road/road_std/road_std.scn"
+		},
+		{
+			"name": "props/tree_bilboard/tree_bilboard_bridge/tree_bridge.scn"
+		},
+		{
+			"name": "props/cars/clio_04/clio_04.scn"
+		},
+		{
+			"name": "props/cars/nissan_suv_04/nissan_suv_04.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 43,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 115,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 89,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 19,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 133,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 117,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 44,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 126,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 98,
+			"name": "sgn_fin_de_quai"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 87,
+			"name": "fence_small_clear_closed_x15"
+		},
+		{
+			"components": [
+				122,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 81,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				124,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 72,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				132,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 122,
+			"name": "fence_small_dark_X10"
+		},
+		{
+			"components": [
+				136,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"instance": 36,
+			"name": "fence_small_pole_dark"
+		},
+		{
+			"components": [
+				131,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 88,
+			"name": "fence_small_pole_dark"
+		},
+		{
+			"components": [
+				140,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 34,
+			"name": "fence_small_dark_X5"
+		},
+		{
+			"components": [
+				134,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"instance": 33,
+			"name": "fence_small_dark_X20"
+		},
+		{
+			"components": [
+				138,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 20,
+			"name": "fence_small_dark_X10"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 35,
+			"name": "gare_annexe_02"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 128,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"instance": 86,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 110,
+			"name": "ground_grass_sud"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"instance": 112,
+			"name": "ground_grass_nord"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"instance": 106,
+			"name": "abris_quais"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"instance": 75,
+			"name": "abris_quais"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"instance": 85,
+			"name": "fence_small_dark_X10"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 107,
+			"name": "fence_small_dark_X10"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 22,
+			"name": "fence_small_dark_X20"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 97,
+			"name": "totem"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 26,
+			"name": "siege_5pl"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 108,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 69,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"instance": 52,
+			"name": "fence_small_dark_X20"
+		},
+		{
+			"components": [
+				78,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"instance": 60,
+			"name": "tree_ouest_nord"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"instance": 82,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 35,
+			"instance": 116,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 36,
+			"instance": 123,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 37,
+			"instance": 78,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 38,
+			"instance": 21,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 39,
+			"instance": 132,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 40,
+			"instance": 96,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 41,
+			"instance": 127,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 42,
+			"instance": 136,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 43,
+			"instance": 24,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 44,
+			"instance": 95,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 45,
+			"instance": 71,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 46,
+			"instance": 143,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 70,
+			"name": "transformateur"
+		},
+		{
+			"components": [
+				156,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 48,
+			"instance": 27,
+			"name": "quai_sud_est"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
+			"instance": 114,
+			"name": "quai_sud_est"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"instance": 111,
+			"name": "quai_nord_est"
+		},
+		{
+			"components": [
+				40,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"instance": 76,
+			"name": "quai_nord_est"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 84,
+			"name": "quai_sud_annexe"
+		},
+		{
+			"components": [
+				157,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 53,
+			"instance": 105,
+			"name": "environment"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 109,
+			"name": "quai_nord_gare_01"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 55,
+			"instance": 154,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 103,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 57,
+			"instance": 152,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 58,
+			"instance": 92,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 59,
+			"instance": 102,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 60,
+			"instance": 67,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 61,
+			"instance": 93,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 62,
+			"instance": 91,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 63,
+			"instance": 48,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 64,
+			"instance": 61,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 65,
+			"instance": 118,
+			"name": "bck_blockPost"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 66,
+			"instance": 83,
+			"name": "bck_factory_01"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 67,
+			"instance": 119,
+			"name": "bck_big_barracks"
+		},
+		{
+			"components": [
+				125,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 68,
+			"instance": 124,
+			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				146,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 69,
+			"instance": 125,
+			"name": "sgn_sortie_D"
+		},
+		{
+			"components": [
+				127,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 70,
+			"instance": 121,
+			"name": "sgn_sortie_G"
+		},
+		{
+			"components": [
+				123,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 71,
+			"instance": 113,
+			"name": "sgn_tvp_poteau_signaletique"
+		},
+		{
+			"components": [
+				126,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 72,
+			"instance": 66,
+			"name": "sgn_sortie_D"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 73,
+			"instance": 140,
+			"name": "sgn_sortie_G"
+		},
+		{
+			"components": [
+				141,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 74,
+			"instance": 142,
+			"name": "fence_small_dark_X1"
+		},
+		{
+			"components": [
+				130,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 75,
+			"instance": 32,
+			"name": "fence_small_dark_X5"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 76,
+			"instance": 68,
+			"name": "fence_small_pole_dark"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 77,
+			"instance": 77,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				137,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 78,
+			"instance": 74,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 79,
+			"instance": 11,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				159,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 80,
+			"instance": 50,
+			"name": "catenaire"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 81,
+			"instance": 31,
+			"name": "colline"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 82,
+			"instance": 42,
+			"name": "colline"
+		},
+		{
+			"components": [
+				158,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 83,
+			"instance": 47,
+			"name": "colline"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 84,
+			"instance": 12,
+			"name": "colline"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 85,
+			"instance": 38,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 86,
+			"instance": 45,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 87,
+			"instance": 13,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 88,
+			"instance": 51,
+			"name": "pavillons"
+		},
+		{
+			"components": [
+				69,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 89,
+			"instance": 54,
+			"name": "pavillons"
+		},
+		{
+			"components": [
+				70,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 90,
+			"instance": 139,
+			"name": "pavillons"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 91,
+			"instance": 53,
+			"name": "pavillons_clotures"
+		},
+		{
+			"components": [
+				75,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 92,
+			"instance": 16,
+			"name": "pavillons_clotures"
+		},
+		{
+			"components": [
+				71,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 93,
+			"instance": 46,
+			"name": "pavillons_clotures"
+		},
+		{
+			"components": [
+				76,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 94,
+			"instance": 39,
+			"name": "tree_ouest_sud"
+		},
+		{
+			"components": [
+				72,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 95,
+			"instance": 101,
+			"name": "tree_ouest_nord"
+		},
+		{
+			"components": [
+				73,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 96,
+			"instance": 157,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				74,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 97,
+			"instance": 28,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				79,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 98,
+			"instance": 58,
+			"name": "tree_ouest_sud"
+		},
+		{
+			"components": [
+				77,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 99,
+			"instance": 59,
+			"name": "fence_small_dark_X10"
+		},
+		{
+			"components": [
+				135,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 100,
+			"instance": 64,
+			"name": "fence_small_dark_X5"
+		},
+		{
+			"components": [
+				139,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 101,
+			"instance": 49,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				80,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 102,
+			"instance": 137,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				81,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 103,
+			"instance": 29,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				82,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 104,
+			"instance": 30,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				91,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 105,
+			"instance": 147,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				92,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 106,
+			"instance": 14,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				83,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 107,
+			"instance": 18,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				84,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 108,
+			"instance": 120,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				85,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 109,
+			"instance": 100,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				86,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 110,
+			"instance": 135,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				87,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 111,
+			"instance": 25,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				88,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 112,
+			"instance": 62,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				89,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 113,
+			"instance": 144,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				90,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 114,
+			"instance": 40,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				96,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 115,
+			"instance": 73,
+			"name": "raod_side_walk"
+		},
+		{
+			"components": [
+				97,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 116,
+			"instance": 37,
+			"name": "raod_side_walk"
+		},
+		{
+			"components": [
+				98,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 117,
+			"instance": 90,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				93,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 118,
+			"instance": 57,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				94,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 119,
+			"instance": 129,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				95,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 120,
+			"instance": 63,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				99,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 121,
+			"instance": 134,
+			"name": "raod_side_walk"
+		},
+		{
+			"components": [
+				100,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 122,
+			"instance": 41,
+			"name": "raod_side_walk"
+		},
+		{
+			"components": [
+				103,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 123,
+			"instance": 99,
+			"name": "road_band"
+		},
+		{
+			"components": [
+				101,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 124,
+			"instance": 104,
+			"name": "road_band"
+		},
+		{
+			"components": [
+				102,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 125,
+			"instance": 94,
+			"name": "road_band"
+		},
+		{
+			"components": [
+				104,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 126,
+			"instance": 80,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				105,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 127,
+			"instance": 55,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				106,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 128,
+			"instance": 79,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				107,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 129,
+			"instance": 131,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				108,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 130,
+			"instance": 138,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				109,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 131,
+			"instance": 65,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				110,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 132,
+			"instance": 56,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				111,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 133,
+			"instance": 148,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				112,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 134,
+			"instance": 130,
+			"name": "car_minivan_black"
+		},
+		{
+			"components": [
+				113,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 135,
+			"instance": 23,
+			"name": "landscape"
+		},
+		{
+			"components": [
+				114,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 136,
+			"instance": 141,
+			"name": "tree_bridge"
+		},
+		{
+			"components": [
+				115,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 137,
+			"instance": 17,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				116,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 138,
+			"instance": 153,
+			"name": "bck_blockPost"
+		},
+		{
+			"components": [
+				117,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 139,
+			"instance": 15,
+			"name": "bck_big_barracks"
+		},
+		{
+			"components": [
+				120,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 140,
+			"instance": 150,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				118,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 141,
+			"instance": 145,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				119,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 142,
+			"instance": 146,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				121,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 143,
+			"instance": 151,
+			"name": "bordure"
+		},
+		{
+			"components": [
+				133,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 144,
+			"instance": 155,
+			"name": "raod_side_walk"
+		},
+		{
+			"components": [
+				128,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 145,
+			"instance": 149,
+			"name": "raod_side_walk"
+		},
+		{
+			"components": [
+				129,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 146,
+			"instance": 156,
+			"name": "road_std"
+		},
+		{
+			"components": [
+				144,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 147,
+			"instance": 9,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				143,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 148,
+			"instance": 8,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				142,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 149,
+			"instance": 10,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				145,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 150,
+			"instance": 7,
+			"name": "entrepots_01"
+		},
+		{
+			"components": [
+				147,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 151,
+			"instance": 158,
+			"name": "clio_04"
+		},
+		{
+			"components": [
+				148,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 152,
+			"instance": 159,
+			"name": "nissan_suv_04"
+		},
+		{
+			"components": [
+				149,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 153,
+			"instance": 4,
+			"name": "nissan_suv_03"
+		},
+		{
+			"components": [
+				150,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 154,
+			"instance": 3,
+			"name": "clio_02"
+		},
+		{
+			"components": [
+				151,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 155,
+			"instance": 2,
+			"name": "audi_a3_03"
+		},
+		{
+			"components": [
+				152,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 156,
+			"instance": 5,
+			"name": "Instance"
+		},
+		{
+			"components": [
+				153,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 157,
+			"instance": 6,
+			"name": "clio_04"
+		},
+		{
+			"components": [
+				154,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 158,
+			"instance": 1,
+			"name": "clio_02"
+		},
+		{
+			"components": [
+				155,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 159,
+			"instance": 0,
+			"name": "car_minivan_black"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				118.0,
+				-1.1981935501098633,
+				4.630000114440918
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				0.03420257568359375,
+				2.6696581840515137,
+				1.7751881387084723e-07
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				118.0,
+				-1.1981935501098633,
+				-4.630000114440918
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 3,
+			"pos": [
+				0.03420591354370117,
+				2.398193597793579,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-68.0,
+				-1.1981935501098633,
+				-4.630000114440918
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 5,
+			"pos": [
+				0.03420591354370117,
+				2.398193597793579,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-68.0,
+				-1.1981935501098633,
+				4.599999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 7,
+			"pos": [
+				0.03420257568359375,
+				2.398193597793579,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-63.93571853637695,
+				0.30000001192092896,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-30.108104705810547,
+				0.30000001192092896,
+				6.341879844665527
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-4.322436332702637,
+				-0.155021071434021,
+				10.566144943237305
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-28.059223175048828,
+				0.39671051502227783,
+				6.380966663360596
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.418805122375488,
+				0.30000001192092896,
+				-7.374828338623047
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				50.0,
+				0.30000001192092896,
+				7.400000095367432
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-23.45513916015625,
+				0.30000001192092896,
+				-6.500001430511475
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				41.8009147644043,
+				0.30000001192092896,
+				6.599999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				102.54353332519531,
+				0.30000001192092896,
+				-6.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				70.55238342285156,
+				0.30000001192092896,
+				-6.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				3.912529468536377,
+				0.10000000149011612,
+				8.268574714660645
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				43.79071044921875,
+				0.39671051502227783,
+				6.59999942779541
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				68.98873901367188,
+				0.30000001192092896,
+				-7.093158721923828
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.0,
+				0.30000001192092896,
+				6.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.501184463500977,
+				0.30000001192092896,
+				-8.10975170135498
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				130.0,
+				-1.100000023841858,
+				5.999995708465576
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.0,
+				-1.100000023841858,
+				5.999995708465576
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999995231628418,
+				0.9999996423721313,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-70.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-70.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				130.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-20.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-20.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.82835006713867,
+				0.30000001192092896,
+				10.151500701904297
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999999403953552,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.3762321472168,
+				0.30000001192092896,
+				7.099999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999999403953552,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-10.069092750549316,
+				0.30000001192092896,
+				-8.328776359558105
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999989867210388,
+				0.9999994039535522,
+				0.9999983906745911
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				54.3621826171875,
+				0.30000001192092896,
+				6.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				52.78195571899414,
+				0.30000001192092896,
+				6.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				52.8397216796875,
+				0.30000001192092896,
+				8.138901710510254
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				1.0,
+				0.9999993443489075
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				52.8397216796875,
+				0.30000001192092896,
+				9.730670928955078
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				1.0,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				49.62399673461914,
+				0.30000001192092896,
+				9.686712265014648
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.04131317138672,
+				0.30000001192092896,
+				9.686712265014648
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.10017395019531,
+				0.30000001192092896,
+				11.291975021362305
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				51.19878387451172,
+				0.30000001192092896,
+				9.686712265014648
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-65.50668334960938,
+				0.30000001192092896,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-65.4769515991211,
+				0.0,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				-1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-63.365638732910156,
+				0.0,
+				-6.45626163482666
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				103.59375762939453,
+				0.40546464920043945,
+				19.919666290283203
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				-0.9999997019767761,
+				0.999999463558197,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				60.122344970703125,
+				0.024738192558288574,
+				17.581228256225586
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.999999463558197,
+				0.999998927116394
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-46.19684600830078,
+				0.42748546600341797,
+				20.12250518798828
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 69,
+			"pos": [
+				-1.2480671784942388e-07,
+				0.0,
+				0.06762170791625977
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.381330490112305,
+				0.30000001192092896,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				180.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-120.0,
+				-1.100000023841858,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				429.0038757324219,
+				0.0,
+				0.3708667755126953
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-373.6746520996094,
+				-0.5248022079467773,
+				26.002544403076172
+			],
+			"rot": [
+				-0.0,
+				-45.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				450.720703125,
+				0.0,
+				0.3708667755126953
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.379551887512207,
+				0.04641997814178467,
+				10.406055450439453
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-190.08200073242188,
+				0.04641997814178467,
+				10.222932815551758
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.2000000476837158,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-101.26399230957031,
+				0.04641997814178467,
+				10.558246612548828
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.2000000476837158,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-177.40769958496094,
+				0.30000001192092896,
+				-4.033223628997803
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				170.2293701171875,
+				0.0,
+				-4.719066619873047
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-176.294677734375,
+				0.0,
+				-5.389245510101318
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.07480621337890625,
+				0.0,
+				-2.3457701206207275
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				172.1501922607422,
+				0.30000001192092896,
+				-4.033223628997803
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				289.26971435546875,
+				-0.22141146659851074,
+				-0.6246078014373779
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.8999998569488525,
+				0.8999999761581421,
+				0.8999998569488525
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				113.99142456054688,
+				-3.500213623046875,
+				-87.60987091064453
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				11.33346939086914,
+				-1.4206485748291016,
+				-102.86896514892578
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.2999999225139618,
+				0.5999996066093445,
+				0.5999996066093445
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.448974609375,
+				0.20000000298023224,
+				-4.033223628997803
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				235.2089080810547,
+				-0.40914201736450195,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.7999998927116394,
+				0.800000011920929,
+				0.7999998927116394
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-39.40917205810547,
+				0.30000001192092896,
+				-6.500001430511475
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				1.0,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-282.73760986328125,
+				-0.2041940689086914,
+				1.6143131256103516
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-226.59625244140625,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-50.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5050.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				50.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				100.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				150.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				200.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				250.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-150.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-200.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-250.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				137.06201171875,
+				0.04641997814178467,
+				-22.82297706604004
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.9999996423721313,
+				2.0,
+				1.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				71.4849624633789,
+				0.04641997814178467,
+				10.406055450439453
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.305022716522217,
+				0.30000001192092896,
+				-76.88552856445313
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.327667236328125,
+				0.30000001192092896,
+				-75.4000015258789
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				86.60350036621094,
+				0.04641997814178467,
+				-24.082988739013672
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				2.999999523162842,
+				3.0,
+				2.999999523162842
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-57.591922760009766,
+				0.20000000298023224,
+				-25.6126708984375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				1.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				56.00050354003906,
+				0.10430486500263214,
+				-25.4272518157959
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.1999999284744263,
+				1.600000023841858,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.2215576171875,
+				0.04641997814178467,
+				-24.082988739013672
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				2.9999992847442627,
+				3.0,
+				2.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.903552055358887,
+				0.20000000298023224,
+				-26.94808578491211
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				14.297630310058594,
+				0.20000000298023224,
+				-127.05516052246094
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.12833857536315918,
+				45.0
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-50.0,
+				0.12833857536315918,
+				45.0
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				50.0,
+				0.12833857536315918,
+				45.0
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.83932113647461,
+				0.1282999962568283,
+				44.63817596435547
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				23.477291107177734,
+				0.12830190360546112,
+				77.29132080078125
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-53.31405258178711,
+				0.12830190360546112,
+				69.7643051147461
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.9999998807907104,
+				2.0,
+				1.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.418291091918945,
+				0.12830953299999237,
+				104.85982513427734
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.999999761581421,
+				2.0,
+				1.999999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-4.580493450164795,
+				0.04641997814178467,
+				73.10200500488281
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-107.39545440673828,
+				0.04641997814178467,
+				73.10200500488281
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				40.32313919067383,
+				-2.528635025024414,
+				48.839229583740234
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.5999994874000549,
+				0.5999997854232788,
+				0.5999994874000549
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				119.00330352783203,
+				-0.886375904083252,
+				116.95944213867188
+			],
+			"rot": [
+				-0.0,
+				-74.09099578857422,
+				0.0
+			],
+			"scl": [
+				0.5999994874000549,
+				0.6000000238418579,
+				0.5999994874000549
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.616405963897705,
+				0.12285253405570984,
+				20.830673217773438
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999994039535522,
+				0.9999986886978149
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-18.558225631713867,
+				-1.3338594436645508,
+				29.01034927368164
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.8999996185302734,
+				0.8999996185302734,
+				0.8999993801116943
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				10.303701400756836,
+				0.19104337692260742,
+				111.60113525390625
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.5999997854232788,
+				0.6000000238418579,
+				0.5999997854232788
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-14.572549819946289,
+				0.04641234874725342,
+				57.375579833984375
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				1.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				76.06184387207031,
+				0.024738192558288574,
+				21.520137786865234
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999987483024597,
+				0.9999980926513672
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				91.57893371582031,
+				0.5189753770828247,
+				53.5616340637207
+			],
+			"rot": [
+				0.0,
+				-142.55606079101563,
+				-0.0
+			],
+			"scl": [
+				-0.999999463558197,
+				0.9999990463256836,
+				0.9999984502792358
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				183.51385498046875,
+				0.0,
+				-152.43431091308594
+			],
+			"rot": [
+				0.0,
+				-132.18951416015625,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.999999463558197,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				43.56324005126953,
+				0.0,
+				-152.43431091308594
+			],
+			"rot": [
+				0.0,
+				-132.18951416015625,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999995231628418,
+				0.9999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-105.6719741821289,
+				0.0,
+				-152.43431091308594
+			],
+			"rot": [
+				0.0,
+				-132.18951416015625,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.999999463558197,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				46.885921478271484,
+				0.0,
+				-75.34300231933594
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.9999998807907104,
+				2.9999983310699463
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				19.059877395629883,
+				0.25457504391670227,
+				-8.380924224853516
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999999403953552,
+				0.9999992251396179
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.49660873413086,
+				0.0,
+				9.097816467285156
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				103.97920227050781,
+				0.30000001192092896,
+				6.4871320724487305
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.7624270915985107,
+				0.2762543559074402,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.00010427394590806216,
+				-0.0
+			],
+			"scl": [
+				-0.9999992251396179,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 70,
+			"pos": [
+				-1.649003706916119e-07,
+				0.0,
+				0.0067653656005859375
+			],
+			"rot": [
+				-0.0,
+				179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				12.788227081298828,
+				2.5999999046325684,
+				6.945086479187012
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				1.0,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.318613052368164,
+				0.20000000298023224,
+				-26.94808578491211
+			],
+			"rot": [
+				0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.0,
+				0.9999998807907104,
+				1.999999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.327667236328125,
+				0.30000001192092896,
+				-125.34973907470703
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999999403953552,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-35.35624694824219,
+				0.30000001192092896,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				67.33345031738281,
+				0.30000001192092896,
+				-6.599999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				55.96280288696289,
+				0.30000001192092896,
+				6.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-19.274715423583984,
+				0.20000000298023224,
+				-127.05516052246094
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.999999761581421
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				35.36710739135742,
+				0.30000001192092896,
+				-6.599999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-55.38660430908203,
+				0.30000001192092896,
+				-6.499332427978516
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				118.54156494140625,
+				0.30000001192092896,
+				-6.50383996963501
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				180.0,
+				-1.100000023841858,
+				5.999995708465576
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				-0.0
+			],
+			"scl": [
+				-0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.460695266723633,
+				0.30000001192092896,
+				-6.5
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-100.0,
+				0.30000001192092896,
+				-16.543060302734375
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				27.395002365112305,
+				0.30000001192092896,
+				-6.599999904632568
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-36.9188346862793,
+				0.30000001192092896,
+				6.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999991655349731,
+				1.0,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				160.37608337402344,
+				1.52587890625e-05,
+				73.17724609375
+			],
+			"rot": [
+				-0.0,
+				50.36607360839844,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999991655349731,
+				0.9999985694885254
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-102.4348373413086,
+				0.0,
+				90.7603759765625
+			],
+			"rot": [
+				-0.0,
+				50.36607360839844,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999992847442627,
+				0.9999987483024597
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				40.54281997680664,
+				0.0,
+				90.34454345703125
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999991655349731,
+				0.9999984502792358
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-108.450927734375,
+				0.0,
+				158.68228149414063
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.9999991059303284,
+				0.9999984502792358
+			]
+		},
+		{
+			"parent": 71,
+			"pos": [
+				0.03323820233345032,
+				2.5999999046325684,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				12.118606567382813,
+				0.11375465989112854,
+				20.916749954223633
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-13.74665641784668,
+				0.28343215584754944,
+				-24.53996467590332
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				19.41147232055664,
+				0.11133873462677002,
+				27.32669448852539
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-29.01034927368164,
+				0.30648285150527954,
+				-18.558225631713867
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.960057258605957,
+				0.11871787905693054,
+				39.3016357421875
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-42.98046112060547,
+				0.3398819863796234,
+				-25.14214515686035
+			],
+			"rot": [
+				-5.0888878885563954e-14,
+				90.0,
+				3.000000238418579
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				37.87969970703125,
+				0.3082594573497772,
+				-24.57212257385254
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				0.9999980926513672
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				63.65216064453125,
+				0.11917541921138763,
+				-34.448020935058594
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				0.9999988079071045
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				84.57195281982422,
+				0.29836922883987427,
+				-24.571044921875
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999989867210388,
+				0.9999991059303284,
+				0.9999980926513672
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-346.8404541015625,
+				-0.6570515632629395,
+				14.218045234680176
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-120.0,
+				-1.100000023841858,
+				-5.400000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

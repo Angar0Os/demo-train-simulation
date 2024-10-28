@@ -1,0 +1,236 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			140,
+			140,
+			140,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "characters/character_man_01/character_man_01.scn"
+		},
+		{
+			"anim": "1637776932224_TempMotion",
+			"loop_mode": "loop",
+			"name": "characters/male_alex_idlelookingaround_01/male_alex_idlelookingaround_01.scn"
+		},
+		{
+			"anim": "1638532584592_TempMotion",
+			"loop_mode": "loop",
+			"name": "characters/male_charles_sitting_idle_01/male_charles_sitting_idle_01.scn"
+		},
+		{
+			"anim": "1638532584592_TempMotion",
+			"loop_mode": "loop",
+			"name": "characters/male_charles_sitting_idle_02/male_charles_sitting_idle_02.scn"
+		},
+		{
+			"anim": "mixamo.com",
+			"loop_mode": "loop",
+			"name": "characters/male_paul_idle/male_paul_idle.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 2,
+			"name": "male_charles_sitting_idle_01"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 1,
+			"name": "male_alex_idlelookingaround_01"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 3,
+			"name": "male_charles_sitting_idle_02"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 0,
+			"name": "character_man_01"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 4,
+			"name": "male_paul_idle"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				6.379373550415039,
+				0.9704409241676331,
+				1.202690839767456
+			],
+			"rot": [
+				-0.0,
+				-96.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				59.146766662597656,
+				0.9030283689498901,
+				2.6791906356811523
+			],
+			"rot": [
+				-0.0,
+				110.99998474121094,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999992847442627,
+				0.9999988079071045
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				51.48478317260742,
+				0.30000001192092896,
+				5.703273296356201
+			],
+			"rot": [
+				-0.0,
+				-33.99699783325195,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999997019767761,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-53.288185119628906,
+				0.30000001192092896,
+				-5.0049967765808105
+			],
+			"rot": [
+				-0.0,
+				-179.99998474121094,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.988460540771484,
+				0.2929938733577728,
+				5.463703632354736
+			],
+			"rot": [
+				-0.0,
+				-4.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999997019767761,
+				0.9999993443489075
+			]
+		}
+	]
+}

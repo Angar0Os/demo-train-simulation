@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"default": {
+			"mag-filter": "Anisotropic",
+			"min-filter": "Anisotropic",
+			"wrap-U": "Clamp",
+			"wrap-V": "Clamp"
+		}
+	}
+}
