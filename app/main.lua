@@ -17,7 +17,8 @@ max_len = 4967.0 -- in meters
 
 -- load scene
 scene = hg.Scene()
-hg.LoadSceneFromAssets("Demo_scene.scn", scene, res, hg.GetForwardPipelineInfo())
+hg.LoadSceneFromAssets("demo_scene.scn", scene, res, hg.GetForwardPipelineInfo())
+hg.LoadSceneFromAssets("camera.scn", scene, res, hg.GetForwardPipelineInfo())
 
 -- AAA pipeline
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
@@ -29,7 +30,7 @@ pipeline_aaa_config.gamma = 1.8
 pipeline_aaa_config.z_thickness  = 0.25
 pipeline_aaa_config.sharpen = 0.25
 
-local camera_node = scene:GetNode("Camera")
+local camera_node = scene:GetNode("RenderCamera")
 local cam_pos = camera_node:GetTransform():GetPos()
 cam_pos.z = cam_pos.z + 1.8
 local speed = 10.0
