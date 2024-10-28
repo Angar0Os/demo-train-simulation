@@ -12,14 +12,17 @@ hg.AddAssetsFolder("assets_compiled")
 pipeline = hg.CreateForwardPipeline()
 res = hg.PipelineResources()
 
+max_len = 4967.0 -- in meters
+
 
 -- load scene
 scene = hg.Scene()
-hg.LoadSceneFromAssets("Demo_scene.scn", scene, res, hg.GetForwardPipelineInfo())
+hg.LoadSceneFromAssets("demo_scene.scn", scene, res, hg.GetForwardPipelineInfo())
+hg.LoadSceneFromAssets("camera.scn", scene, res, hg.GetForwardPipelineInfo())
 
 -- AAA pipeline
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
-pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Half, hg.BR_Half)
+pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Equal, hg.BR_Equal)
 pipeline_aaa_config.sample_count = 1
 pipeline_aaa_config.motion_blur = 0.001
 pipeline_aaa_config.exposure = 1.2
@@ -27,9 +30,12 @@ pipeline_aaa_config.gamma = 1.8
 pipeline_aaa_config.z_thickness  = 0.25
 pipeline_aaa_config.sharpen = 0.25
 
-local camera_node = scene:GetNode("Camera")
+local camera_node = scene:GetNode("RenderCamera")
 local cam_pos = camera_node:GetTransform():GetPos()
-local speed = 10.0
+cam_pos.z = cam_pos.z + 1.8
+local speed = 5.0
+
+scene:SetCurrentCamera(camera_node)
 
 -- main loop
 frame = 0
@@ -42,8 +48,8 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * speed
 	camera_node:GetTransform():SetPos(cam_pos)
 
-	if cam_pos.x > 200.0 then
-		cam_pos.x = cam_pos.x - 100.0
+	if cam_pos.x > max_len then
+		cam_pos.x = cam_pos.x - max_len
 	end
 
 	scene:Update(dt)
