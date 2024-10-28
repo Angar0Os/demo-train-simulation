@@ -143,6 +143,8 @@ void main() {
 	vec4 occ_rough_metal = uOcclusionRoughnessMetalnessColor;
 #endif // USE_OCCLUSION_ROUGHNESS_METALNESS_MAP
 
+occ_rough_metal.y = pow(occ_rough_metal.y, 2.0);
+
 // Optional secondary occlusion, always needing a second set of UV (UV1)
 #if USE_AMBIENT_MAP
 	occ_rough_metal.x *= texture2D(uAmbientMap, vTexCoord1).x;
