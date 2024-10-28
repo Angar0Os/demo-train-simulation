@@ -307,8 +307,8 @@ occ_rough_metal.y = pow(occ_rough_metal.y, 2.0);
 #else // FORWARD_PIPELINE_AAA_PREPASS
 	// incorrectly apply gamma correction at fragment shader level in the non-AAA pipeline
 #if FORWARD_PIPELINE_AAA != 1
-	float gamma = 1.8;
-	float exposure = 1.2;
+	float gamma = uAmbientColor.x;
+	float exposure = uAmbientColor.y;
 	color = SimpleReinhardToneMapping(color, exposure);
 	color = pow(color, vec3_splat(1. / gamma));
 #endif // FORWARD_PIPELINE_AAA != 1

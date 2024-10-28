@@ -17,8 +17,8 @@ max_len = 4967.0 -- in meters
 
 -- load scene
 scene = hg.Scene()
-hg.LoadSceneFromAssets("demo_scene.scn", scene, res, hg.GetForwardPipelineInfo())
 hg.LoadSceneFromAssets("camera.scn", scene, res, hg.GetForwardPipelineInfo())
+hg.LoadSceneFromAssets("demo_scene.scn", scene, res, hg.GetForwardPipelineInfo())
 
 -- AAA pipeline
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
@@ -27,7 +27,7 @@ pipeline_aaa_config.sample_count = 1
 pipeline_aaa_config.motion_blur = 0.001
 pipeline_aaa_config.exposure = 1.2
 pipeline_aaa_config.gamma = 1.8
-pipeline_aaa_config.z_thickness  = 0.25
+pipeline_aaa_config.z_thickness  = 0.1
 pipeline_aaa_config.sharpen = 0.25
 
 local camera_node = scene:GetNode("RenderCamera")

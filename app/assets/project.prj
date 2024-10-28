@@ -2,13 +2,13 @@
 	"recent_files": [
 		"demo_scene.scn",
 		"camera.scn",
+		"props/tree_large/tree_large_01/tree_large_01.scn",
+		"props/tree_group_02/tree_group_02.scn",
 		"environment_day_2.scn",
 		"Demo_scene.scn",
 		"main.scn",
 		"primitives/grid.scn",
 		"environment.scn",
-		"props/skydome/skydome.scn",
-		"analysis/return_journey_scene_part_2.scn",
-		"analysis/return_journey_scene_part_1.scn"
+		"props/skydome/skydome.scn"
 	]
 }
