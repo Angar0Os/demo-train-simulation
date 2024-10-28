@@ -28,7 +28,7 @@ pipeline_aaa_config.sample_count = 1
 pipeline_aaa_config.motion_blur = 0.001
 pipeline_aaa_config.exposure = 1.4
 pipeline_aaa_config.gamma = 1.6
-pipeline_aaa_config.z_thickness  = 1.0
+pipeline_aaa_config.z_thickness = 1.0
 pipeline_aaa_config.sharpen = 0.5
 
 -- Set camera
