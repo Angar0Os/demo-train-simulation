@@ -12,6 +12,8 @@ hg.AddAssetsFolder("assets_compiled")
 pipeline = hg.CreateForwardPipeline()
 res = hg.PipelineResources()
 
+max_len = 4967.0 -- in meters
+
 
 -- load scene
 scene = hg.Scene()
@@ -29,6 +31,7 @@ pipeline_aaa_config.sharpen = 0.25
 
 local camera_node = scene:GetNode("Camera")
 local cam_pos = camera_node:GetTransform():GetPos()
+cam_pos.z = cam_pos.z + 1.8
 local speed = 10.0
 
 -- main loop
@@ -42,8 +45,8 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * speed
 	camera_node:GetTransform():SetPos(cam_pos)
 
-	if cam_pos.x > 200.0 then
-		cam_pos.x = cam_pos.x - 100.0
+	if cam_pos.x > max_len then
+		cam_pos.x = cam_pos.x - max_len
 	end
 
 	scene:Update(dt)
