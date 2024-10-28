@@ -16,6 +16,12 @@ SAMPLER2D(uNormalMap, 2);
 SAMPLER2D(uSelfMap, 4);
 SAMPLER2D(uAmbientMap, 6);
 
+vec3 SimpleReinhardToneMapping(vec3 color, float exposure) // 1.5
+{
+	color *= exposure / (1. + color / exposure);
+	return color;
+}
+
 float map(float value, float min1, float max1, float min2, float max2) {
   return min2 + (value - min1) * (max2 - min2) / (max1 - min1);
 }
@@ -301,7 +307,9 @@ occ_rough_metal.y = pow(occ_rough_metal.y, 2.0);
 #else // FORWARD_PIPELINE_AAA_PREPASS
 	// incorrectly apply gamma correction at fragment shader level in the non-AAA pipeline
 #if FORWARD_PIPELINE_AAA != 1
-	float gamma = 2.2;
+	float gamma = 1.8;
+	float exposure = 1.2;
+	color = SimpleReinhardToneMapping(color, exposure);
 	color = pow(color, vec3_splat(1. / gamma));
 #endif // FORWARD_PIPELINE_AAA != 1
 
