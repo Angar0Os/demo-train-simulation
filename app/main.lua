@@ -34,7 +34,7 @@ hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineI
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
 pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Equal, hg.BR_Equal)
 
-pipeline_aaa_config.sample_count = 1
+pipeline_aaa_config.sample_count = 2
 pipeline_aaa_config.motion_blur = 0.001
 pipeline_aaa_config.exposure = 1.4
 pipeline_aaa_config.gamma = 1.6
