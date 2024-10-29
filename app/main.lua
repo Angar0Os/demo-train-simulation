@@ -1,5 +1,15 @@
 hg = require("harfang")
 
+-- Maps a value from one range to another.
+function map(value, min1, max1, min2, max2)
+    return min2 + (value - min1) * (max2 - min2) / (max1 - min1);
+end
+
+-- Clamps a value between a minimum and maximum value.
+function clamp(value, min1, max1)
+    return math.min(math.max(value, min1), max1)
+end
+
 hg.InputInit()
 hg.WindowSystemInit()
 
@@ -12,7 +22,7 @@ hg.AddAssetsFolder("assets_compiled")
 pipeline = hg.CreateForwardPipeline(4096, false)
 res = hg.PipelineResources()
 
-max_len = 4967.0 -- in meters
+max_len = 4967.400 - 40.350-- in meters
 
 -- load main scene
 main_scene = hg.Scene()
@@ -35,12 +45,15 @@ pipeline_aaa_config.sharpen = 0.5
 local main_camera_node = main_scene:GetNode("RenderCamera")
 local cam_pos = main_camera_node:GetTransform():GetPos()
 cam_pos.z = cam_pos.z + 1.8
-local speed = 5.0
+local min_speed = 5.0
+local max_speed = 50.0
 
 main_scene:SetCurrentCamera(main_camera_node)
 
 local skybox_node = main_scene:GetNode("skydome")
 local skybox_pos = skybox_node:GetTransform():GetPos()
+
+local miles_pos = {main_scene:GetNode("mile_0"):GetTransform():GetPos(), main_scene:GetNode("mile_1"):GetTransform():GetPos()}
 
 -- main loop
 frame = 0
@@ -53,7 +66,20 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 
 	-- trs = main_scene:GetNode('engine_master'):GetTransform()
 	-- trs:SetRot(trs:GetRot() + hg.Vec3(0, hg.Deg(15) * hg.time_to_sec_f(dt), 0))
-	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * speed
+	local variable_speed, dist_to_mile, idx
+	variable_speed = 0.0
+	
+	for idx = 1, 2 do
+		dist_to_mile = hg.Dist(cam_pos, miles_pos[idx])
+		-- print(idx .. "," .. dist_to_mile)
+		dist_to_mile = clamp(map(dist_to_mile, 1100, 550, 0.0, 1.0), 0.0, 1.0) 
+		variable_speed = variable_speed + dist_to_mile * max_speed
+	end
+
+	-- variable_speed = variable_speed + min_speed
+	-- print("variable_speed = " .. variable_speed)
+
+	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed * 10.0
 	main_camera_node:GetTransform():SetPos(cam_pos)
 	skybox_pos.x = cam_pos.x
 	skybox_node:GetTransform():SetPos(skybox_pos)

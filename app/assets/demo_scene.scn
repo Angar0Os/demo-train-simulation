@@ -79,253 +79,295 @@
 	},
 	"instances": [
 		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/bordure_02/bordure_02.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "helpers/interaction_point_b.scn"
+		},
+		{
+			"name": "helpers/interaction_point_8.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "props/bordure/bordure.scn"
+		},
+		{
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+		},
+		{
 			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
 		},
 		{
-			"name": "props/tree_group/tree_group.scn"
+			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
 		},
 		{
-			"name": "props/building_flour_mill/building_flour_mill.scn"
+			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
 		},
 		{
-			"name": "props/building_warehouse_08/transformateur.scn"
+			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
 		},
 		{
-			"name": "props/building_warehouse_08/transformateur.scn"
+			"name": "props/ecran/ecran_new/ecran_new.scn"
 		},
 		{
-			"name": "props/tree_group_02/tree_group_02.scn"
+			"name": "props/ecran/ecran_old/ecran.scn"
 		},
 		{
-			"name": "props/tree_group/tree_group.scn"
+			"name": "props/consigne_2024/consigne_2024.scn"
 		},
 		{
-			"name": "props/tree_group/tree_group.scn"
+			"name": "props/poubelles_classique/poubelles_classique.scn"
 		},
 		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/bordure_02/bordure_02.scn"
-		},
-		{
-			"name": "props/bordure_02/bordure_02.scn"
-		},
-		{
-			"name": "props/bordure_02/bordure_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props_background/ground_nord_02/ground_nord_02.scn"
-		},
-		{
-			"name": "blocs/colline/colline.scn"
-		},
-		{
-			"name": "blocs/colline/colline.scn"
-		},
-		{
-			"name": "blocs/colline/colline.scn"
-		},
-		{
-			"name": "scene_base_gare_01_tvp_ouest.scn"
-		},
-		{
-			"name": "outward_journey_scene_part_2.scn"
-		},
-		{
-			"anim": "far_backward",
-			"loop_mode": "none",
-			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
-		},
-		{
-			"name": "helpers/interaction_point_0.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "props/tree_group_02/tree_group_02.scn"
-		},
-		{
-			"name": "helpers/interaction_point_1.scn"
-		},
-		{
-			"name": "props_background/ground_sud_02/ground_sud_02.scn"
-		},
-		{
-			"name": "helpers/interaction_point_7.scn"
-		},
-		{
-			"name": "helpers/interaction_point_6.scn"
-		},
-		{
-			"name": "helpers/interaction_point_5.scn"
-		},
-		{
-			"name": "helpers/interaction_point_4.scn"
-		},
-		{
-			"name": "helpers/interaction_point_3.scn"
-		},
-		{
-			"name": "helpers/interaction_point_2.scn"
-		},
-		{
-			"name": "blocs/rail_max/rail_max.scn"
-		},
-		{
-			"name": "props/wc_eco_01/wc_01.scn"
-		},
-		{
-			"name": "props_background/ground_sud_02/ground_sud_02.scn"
-		},
-		{
-			"name": "props_background/ground_nord_02/ground_nord_02.scn"
-		},
-		{
-			"name": "blocs/colline/colline.scn"
-		},
-		{
-			"name": "blocs/colline/colline.scn"
-		},
-		{
-			"name": "blocs/colline/colline.scn"
-		},
-		{
-			"name": "helpers/interaction_point_f.scn"
-		},
-		{
-			"name": "helpers/interaction_point_f.scn"
-		},
-		{
-			"name": "helpers/interaction_point_f.scn"
-		},
-		{
-			"name": "helpers/interaction_point_f.scn"
-		},
-		{
-			"name": "scene_signals_gare_01_tvp_ouest.scn"
-		},
-		{
-			"anim": "off",
-			"loop_mode": "none",
-			"name": "props/tvp_pictogram_blinking/tvp_pictogram_blinking_group.scn"
-		},
-		{
-			"anim": "far_forward",
-			"loop_mode": "none",
-			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
-		},
-		{
-			"name": "helpers/interaction_point_f.scn"
-		},
-		{
-			"name": "scene_base_gare_01_tvp_ouest.scn"
-		},
-		{
-			"name": "helpers/interaction_point_9.scn"
+			"name": "props/casier_bagage/casier_bagage.scn"
 		},
 		{
 			"anim": "talking",
@@ -333,49 +375,214 @@
 			"name": "characters/male_kevin_paul_dialogue/male_kevin_paul_dialogue.scn"
 		},
 		{
-			"name": "props/casier_bagage/casier_bagage.scn"
+			"name": "helpers/interaction_point_9.scn"
 		},
 		{
-			"name": "props/poubelles_classique/poubelles_classique.scn"
+			"name": "scene_base_gare_01_tvp_ouest.scn"
 		},
 		{
-			"name": "props/consigne_2024/consigne_2024.scn"
+			"name": "helpers/interaction_point_f.scn"
 		},
 		{
-			"name": "props/ecran/ecran_old/ecran.scn"
+			"anim": "far_forward",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
 		},
 		{
-			"name": "props/ecran/ecran_new/ecran_new.scn"
+			"anim": "off",
+			"loop_mode": "none",
+			"name": "props/tvp_pictogram_blinking/tvp_pictogram_blinking_group.scn"
 		},
 		{
-			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
+			"name": "scene_signals_gare_01_tvp_ouest.scn"
 		},
 		{
-			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
+			"name": "helpers/interaction_point_f.scn"
 		},
 		{
-			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+			"name": "helpers/interaction_point_f.scn"
 		},
 		{
-			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
+			"name": "helpers/interaction_point_f.scn"
 		},
 		{
-			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+			"name": "helpers/interaction_point_f.scn"
 		},
 		{
-			"name": "props/bordure/bordure.scn"
+			"name": "blocs/colline/colline.scn"
 		},
 		{
-			"name": "props/bordure/bordure.scn"
+			"name": "blocs/colline/colline.scn"
 		},
 		{
-			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
+			"name": "blocs/colline/colline.scn"
 		},
 		{
-			"name": "props/bordure/bordure.scn"
+			"name": "props_background/ground_nord_02/ground_nord_02.scn"
 		},
 		{
-			"name": "props/bordure/bordure.scn"
+			"name": "props_background/ground_sud_02/ground_sud_02.scn"
+		},
+		{
+			"name": "props/wc_eco_01/wc_01.scn"
+		},
+		{
+			"name": "blocs/rail_max/rail_max.scn"
+		},
+		{
+			"name": "helpers/interaction_point_2.scn"
+		},
+		{
+			"name": "helpers/interaction_point_3.scn"
+		},
+		{
+			"name": "helpers/interaction_point_4.scn"
+		},
+		{
+			"name": "helpers/interaction_point_5.scn"
+		},
+		{
+			"name": "helpers/interaction_point_6.scn"
+		},
+		{
+			"name": "helpers/interaction_point_7.scn"
+		},
+		{
+			"name": "props_background/ground_sud_02/ground_sud_02.scn"
+		},
+		{
+			"name": "helpers/interaction_point_1.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "helpers/interaction_point_0.scn"
+		},
+		{
+			"anim": "far_backward",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
+		},
+		{
+			"name": "outward_journey_scene_part_2.scn"
+		},
+		{
+			"name": "scene_base_gare_01_tvp_ouest.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "blocs/colline/colline.scn"
+		},
+		{
+			"name": "props_background/ground_nord_02/ground_nord_02.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
+		},
+		{
+			"name": "props/bordure_02/bordure_02.scn"
+		},
+		{
+			"name": "props/bordure_02/bordure_02.scn"
+		},
+		{
+			"name": "props/bordure_02/bordure_02.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group/tree_group.scn"
+		},
+		{
+			"name": "props/tree_group_02/tree_group_02.scn"
 		},
 		{
 			"name": "props/tree_group_02/tree_group_02.scn"
@@ -399,229 +606,22 @@
 			"name": "props/tree_group/tree_group.scn"
 		},
 		{
-			"name": "helpers/interaction_point_8.scn"
+			"name": "props/tree_group_02/tree_group_02.scn"
 		},
 		{
-			"name": "helpers/interaction_point_b.scn"
+			"name": "props/building_warehouse_08/transformateur.scn"
+		},
+		{
+			"name": "props/building_warehouse_08/transformateur.scn"
+		},
+		{
+			"name": "props/building_flour_mill/building_flour_mill.scn"
 		},
 		{
 			"name": "props/tree_group/tree_group.scn"
 		},
 		{
-			"name": "props/tree_group/tree_group.scn"
-		},
-		{
-			"name": "blocs/bck_pavillons/pavillons/pavillons.scn"
-		},
-		{
-			"name": "props/bordure_02/bordure_02.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
+			"name": "blocs/bck_pavillons/pavillons_clotures/pavillons_clotures.scn"
 		}
 	],
 	"key_values": null,
@@ -667,7 +667,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"instance": 79,
+			"instance": 99,
 			"name": "scene_base_gare_01_tvp_ouest"
 		},
 		{
@@ -680,7 +680,7 @@
 			],
 			"disabled": false,
 			"idx": 1,
-			"instance": 56,
+			"instance": 122,
 			"name": "interaction_point_1"
 		},
 		{
@@ -693,7 +693,7 @@
 			],
 			"disabled": false,
 			"idx": 2,
-			"instance": 65,
+			"instance": 113,
 			"name": "wc"
 		},
 		{
@@ -706,7 +706,7 @@
 			],
 			"disabled": false,
 			"idx": 3,
-			"instance": 44,
+			"instance": 134,
 			"name": "train_ter_hdf_north"
 		},
 		{
@@ -743,7 +743,7 @@
 			],
 			"disabled": false,
 			"idx": 6,
-			"instance": 45,
+			"instance": 133,
 			"name": "interaction_point_0"
 		},
 		{
@@ -756,7 +756,7 @@
 			],
 			"disabled": false,
 			"idx": 7,
-			"instance": 63,
+			"instance": 115,
 			"name": "interaction_point_2"
 		},
 		{
@@ -769,7 +769,7 @@
 			],
 			"disabled": false,
 			"idx": 8,
-			"instance": 62,
+			"instance": 116,
 			"name": "interaction_point_3"
 		},
 		{
@@ -782,7 +782,7 @@
 			],
 			"disabled": false,
 			"idx": 9,
-			"instance": 61,
+			"instance": 117,
 			"name": "interaction_point_4"
 		},
 		{
@@ -795,7 +795,7 @@
 			],
 			"disabled": false,
 			"idx": 10,
-			"instance": 60,
+			"instance": 118,
 			"name": "interaction_point_5"
 		},
 		{
@@ -808,7 +808,7 @@
 			],
 			"disabled": false,
 			"idx": 11,
-			"instance": 59,
+			"instance": 119,
 			"name": "interaction_point_6"
 		},
 		{
@@ -821,7 +821,7 @@
 			],
 			"disabled": false,
 			"idx": 12,
-			"instance": 58,
+			"instance": 120,
 			"name": "interaction_point_7"
 		},
 		{
@@ -834,7 +834,7 @@
 			],
 			"disabled": false,
 			"idx": 13,
-			"instance": 104,
+			"instance": 74,
 			"name": "interaction_point_8"
 		},
 		{
@@ -847,7 +847,7 @@
 			],
 			"disabled": false,
 			"idx": 14,
-			"instance": 105,
+			"instance": 73,
 			"name": "interaction_point_corner_1"
 		},
 		{
@@ -860,7 +860,7 @@
 			],
 			"disabled": false,
 			"idx": 15,
-			"instance": 80,
+			"instance": 98,
 			"name": "interaction_point_9"
 		},
 		{
@@ -885,7 +885,7 @@
 			],
 			"disabled": false,
 			"idx": 17,
-			"instance": 81,
+			"instance": 97,
 			"name": "male_kevin_paul_dialogue"
 		},
 		{
@@ -910,7 +910,7 @@
 			],
 			"disabled": false,
 			"idx": 19,
-			"instance": 82,
+			"instance": 96,
 			"name": "casier_bagage"
 		},
 		{
@@ -923,7 +923,7 @@
 			],
 			"disabled": false,
 			"idx": 20,
-			"instance": 83,
+			"instance": 95,
 			"name": "poubelles_design"
 		},
 		{
@@ -936,7 +936,7 @@
 			],
 			"disabled": false,
 			"idx": 21,
-			"instance": 85,
+			"instance": 93,
 			"name": "ecran"
 		},
 		{
@@ -949,7 +949,7 @@
 			],
 			"disabled": false,
 			"idx": 22,
-			"instance": 84,
+			"instance": 94,
 			"name": "consigne_2024"
 		},
 		{
@@ -962,7 +962,7 @@
 			],
 			"disabled": false,
 			"idx": 23,
-			"instance": 86,
+			"instance": 92,
 			"name": "ecran_new"
 		},
 		{
@@ -975,7 +975,7 @@
 			],
 			"disabled": false,
 			"idx": 24,
-			"instance": 78,
+			"instance": 100,
 			"name": "interaction_point_F"
 		},
 		{
@@ -988,7 +988,7 @@
 			],
 			"disabled": false,
 			"idx": 25,
-			"instance": 77,
+			"instance": 101,
 			"name": "train_ter_hdf_south"
 		},
 		{
@@ -1001,7 +1001,7 @@
 			],
 			"disabled": false,
 			"idx": 26,
-			"instance": 75,
+			"instance": 103,
 			"name": "scene_signals_gare_01_tvp_ouest"
 		},
 		{
@@ -1014,7 +1014,7 @@
 			],
 			"disabled": false,
 			"idx": 27,
-			"instance": 76,
+			"instance": 102,
 			"name": "tvp_pictogram_blinking_group"
 		},
 		{
@@ -1027,7 +1027,7 @@
 			],
 			"disabled": true,
 			"idx": 28,
-			"instance": 74,
+			"instance": 104,
 			"name": "Position Gare 02"
 		},
 		{
@@ -1040,7 +1040,7 @@
 			],
 			"disabled": false,
 			"idx": 29,
-			"instance": 73,
+			"instance": 105,
 			"name": "interaction_point_F"
 		},
 		{
@@ -1053,7 +1053,7 @@
 			],
 			"disabled": true,
 			"idx": 30,
-			"instance": 72,
+			"instance": 106,
 			"name": "Position Gare 03"
 		},
 		{
@@ -1066,7 +1066,7 @@
 			],
 			"disabled": true,
 			"idx": 31,
-			"instance": 71,
+			"instance": 107,
 			"name": "Position Gare 01"
 		},
 		{
@@ -1079,7 +1079,7 @@
 			],
 			"disabled": false,
 			"idx": 32,
-			"instance": 43,
+			"instance": 135,
 			"name": "outward_journey_scene_part_2"
 		},
 		{
@@ -1092,7 +1092,7 @@
 			],
 			"disabled": false,
 			"idx": 33,
-			"instance": 42,
+			"instance": 136,
 			"name": "scene_base_gare_01_tvp_ouest"
 		},
 		{
@@ -1105,7 +1105,7 @@
 			],
 			"disabled": false,
 			"idx": 34,
-			"instance": 70,
+			"instance": 108,
 			"name": "colline"
 		},
 		{
@@ -1118,7 +1118,7 @@
 			],
 			"disabled": false,
 			"idx": 35,
-			"instance": 69,
+			"instance": 109,
 			"name": "colline"
 		},
 		{
@@ -1131,7 +1131,7 @@
 			],
 			"disabled": false,
 			"idx": 36,
-			"instance": 67,
+			"instance": 111,
 			"name": "ground_nord_02"
 		},
 		{
@@ -1144,7 +1144,7 @@
 			],
 			"disabled": false,
 			"idx": 37,
-			"instance": 68,
+			"instance": 110,
 			"name": "colline"
 		},
 		{
@@ -1157,7 +1157,7 @@
 			],
 			"disabled": false,
 			"idx": 38,
-			"instance": 66,
+			"instance": 112,
 			"name": "ground_sud_02"
 		},
 		{
@@ -1170,7 +1170,7 @@
 			],
 			"disabled": false,
 			"idx": 39,
-			"instance": 41,
+			"instance": 137,
 			"name": "colline"
 		},
 		{
@@ -1183,7 +1183,7 @@
 			],
 			"disabled": false,
 			"idx": 40,
-			"instance": 40,
+			"instance": 138,
 			"name": "colline"
 		},
 		{
@@ -1196,7 +1196,7 @@
 			],
 			"disabled": false,
 			"idx": 41,
-			"instance": 39,
+			"instance": 139,
 			"name": "colline"
 		},
 		{
@@ -1209,7 +1209,7 @@
 			],
 			"disabled": false,
 			"idx": 42,
-			"instance": 38,
+			"instance": 140,
 			"name": "ground_nord_02"
 		},
 		{
@@ -1222,7 +1222,7 @@
 			],
 			"disabled": false,
 			"idx": 43,
-			"instance": 57,
+			"instance": 121,
 			"name": "ground_sud_02"
 		},
 		{
@@ -1235,7 +1235,7 @@
 			],
 			"disabled": false,
 			"idx": 44,
-			"instance": 64,
+			"instance": 114,
 			"name": "rail_max"
 		},
 		{
@@ -1260,7 +1260,7 @@
 			],
 			"disabled": false,
 			"idx": 46,
-			"instance": 51,
+			"instance": 127,
 			"name": "tree_group"
 		},
 		{
@@ -1273,7 +1273,7 @@
 			],
 			"disabled": false,
 			"idx": 47,
-			"instance": 50,
+			"instance": 128,
 			"name": "tree_group"
 		},
 		{
@@ -1286,7 +1286,7 @@
 			],
 			"disabled": false,
 			"idx": 48,
-			"instance": 49,
+			"instance": 129,
 			"name": "tree_group"
 		},
 		{
@@ -1299,7 +1299,7 @@
 			],
 			"disabled": false,
 			"idx": 49,
-			"instance": 54,
+			"instance": 124,
 			"name": "tree_group"
 		},
 		{
@@ -1312,7 +1312,7 @@
 			],
 			"disabled": false,
 			"idx": 50,
-			"instance": 53,
+			"instance": 125,
 			"name": "tree_group_02"
 		},
 		{
@@ -1325,7 +1325,7 @@
 			],
 			"disabled": false,
 			"idx": 51,
-			"instance": 52,
+			"instance": 126,
 			"name": "tree_group_02"
 		},
 		{
@@ -1338,7 +1338,7 @@
 			],
 			"disabled": false,
 			"idx": 52,
-			"instance": 55,
+			"instance": 123,
 			"name": "tree_group_02"
 		},
 		{
@@ -1351,7 +1351,7 @@
 			],
 			"disabled": false,
 			"idx": 53,
-			"instance": 103,
+			"instance": 75,
 			"name": "tree_group"
 		},
 		{
@@ -1364,7 +1364,7 @@
 			],
 			"disabled": false,
 			"idx": 54,
-			"instance": 36,
+			"instance": 142,
 			"name": "tree_group"
 		},
 		{
@@ -1377,7 +1377,7 @@
 			],
 			"disabled": false,
 			"idx": 55,
-			"instance": 102,
+			"instance": 76,
 			"name": "tree_group"
 		},
 		{
@@ -1390,7 +1390,7 @@
 			],
 			"disabled": false,
 			"idx": 56,
-			"instance": 37,
+			"instance": 141,
 			"name": "tree_group"
 		},
 		{
@@ -1403,7 +1403,7 @@
 			],
 			"disabled": false,
 			"idx": 57,
-			"instance": 99,
+			"instance": 79,
 			"name": "tree_group"
 		},
 		{
@@ -1416,7 +1416,7 @@
 			],
 			"disabled": false,
 			"idx": 58,
-			"instance": 100,
+			"instance": 78,
 			"name": "tree_group"
 		},
 		{
@@ -1429,7 +1429,7 @@
 			],
 			"disabled": false,
 			"idx": 59,
-			"instance": 101,
+			"instance": 77,
 			"name": "tree_group"
 		},
 		{
@@ -1442,7 +1442,7 @@
 			],
 			"disabled": false,
 			"idx": 60,
-			"instance": 98,
+			"instance": 80,
 			"name": "tree_group"
 		},
 		{
@@ -1455,7 +1455,7 @@
 			],
 			"disabled": false,
 			"idx": 61,
-			"instance": 48,
+			"instance": 130,
 			"name": "tree_group_02"
 		},
 		{
@@ -1468,7 +1468,7 @@
 			],
 			"disabled": false,
 			"idx": 62,
-			"instance": 46,
+			"instance": 132,
 			"name": "tree_group_02"
 		},
 		{
@@ -1481,7 +1481,7 @@
 			],
 			"disabled": false,
 			"idx": 63,
-			"instance": 47,
+			"instance": 131,
 			"name": "tree_group_02"
 		},
 		{
@@ -1542,7 +1542,7 @@
 			],
 			"disabled": false,
 			"idx": 68,
-			"instance": 33,
+			"instance": 145,
 			"name": "tree_group"
 		},
 		{
@@ -1555,7 +1555,7 @@
 			],
 			"disabled": false,
 			"idx": 69,
-			"instance": 34,
+			"instance": 144,
 			"name": "tree_group"
 		},
 		{
@@ -1568,7 +1568,7 @@
 			],
 			"disabled": false,
 			"idx": 70,
-			"instance": 35,
+			"instance": 143,
 			"name": "tree_group"
 		},
 		{
@@ -1581,7 +1581,7 @@
 			],
 			"disabled": false,
 			"idx": 71,
-			"instance": 32,
+			"instance": 146,
 			"name": "tree_group"
 		},
 		{
@@ -1594,7 +1594,7 @@
 			],
 			"disabled": false,
 			"idx": 72,
-			"instance": 106,
+			"instance": 72,
 			"name": "tree_group"
 		},
 		{
@@ -1607,7 +1607,7 @@
 			],
 			"disabled": false,
 			"idx": 73,
-			"instance": 31,
+			"instance": 147,
 			"name": "tree_group"
 		},
 		{
@@ -1620,7 +1620,7 @@
 			],
 			"disabled": false,
 			"idx": 74,
-			"instance": 107,
+			"instance": 71,
 			"name": "tree_group"
 		},
 		{
@@ -1633,7 +1633,7 @@
 			],
 			"disabled": false,
 			"idx": 75,
-			"instance": 87,
+			"instance": 91,
 			"name": "pavillons_clotures"
 		},
 		{
@@ -1646,7 +1646,7 @@
 			],
 			"disabled": false,
 			"idx": 76,
-			"instance": 94,
+			"instance": 84,
 			"name": "pavillons"
 		},
 		{
@@ -1672,7 +1672,7 @@
 			],
 			"disabled": false,
 			"idx": 78,
-			"instance": 92,
+			"instance": 86,
 			"name": "bordure"
 		},
 		{
@@ -1685,7 +1685,7 @@
 			],
 			"disabled": false,
 			"idx": 79,
-			"instance": 96,
+			"instance": 82,
 			"name": "bordure"
 		},
 		{
@@ -1698,7 +1698,7 @@
 			],
 			"disabled": false,
 			"idx": 80,
-			"instance": 91,
+			"instance": 87,
 			"name": "pavillons"
 		},
 		{
@@ -1711,7 +1711,7 @@
 			],
 			"disabled": false,
 			"idx": 81,
-			"instance": 95,
+			"instance": 83,
 			"name": "bordure"
 		},
 		{
@@ -1724,7 +1724,7 @@
 			],
 			"disabled": false,
 			"idx": 82,
-			"instance": 90,
+			"instance": 88,
 			"name": "pavillons_clotures"
 		},
 		{
@@ -1737,7 +1737,7 @@
 			],
 			"disabled": false,
 			"idx": 83,
-			"instance": 93,
+			"instance": 85,
 			"name": "bordure"
 		},
 		{
@@ -1750,7 +1750,7 @@
 			],
 			"disabled": false,
 			"idx": 84,
-			"instance": 88,
+			"instance": 90,
 			"name": "pavillons_clotures"
 		},
 		{
@@ -1763,7 +1763,7 @@
 			],
 			"disabled": false,
 			"idx": 85,
-			"instance": 97,
+			"instance": 81,
 			"name": "tree_group_02"
 		},
 		{
@@ -1776,7 +1776,7 @@
 			],
 			"disabled": false,
 			"idx": 86,
-			"instance": 0,
+			"instance": 178,
 			"name": "pavillons_clotures"
 		},
 		{
@@ -1789,7 +1789,7 @@
 			],
 			"disabled": false,
 			"idx": 87,
-			"instance": 108,
+			"instance": 70,
 			"name": "pavillons"
 		},
 		{
@@ -1802,7 +1802,7 @@
 			],
 			"disabled": false,
 			"idx": 88,
-			"instance": 1,
+			"instance": 177,
 			"name": "tree_group"
 		},
 		{
@@ -1815,7 +1815,7 @@
 			],
 			"disabled": false,
 			"idx": 89,
-			"instance": 6,
+			"instance": 172,
 			"name": "tree_group"
 		},
 		{
@@ -1828,7 +1828,7 @@
 			],
 			"disabled": false,
 			"idx": 90,
-			"instance": 5,
+			"instance": 173,
 			"name": "tree_group_02"
 		},
 		{
@@ -1841,7 +1841,7 @@
 			],
 			"disabled": false,
 			"idx": 91,
-			"instance": 2,
+			"instance": 176,
 			"name": "building_flour_mill"
 		},
 		{
@@ -1854,7 +1854,7 @@
 			],
 			"disabled": false,
 			"idx": 92,
-			"instance": 4,
+			"instance": 174,
 			"name": "transformateur"
 		},
 		{
@@ -1867,7 +1867,7 @@
 			],
 			"disabled": false,
 			"idx": 93,
-			"instance": 3,
+			"instance": 175,
 			"name": "transformateur"
 		},
 		{
@@ -1880,7 +1880,7 @@
 			],
 			"disabled": false,
 			"idx": 94,
-			"instance": 28,
+			"instance": 150,
 			"name": "tree_group"
 		},
 		{
@@ -1893,7 +1893,7 @@
 			],
 			"disabled": false,
 			"idx": 95,
-			"instance": 29,
+			"instance": 149,
 			"name": "tree_group"
 		},
 		{
@@ -1906,7 +1906,7 @@
 			],
 			"disabled": false,
 			"idx": 96,
-			"instance": 30,
+			"instance": 148,
 			"name": "tree_group"
 		},
 		{
@@ -1919,7 +1919,7 @@
 			],
 			"disabled": false,
 			"idx": 97,
-			"instance": 26,
+			"instance": 152,
 			"name": "tree_group"
 		},
 		{
@@ -1932,7 +1932,7 @@
 			],
 			"disabled": false,
 			"idx": 98,
-			"instance": 27,
+			"instance": 151,
 			"name": "tree_group"
 		},
 		{
@@ -1945,7 +1945,7 @@
 			],
 			"disabled": false,
 			"idx": 99,
-			"instance": 25,
+			"instance": 153,
 			"name": "tree_group"
 		},
 		{
@@ -1958,7 +1958,7 @@
 			],
 			"disabled": false,
 			"idx": 100,
-			"instance": 23,
+			"instance": 155,
 			"name": "tree_group_02"
 		},
 		{
@@ -1971,7 +1971,7 @@
 			],
 			"disabled": false,
 			"idx": 101,
-			"instance": 24,
+			"instance": 154,
 			"name": "tree_group_02"
 		},
 		{
@@ -1984,7 +1984,7 @@
 			],
 			"disabled": false,
 			"idx": 102,
-			"instance": 22,
+			"instance": 156,
 			"name": "tree_group_02"
 		},
 		{
@@ -1997,7 +1997,7 @@
 			],
 			"disabled": false,
 			"idx": 103,
-			"instance": 16,
+			"instance": 162,
 			"name": "tree_group"
 		},
 		{
@@ -2010,7 +2010,7 @@
 			],
 			"disabled": false,
 			"idx": 104,
-			"instance": 18,
+			"instance": 160,
 			"name": "tree_group"
 		},
 		{
@@ -2023,7 +2023,7 @@
 			],
 			"disabled": false,
 			"idx": 105,
-			"instance": 13,
+			"instance": 165,
 			"name": "tree_group_02"
 		},
 		{
@@ -2036,7 +2036,7 @@
 			],
 			"disabled": false,
 			"idx": 106,
-			"instance": 17,
+			"instance": 161,
 			"name": "tree_group"
 		},
 		{
@@ -2049,7 +2049,7 @@
 			],
 			"disabled": false,
 			"idx": 107,
-			"instance": 14,
+			"instance": 164,
 			"name": "tree_group"
 		},
 		{
@@ -2062,7 +2062,7 @@
 			],
 			"disabled": false,
 			"idx": 108,
-			"instance": 15,
+			"instance": 163,
 			"name": "tree_group"
 		},
 		{
@@ -2075,7 +2075,7 @@
 			],
 			"disabled": false,
 			"idx": 109,
-			"instance": 12,
+			"instance": 166,
 			"name": "tree_group_02"
 		},
 		{
@@ -2088,7 +2088,7 @@
 			],
 			"disabled": false,
 			"idx": 110,
-			"instance": 9,
+			"instance": 169,
 			"name": "tree_group"
 		},
 		{
@@ -2101,7 +2101,7 @@
 			],
 			"disabled": false,
 			"idx": 111,
-			"instance": 10,
+			"instance": 168,
 			"name": "tree_group"
 		},
 		{
@@ -2114,7 +2114,7 @@
 			],
 			"disabled": false,
 			"idx": 112,
-			"instance": 11,
+			"instance": 167,
 			"name": "tree_group"
 		},
 		{
@@ -2127,7 +2127,7 @@
 			],
 			"disabled": false,
 			"idx": 113,
-			"instance": 7,
+			"instance": 171,
 			"name": "tree_group"
 		},
 		{
@@ -2140,7 +2140,7 @@
 			],
 			"disabled": false,
 			"idx": 114,
-			"instance": 8,
+			"instance": 170,
 			"name": "tree_group"
 		},
 		{
@@ -2153,7 +2153,7 @@
 			],
 			"disabled": false,
 			"idx": 115,
-			"instance": 21,
+			"instance": 157,
 			"name": "bordure_02"
 		},
 		{
@@ -2166,7 +2166,7 @@
 			],
 			"disabled": false,
 			"idx": 116,
-			"instance": 20,
+			"instance": 158,
 			"name": "bordure_02"
 		},
 		{
@@ -2179,7 +2179,7 @@
 			],
 			"disabled": false,
 			"idx": 117,
-			"instance": 19,
+			"instance": 159,
 			"name": "bordure_02"
 		},
 		{
@@ -2192,7 +2192,7 @@
 			],
 			"disabled": false,
 			"idx": 118,
-			"instance": 109,
+			"instance": 69,
 			"name": "bordure_02"
 		},
 		{
@@ -2204,8 +2204,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 715,
-			"instance": 110,
+			"idx": 119,
+			"instance": 68,
 			"name": "round_shadow"
 		},
 		{
@@ -2217,8 +2217,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 717,
-			"instance": 111,
+			"idx": 120,
+			"instance": 67,
 			"name": "round_shadow"
 		},
 		{
@@ -2230,8 +2230,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 719,
-			"instance": 112,
+			"idx": 121,
+			"instance": 66,
 			"name": "round_shadow"
 		},
 		{
@@ -2243,8 +2243,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 721,
-			"instance": 113,
+			"idx": 122,
+			"instance": 65,
 			"name": "round_shadow"
 		},
 		{
@@ -2256,8 +2256,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 723,
-			"instance": 114,
+			"idx": 123,
+			"instance": 64,
 			"name": "round_shadow"
 		},
 		{
@@ -2269,8 +2269,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 725,
-			"instance": 115,
+			"idx": 124,
+			"instance": 63,
 			"name": "round_shadow"
 		},
 		{
@@ -2282,8 +2282,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 727,
-			"instance": 116,
+			"idx": 125,
+			"instance": 62,
 			"name": "round_shadow"
 		},
 		{
@@ -2295,8 +2295,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 729,
-			"instance": 117,
+			"idx": 126,
+			"instance": 61,
 			"name": "round_shadow"
 		},
 		{
@@ -2308,8 +2308,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 731,
-			"instance": 118,
+			"idx": 127,
+			"instance": 60,
 			"name": "round_shadow"
 		},
 		{
@@ -2321,8 +2321,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 733,
-			"instance": 119,
+			"idx": 128,
+			"instance": 59,
 			"name": "round_shadow"
 		},
 		{
@@ -2334,8 +2334,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 735,
-			"instance": 120,
+			"idx": 129,
+			"instance": 58,
 			"name": "round_shadow"
 		},
 		{
@@ -2347,8 +2347,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 737,
-			"instance": 121,
+			"idx": 130,
+			"instance": 57,
 			"name": "round_shadow"
 		},
 		{
@@ -2360,8 +2360,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 739,
-			"instance": 122,
+			"idx": 131,
+			"instance": 56,
 			"name": "round_shadow"
 		},
 		{
@@ -2373,8 +2373,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 741,
-			"instance": 123,
+			"idx": 132,
+			"instance": 55,
 			"name": "round_shadow"
 		},
 		{
@@ -2386,8 +2386,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 743,
-			"instance": 124,
+			"idx": 133,
+			"instance": 54,
 			"name": "round_shadow"
 		},
 		{
@@ -2399,8 +2399,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 745,
-			"instance": 125,
+			"idx": 134,
+			"instance": 53,
 			"name": "round_shadow"
 		},
 		{
@@ -2412,8 +2412,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 747,
-			"instance": 126,
+			"idx": 135,
+			"instance": 52,
 			"name": "round_shadow"
 		},
 		{
@@ -2425,8 +2425,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 749,
-			"instance": 127,
+			"idx": 136,
+			"instance": 51,
 			"name": "round_shadow"
 		},
 		{
@@ -2438,8 +2438,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 751,
-			"instance": 128,
+			"idx": 137,
+			"instance": 50,
 			"name": "round_shadow"
 		},
 		{
@@ -2451,8 +2451,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 753,
-			"instance": 129,
+			"idx": 138,
+			"instance": 49,
 			"name": "round_shadow"
 		},
 		{
@@ -2464,8 +2464,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 755,
-			"instance": 130,
+			"idx": 139,
+			"instance": 48,
 			"name": "round_shadow"
 		},
 		{
@@ -2477,8 +2477,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 757,
-			"instance": 131,
+			"idx": 140,
+			"instance": 47,
 			"name": "round_shadow"
 		},
 		{
@@ -2490,8 +2490,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 759,
-			"instance": 132,
+			"idx": 141,
+			"instance": 46,
 			"name": "round_shadow"
 		},
 		{
@@ -2503,8 +2503,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 761,
-			"instance": 133,
+			"idx": 142,
+			"instance": 45,
 			"name": "round_shadow"
 		},
 		{
@@ -2516,8 +2516,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 763,
-			"instance": 134,
+			"idx": 143,
+			"instance": 44,
 			"name": "round_shadow"
 		},
 		{
@@ -2529,8 +2529,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 765,
-			"instance": 135,
+			"idx": 144,
+			"instance": 43,
 			"name": "round_shadow"
 		},
 		{
@@ -2542,8 +2542,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 767,
-			"instance": 136,
+			"idx": 145,
+			"instance": 42,
 			"name": "round_shadow"
 		},
 		{
@@ -2555,8 +2555,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 769,
-			"instance": 137,
+			"idx": 146,
+			"instance": 41,
 			"name": "round_shadow"
 		},
 		{
@@ -2568,8 +2568,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 771,
-			"instance": 138,
+			"idx": 147,
+			"instance": 40,
 			"name": "round_shadow"
 		},
 		{
@@ -2581,8 +2581,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 773,
-			"instance": 139,
+			"idx": 148,
+			"instance": 39,
 			"name": "round_shadow"
 		},
 		{
@@ -2594,8 +2594,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 775,
-			"instance": 140,
+			"idx": 149,
+			"instance": 38,
 			"name": "round_shadow"
 		},
 		{
@@ -2607,8 +2607,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 777,
-			"instance": 141,
+			"idx": 150,
+			"instance": 37,
 			"name": "round_shadow"
 		},
 		{
@@ -2620,8 +2620,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 779,
-			"instance": 142,
+			"idx": 151,
+			"instance": 36,
 			"name": "round_shadow"
 		},
 		{
@@ -2633,8 +2633,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 781,
-			"instance": 143,
+			"idx": 152,
+			"instance": 35,
 			"name": "round_shadow"
 		},
 		{
@@ -2646,8 +2646,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 783,
-			"instance": 144,
+			"idx": 153,
+			"instance": 34,
 			"name": "round_shadow"
 		},
 		{
@@ -2659,8 +2659,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 785,
-			"instance": 145,
+			"idx": 154,
+			"instance": 33,
 			"name": "round_shadow"
 		},
 		{
@@ -2672,8 +2672,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 787,
-			"instance": 146,
+			"idx": 155,
+			"instance": 32,
 			"name": "round_shadow"
 		},
 		{
@@ -2685,8 +2685,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 789,
-			"instance": 147,
+			"idx": 156,
+			"instance": 31,
 			"name": "round_shadow"
 		},
 		{
@@ -2698,8 +2698,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 791,
-			"instance": 148,
+			"idx": 157,
+			"instance": 30,
 			"name": "round_shadow"
 		},
 		{
@@ -2711,8 +2711,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 793,
-			"instance": 149,
+			"idx": 158,
+			"instance": 29,
 			"name": "round_shadow"
 		},
 		{
@@ -2724,8 +2724,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 795,
-			"instance": 150,
+			"idx": 159,
+			"instance": 28,
 			"name": "round_shadow"
 		},
 		{
@@ -2737,8 +2737,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 797,
-			"instance": 151,
+			"idx": 160,
+			"instance": 27,
 			"name": "round_shadow"
 		},
 		{
@@ -2750,8 +2750,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 799,
-			"instance": 152,
+			"idx": 161,
+			"instance": 26,
 			"name": "round_shadow"
 		},
 		{
@@ -2763,8 +2763,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 801,
-			"instance": 153,
+			"idx": 162,
+			"instance": 25,
 			"name": "round_shadow"
 		},
 		{
@@ -2776,8 +2776,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 803,
-			"instance": 154,
+			"idx": 163,
+			"instance": 24,
 			"name": "round_shadow"
 		},
 		{
@@ -2789,8 +2789,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 805,
-			"instance": 155,
+			"idx": 164,
+			"instance": 23,
 			"name": "round_shadow"
 		},
 		{
@@ -2802,8 +2802,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 807,
-			"instance": 156,
+			"idx": 165,
+			"instance": 22,
 			"name": "round_shadow"
 		},
 		{
@@ -2815,8 +2815,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 809,
-			"instance": 157,
+			"idx": 166,
+			"instance": 21,
 			"name": "round_shadow"
 		},
 		{
@@ -2828,8 +2828,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 811,
-			"instance": 158,
+			"idx": 167,
+			"instance": 20,
 			"name": "round_shadow"
 		},
 		{
@@ -2841,8 +2841,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 813,
-			"instance": 159,
+			"idx": 168,
+			"instance": 19,
 			"name": "round_shadow"
 		},
 		{
@@ -2854,8 +2854,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 815,
-			"instance": 160,
+			"idx": 169,
+			"instance": 18,
 			"name": "round_shadow"
 		},
 		{
@@ -2867,8 +2867,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 817,
-			"instance": 161,
+			"idx": 170,
+			"instance": 17,
 			"name": "round_shadow"
 		},
 		{
@@ -2880,8 +2880,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 819,
-			"instance": 162,
+			"idx": 171,
+			"instance": 16,
 			"name": "round_shadow"
 		},
 		{
@@ -2893,8 +2893,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 821,
-			"instance": 163,
+			"idx": 172,
+			"instance": 15,
 			"name": "round_shadow"
 		},
 		{
@@ -2906,8 +2906,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 823,
-			"instance": 164,
+			"idx": 173,
+			"instance": 14,
 			"name": "round_shadow"
 		},
 		{
@@ -2919,8 +2919,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 825,
-			"instance": 165,
+			"idx": 174,
+			"instance": 13,
 			"name": "round_shadow"
 		},
 		{
@@ -2932,8 +2932,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 827,
-			"instance": 166,
+			"idx": 175,
+			"instance": 12,
 			"name": "round_shadow"
 		},
 		{
@@ -2945,8 +2945,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 829,
-			"instance": 167,
+			"idx": 176,
+			"instance": 11,
 			"name": "round_shadow"
 		},
 		{
@@ -2958,8 +2958,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 831,
-			"instance": 168,
+			"idx": 177,
+			"instance": 10,
 			"name": "round_shadow"
 		},
 		{
@@ -2971,8 +2971,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 833,
-			"instance": 169,
+			"idx": 178,
+			"instance": 9,
 			"name": "round_shadow"
 		},
 		{
@@ -2984,8 +2984,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 835,
-			"instance": 170,
+			"idx": 179,
+			"instance": 8,
 			"name": "round_shadow"
 		},
 		{
@@ -2997,8 +2997,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 837,
-			"instance": 171,
+			"idx": 180,
+			"instance": 7,
 			"name": "round_shadow"
 		},
 		{
@@ -3010,8 +3010,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 839,
-			"instance": 172,
+			"idx": 181,
+			"instance": 6,
 			"name": "round_shadow"
 		},
 		{
@@ -3023,8 +3023,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 841,
-			"instance": 173,
+			"idx": 182,
+			"instance": 5,
 			"name": "round_shadow"
 		},
 		{
@@ -3036,8 +3036,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 843,
-			"instance": 174,
+			"idx": 183,
+			"instance": 4,
 			"name": "round_shadow"
 		},
 		{
@@ -3049,8 +3049,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 845,
-			"instance": 175,
+			"idx": 184,
+			"instance": 3,
 			"name": "round_shadow"
 		},
 		{
@@ -3062,8 +3062,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 847,
-			"instance": 176,
+			"idx": 185,
+			"instance": 2,
 			"name": "round_shadow"
 		},
 		{
@@ -3075,8 +3075,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 849,
-			"instance": 177,
+			"idx": 186,
+			"instance": 1,
 			"name": "round_shadow"
 		},
 		{
@@ -3088,9 +3088,33 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 851,
-			"instance": 178,
+			"idx": 187,
+			"instance": 0,
 			"name": "round_shadow"
+		},
+		{
+			"components": [
+				188,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 188,
+			"name": "mile_0"
+		},
+		{
+			"components": [
+				189,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 189,
+			"name": "mile_1"
 		}
 	],
 	"objects": [
@@ -4331,19 +4355,19 @@
 		{
 			"parent": null,
 			"pos": [
-				0.0,
-				2.0,
-				0.0
+				2787.13720703125,
+				4239.61865234375,
+				-151.19271850585938
 			],
 			"rot": [
-				-0.0,
-				90.0,
-				0.0
+				88.5220947265625,
+				2.0509605407714844,
+				-1.4747948853255366e-06
 			],
 			"scl": [
-				0.9999999403953552,
-				0.9999999403953552,
-				0.9999998807907104
+				0.9999722838401794,
+				0.999962568283081,
+				0.9999700784683228
 			]
 		},
 		{
@@ -4356,7 +4380,7 @@
 			"rot": [
 				60.0,
 				49.99999237060547,
-				-3.3783881008275785e-06
+				-3.3783876460802276e-06
 			],
 			"scl": [
 				0.9999998211860657,
@@ -4372,7 +4396,7 @@
 				0.0
 			],
 			"rot": [
-				12.999996185302734,
+				12.999995231628418,
 				69.99999237060547,
 				0.0
 			],
@@ -5129,7 +5153,7 @@
 			],
 			"rot": [
 				-0.0,
-				-13.428730964660645,
+				-13.428729057312012,
 				0.0
 			],
 			"scl": [
@@ -6540,6 +6564,42 @@
 				99.99932098388672,
 				0.9999955892562866,
 				99.998779296875
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1200.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				3541.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
 			]
 		}
 	]
