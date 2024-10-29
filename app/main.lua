@@ -76,7 +76,7 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 		variable_speed = variable_speed + dist_to_mile * max_speed
 	end
 
-	-- variable_speed = variable_speed + min_speed
+	variable_speed = variable_speed + min_speed
 	-- print("variable_speed = " .. variable_speed)
 
 	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed * 10.0
