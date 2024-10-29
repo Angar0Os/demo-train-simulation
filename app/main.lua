@@ -10,6 +10,12 @@ function clamp(value, min1, max1)
     return math.min(math.max(value, min1), max1)
 end
 
+-- Ease-in-out function for smoother transitions.
+function EaseInOutQuick(x)
+	x = clamp(x, 0.0, 1.0)
+	return	(x * x * (3 - 2 * x))
+end
+
 hg.InputInit()
 hg.WindowSystemInit()
 
@@ -72,14 +78,14 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 	for idx = 1, 2 do
 		dist_to_mile = hg.Dist(cam_pos, miles_pos[idx])
 		-- print(idx .. "," .. dist_to_mile)
-		dist_to_mile = clamp(map(dist_to_mile, 1100, 550, 0.0, 1.0), 0.0, 1.0) 
+		dist_to_mile = EaseInOutQuick(clamp(map(dist_to_mile, 1100, 550, 0.0, 1.0), 0.0, 1.0))
 		variable_speed = variable_speed + dist_to_mile * max_speed
 	end
 
 	variable_speed = variable_speed + min_speed
 	-- print("variable_speed = " .. variable_speed)
 
-	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed * 10.0
+	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed
 	main_camera_node:GetTransform():SetPos(cam_pos)
 	skybox_pos.x = cam_pos.x
 	skybox_node:GetTransform():SetPos(skybox_pos)
