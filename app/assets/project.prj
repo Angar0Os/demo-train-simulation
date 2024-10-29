@@ -1,14 +1,14 @@
 {
 	"recent_files": [
-		"demo_scene.scn",
-		"blocs/rail_max/rail_max.scn",
-		"props/tree_group_02/tree_group_02.scn",
 		"outward_journey_scene_part_2.scn",
-		"blocs/bck_pavillons/pavillons/pavillons.scn",
+		"demo_scene.scn",
+		"camera_night.scn",
+		"skybox_night.scn",
+		"props/skydome/skydome_night.scn",
 		"scene_base_gare_01_tvp_ouest.scn",
-		"props/tree_group/tree_group.scn",
+		"environment_night.scn",
+		"environment_day_2.scn",
 		"skybox_day.scn",
-		"camera.scn",
-		"environment.scn"
+		"camera.scn"
 	]
 }

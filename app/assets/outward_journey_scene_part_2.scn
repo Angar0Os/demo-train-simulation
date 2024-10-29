@@ -17,7 +17,7 @@
 			0
 		],
 		"brdf_map": "core/pbr/brdf.dds",
-		"current_camera": 11,
+		"current_camera": null,
 		"fog_color": [
 			0,
 			0,
@@ -59,7 +59,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 1038,
+			"idx": 0,
 			"name": "Merged Selection"
 		}
 	],
@@ -6054,7 +6054,7 @@
 					"flags": [
 						"EnableAlphaCut"
 					],
-					"program": "shaders/billboard.hps",
+					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
