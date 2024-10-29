@@ -59,7 +59,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 815,
+			"idx": 0,
 			"name": "Merged Selection"
 		}
 	],
@@ -3129,7 +3129,7 @@
 					"flags": [
 						"EnableAlphaCut"
 					],
-					"program": "shaders/billboard.hps",
+					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",

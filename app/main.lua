@@ -19,7 +19,8 @@ end
 hg.InputInit()
 hg.WindowSystemInit()
 
-res_x, res_y = 1920, 1080 -- 1280, 720
+res_x, res_y = 1920, 1080
+-- res_x, res_y = 1280, 720
 win = hg.RenderInit('Train Simulator', res_x, res_y, hg.RF_VSync) -- | hg.RF_MSAA4X)
 
 hg.AddAssetsFolder("assets_compiled")
@@ -32,9 +33,15 @@ max_len = 4967.400 - 40.350-- in meters
 
 -- load main scene
 main_scene = hg.Scene()
-hg.LoadSceneFromAssets("camera.scn", main_scene, res, hg.GetForwardPipelineInfo())
-hg.LoadSceneFromAssets("skybox_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
-hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+if true then
+	hg.LoadSceneFromAssets("camera_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
+	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+	hg.LoadSceneFromAssets("skybox_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
+else
+	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
+	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+	hg.LoadSceneFromAssets("skybox_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
+end
 
 -- AAA pipeline
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
