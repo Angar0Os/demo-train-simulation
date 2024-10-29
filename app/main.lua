@@ -40,7 +40,7 @@ hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineI
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
 pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Equal, hg.BR_Equal)
 
-pipeline_aaa_config.sample_count = 2
+pipeline_aaa_config.sample_count = 1
 pipeline_aaa_config.motion_blur = 0.001
 pipeline_aaa_config.exposure = 1.4
 pipeline_aaa_config.gamma = 1.6
@@ -78,7 +78,7 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 	for idx = 1, 2 do
 		dist_to_mile = hg.Dist(cam_pos, miles_pos[idx])
 		-- print(idx .. "," .. dist_to_mile)
-		dist_to_mile = EaseInOutQuick(clamp(map(dist_to_mile, 1100, 550, 0.0, 1.0), 0.0, 1.0))
+		dist_to_mile = EaseInOutQuick(clamp(map(dist_to_mile, 1200, 550, 0.0, 1.0), 0.0, 1.0))
 		variable_speed = variable_speed + dist_to_mile * max_speed
 	end
 
