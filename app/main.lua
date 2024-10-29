@@ -65,7 +65,8 @@ local miles_pos = {main_scene:GetNode("mile_0"):GetTransform():GetPos(), main_sc
 frame = 0
 
 while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
-	dt = hg.TickClock() -- hg.time_from_sec_f(1.0 / 60.0) -- hg.TickClock()
+	dt = hg.time_from_sec_f(1.0 / 60.0)
+	-- dt = hg.TickClock()
 
 	local view_id = 0
 	local pass_id
