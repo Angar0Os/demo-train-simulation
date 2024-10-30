@@ -33,14 +33,23 @@ max_len = 4967.400 - 40.350-- in meters
 
 -- load main scene
 main_scene = hg.Scene()
-if true then
+local weather_mode 
+weather_mode = "day"
+-- weather_mode = "fog"
+-- weather_mode = "night"
+
+if weather_mode == "night" then
 	hg.LoadSceneFromAssets("camera_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
-else
+elseif weather_mode == "day" then
 	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
+elseif weather_mode == "fog" then
+	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
+	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+	hg.LoadSceneFromAssets("skybox_fog.scn", main_scene, res, hg.GetForwardPipelineInfo())
 end
 
 -- AAA pipeline
