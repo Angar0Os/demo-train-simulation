@@ -69,9 +69,19 @@ local skybox_pos = skybox_node:GetTransform():GetPos()
 local miles_pos = {main_scene:GetNode("mile_0"):GetTransform():GetPos(), main_scene:GetNode("mile_1"):GetTransform():GetPos()}
 
 -- main loop
-frame = 0
+local frame = 0
+local speed_factor = 0.0
+local state = "running"
+local keyboard = hg.Keyboard('raw')
 
-while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
+while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and state == "running" do
+	keyboard:Update()
+
+	if keyboard:Released(hg.K_F9) and speed_factor < 1.0 then
+		speed_factor = 1.0
+		print(state)
+	end
+
 	dt = hg.time_from_sec_f(1.0 / 60.0)
 	-- dt = hg.TickClock()
 
@@ -93,13 +103,14 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) do
 	variable_speed = variable_speed + min_speed
 	-- print("variable_speed = " .. variable_speed)
 
-	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed
+	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed * speed_factor
 	main_camera_node:GetTransform():SetPos(cam_pos)
 	skybox_pos.x = cam_pos.x
 	skybox_node:GetTransform():SetPos(skybox_pos)
 
 	if cam_pos.x > max_len then
-		cam_pos.x = cam_pos.x - max_len
+		-- cam_pos.x = cam_pos.x - max_len
+		state = "quit"
 	end
 
 	main_scene:Update(dt)
