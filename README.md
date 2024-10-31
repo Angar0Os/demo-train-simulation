@@ -30,6 +30,9 @@ The simulator generates visuals tailored for RGB camera perception, with the fol
 ## Pending Clarifications
 To ensure that the simulator meets the requirements for AI training, we need clarification on the following:
 
+1. **Purpose of the AI training session**
+   - Is it for training a computer vision only ? or does it encompass the autonomous driving as well ?
+
 1. **AI Model Specifications**:
    - Will the AI operate using reinforcement learning, and if so, are there specific reward structures or target outcomes?
    
