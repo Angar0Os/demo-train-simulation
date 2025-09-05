@@ -1,0 +1,94 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			67,
+			67,
+			67,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "probes/blue_sky.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "probes/blue_sky.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"anim": "Take 001",
+			"loop_mode": "loop",
+			"name": "characters/male_kevin_waving_mixamo/male_kevin_waving_mixamo.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 0,
+			"name": "male_kevin_waving_mixamo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				6.1438493728637695,
+				0.30000001192092896,
+				14.871943473815918
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		}
+	]
+}

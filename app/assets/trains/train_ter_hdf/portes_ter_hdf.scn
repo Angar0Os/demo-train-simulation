@@ -1524,7 +1524,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 14,
+			"idx": 12,
 			"name": "sfx_right"
 		},
 		{
@@ -1537,8 +1537,56 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 15,
+			"idx": 13,
 			"name": "sfx_left"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"name": "window"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"name": "window"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				8,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"name": "window"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				9,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"name": "window"
 		}
 	],
 	"objects": [
@@ -2484,6 +2532,226 @@
 				}
 			],
 			"name": "trains/train_ter_hdf/door_left_rear_53.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.637130856513977,
+								0.637130856513977,
+								0.637130856513977,
+								0.3499999940395355
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.20000000298023224,
+								0.8999999761581421,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/plane.geo"
 		}
 	],
 	"scene_anims": [
@@ -2514,7 +2782,7 @@
 				},
 				{
 					"anim": 32,
-					"node": 14
+					"node": 12
 				}
 			],
 			"t_end": 5000000000,
@@ -2547,7 +2815,7 @@
 				},
 				{
 					"anim": 30,
-					"node": 14
+					"node": 12
 				}
 			],
 			"t_end": 5000000000,
@@ -2580,7 +2848,7 @@
 				},
 				{
 					"anim": 33,
-					"node": 14
+					"node": 12
 				}
 			],
 			"t_end": 5000000000,
@@ -2613,7 +2881,7 @@
 				},
 				{
 					"anim": 31,
-					"node": 14
+					"node": 12
 				}
 			],
 			"t_end": 5000000000,
@@ -2920,6 +3188,78 @@
 				0.9999998807907104,
 				0.9999998807907104,
 				0.9999997615814209
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				-0.4658113121986389,
+				0.3115861415863037,
+				-0.0340578556060791
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				-0.0
+			],
+			"scl": [
+				0.5556519031524658,
+				0.9999994039535522,
+				1.052444577217102
+			]
+		},
+		{
+			"parent": 0,
+			"pos": [
+				-0.4658113121986389,
+				0.3115861415863037,
+				0.039423584938049316
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				-0.0
+			],
+			"scl": [
+				0.5556517839431763,
+				0.9999992847442627,
+				1.0524444580078125
+			]
+		},
+		{
+			"parent": 5,
+			"pos": [
+				0.4659999907016754,
+				0.3115861415863037,
+				-0.0340578556060791
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				-0.0
+			],
+			"scl": [
+				0.5556519031524658,
+				0.9999994039535522,
+				1.052444577217102
+			]
+		},
+		{
+			"parent": 8,
+			"pos": [
+				0.4659999907016754,
+				0.3115861415863037,
+				0.031073451042175293
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				-0.0
+			],
+			"scl": [
+				0.5556517839431763,
+				0.9999992847442627,
+				1.0524444580078125
 			]
 		}
 	]

@@ -3,7 +3,7 @@
 "finalizer_script":""
 "geometry_policy":"1"
 "geometry_scale":"1.000000"
-"gltf_file_path":"D:\Works\Sncf VR 2023\3D\harfang\railenium works\ground_nord_02/ground_nord_02.gltf"
+"gltf_file_path":"d:/Works/Sncf VR 2023/3D/harfang/works/props_background/ground_nord_02/ground_nord_02.gltf"
 "material_policy":"1"
 "output_folder":"props_background/ground_nord_02"
 "recalculate_normals":"0"

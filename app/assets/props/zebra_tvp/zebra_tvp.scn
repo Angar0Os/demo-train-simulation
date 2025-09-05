@@ -136,7 +136,7 @@
 					"write_b": true,
 					"write_g": true,
 					"write_r": true,
-					"write_z": true
+					"write_z": false
 				}
 			],
 			"name": "props/zebra_tvp/z.geo"

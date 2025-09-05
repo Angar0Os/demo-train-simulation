@@ -7,3 +7,4 @@
 *.tmp
 *.bin
 /app/assets_compiled
+/app/assets_compiled_py

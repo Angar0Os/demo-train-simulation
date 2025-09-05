@@ -1,0 +1,398 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			90,
+			83,
+			73,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			12,
+			16,
+			30,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			1,
+			2,
+			4,
+			0
+		],
+		"fog_far": 200.0,
+		"fog_near": 50.0,
+		"probe": {
+			"irradiance_map": "probes/night_sky_darker.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "probes/night_sky_darker.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/skydome/skydome_night.scn"
+		},
+		{
+			"name": "fx/fog_occluder_night.scn"
+		},
+		{
+			"name": "fx/fog_occluder_night.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				255,
+				244,
+				180,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7853981852531433,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 33.29999923706055,
+			"shadow_bias": 9.999999747378752e-06,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				244,
+				180,
+				255
+			],
+			"specular_intensity": 2.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				255,
+				244,
+				180,
+				255
+			],
+			"diffuse_intensity": 0.5799999833106995,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7504915595054626,
+			"priority": -1.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 5.900000095367432,
+			"shadow_bias": 9.999999747378752e-05,
+			"shadow_type": "none",
+			"specular": [
+				255,
+				244,
+				180,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				255,
+				244,
+				180,
+				255
+			],
+			"diffuse_intensity": 0.6800000071525574,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7574729323387146,
+			"priority": -1.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 5.900000095367432,
+			"shadow_bias": 9.999999747378752e-05,
+			"shadow_type": "none",
+			"specular": [
+				255,
+				244,
+				180,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				255,
+				244,
+				180,
+				255
+			],
+			"diffuse_intensity": 0.6800000071525574,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7574729323387146,
+			"priority": -1.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 5.900000095367432,
+			"shadow_bias": 9.999999747378752e-05,
+			"shadow_type": "none",
+			"specular": [
+				255,
+				244,
+				180,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "MainLight"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 0,
+			"name": "skydome"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				1,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "EquipmentLight"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				2,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"name": "EquipmentLight"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				3,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "EquipmentLight"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 2,
+			"name": "fog_occluder_night"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 1,
+			"name": "fog_occluder_night"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				4.791814804077148,
+				20.327739715576172,
+				0.8282976150512695
+			],
+			"rot": [
+				89.99995422363281,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999998807907104,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				10.0,
+				5.0,
+				10.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.819578170776367,
+				4.158651828765869,
+				-6.5372819900512695
+			],
+			"rot": [
+				52.454734802246094,
+				178.0423126220703,
+				0.0
+			],
+			"scl": [
+				0.9999986290931702,
+				0.9999988079071045,
+				0.9999992251396179
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				36.827571868896484,
+				4.357349872589111,
+				-6.596880912780762
+			],
+			"rot": [
+				85.22329711914063,
+				180.0,
+				180.0
+			],
+			"scl": [
+				0.9999983906745911,
+				0.9999985098838806,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				29.145299911499023,
+				4.357349872589111,
+				7.5768232345581055
+			],
+			"rot": [
+				85.22329711914063,
+				-179.99996948242188,
+				-179.99996948242188
+			],
+			"scl": [
+				0.9999980330467224,
+				0.9999978542327881,
+				0.9999988675117493
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				400.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-400.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

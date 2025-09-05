@@ -91,7 +91,7 @@
 						},
 						{
 							"name": "uNormalMap",
-							"path": "props/tablette/tabouret_normal.png",
+							"path": "props/tabouret/tabouret_normal.png",
 							"stage": 2
 						},
 						{

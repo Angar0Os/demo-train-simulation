@@ -155,7 +155,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/borne recharge_maps/glass_car.png",
+							"path": "props/cars/maps_cars/glass_car.png",
 							"stage": 0
 						}
 					],

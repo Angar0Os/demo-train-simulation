@@ -11,30 +11,30 @@
 	},
 	"environment": {
 		"ambient": [
-			44,
-			75,
-			217,
+			12,
+			16,
+			30,
 			0
 		],
 		"brdf_map": "core/pbr/brdf.dds",
 		"current_camera": null,
 		"fog_color": [
-			5,
-			8,
-			11,
+			1,
+			2,
+			4,
 			0
 		],
-		"fog_far": 500.0,
-		"fog_near": 100.0,
+		"fog_far": 200.0,
+		"fog_near": 50.0,
 		"probe": {
-			"irradiance_map": "probes/night_sky.hdr.irradiance",
+			"irradiance_map": "probes/night_sky_darker.hdr.irradiance",
 			"parallax": 0.0,
 			"pos": [
 				0.0,
 				0.0,
 				0.0
 			],
-			"radiance_map": "probes/night_sky.hdr.radiance",
+			"radiance_map": "probes/night_sky_darker.hdr.radiance",
 			"rot": [
 				0.0,
 				0.0,
@@ -51,6 +51,12 @@
 	"instances": [
 		{
 			"name": "props/skydome/skydome_night.scn"
+		},
+		{
+			"name": "fx/fog_occluder_night.scn"
+		},
+		{
+			"name": "fx/fog_occluder_night.scn"
 		}
 	],
 	"key_values": null,
@@ -58,11 +64,11 @@
 		{
 			"diffuse": [
 				255,
-				255,
-				255,
+				244,
+				180,
 				255
 			],
-			"diffuse_intensity": 3.0,
+			"diffuse_intensity": 1.0,
 			"inner_angle": 9.999999747378752e-05,
 			"outer_angle": 0.7853981852531433,
 			"priority": 0.0,
@@ -72,74 +78,16 @@
 				100.0,
 				200.0
 			],
-			"radius": 0.0,
+			"radius": 33.29999923706055,
 			"shadow_bias": 9.999999747378752e-06,
 			"shadow_type": "map",
 			"specular": [
 				255,
-				255,
-				255,
+				244,
+				180,
 				255
 			],
-			"specular_intensity": 3.0,
-			"type": "spot"
-		},
-		{
-			"diffuse": [
-				255,
-				255,
-				255,
-				255
-			],
-			"diffuse_intensity": 1.0,
-			"inner_angle": 9.999999747378752e-05,
-			"outer_angle": 0.7853981852531433,
-			"priority": -1.0,
-			"pssm_split": [
-				10.0,
-				50.0,
-				100.0,
-				200.0
-			],
-			"radius": 0.0,
-			"shadow_bias": 9.999999747378752e-06,
-			"shadow_type": "none",
-			"specular": [
-				255,
-				255,
-				255,
-				255
-			],
-			"specular_intensity": 1.0,
-			"type": "spot"
-		},
-		{
-			"diffuse": [
-				255,
-				255,
-				255,
-				255
-			],
-			"diffuse_intensity": 1.5,
-			"inner_angle": 9.999999747378752e-05,
-			"outer_angle": 0.7853981852531433,
-			"priority": -1.0,
-			"pssm_split": [
-				10.0,
-				50.0,
-				100.0,
-				200.0
-			],
-			"radius": 0.0,
-			"shadow_bias": 9.999999747378752e-06,
-			"shadow_type": "none",
-			"specular": [
-				255,
-				255,
-				255,
-				255
-			],
-			"specular_intensity": 1.5,
+			"specular_intensity": 2.0,
 			"type": "spot"
 		}
 	],
@@ -154,7 +102,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"name": "Light"
+			"name": "MainLight"
 		},
 		{
 			"components": [
@@ -174,43 +122,45 @@
 				2,
 				4294967295,
 				4294967295,
-				1,
+				4294967295,
 				4294967295
 			],
-			"disabled": true,
+			"disabled": false,
 			"idx": 2,
-			"name": "Light"
+			"instance": 1,
+			"name": "fog_occluder_night"
 		},
 		{
 			"components": [
 				3,
 				4294967295,
 				4294967295,
-				2,
+				4294967295,
 				4294967295
 			],
-			"disabled": true,
+			"disabled": false,
 			"idx": 3,
-			"name": "Light"
+			"instance": 2,
+			"name": "fog_occluder_night"
 		}
 	],
 	"transforms": [
 		{
 			"parent": null,
 			"pos": [
-				-11.0,
-				11.0,
-				-3.999999761581421
+				4.791814804077148,
+				20.327739715576172,
+				0.8282976150512695
 			],
 			"rot": [
-				47.93659591674805,
-				50.88945388793945,
-				58.88643264770508
+				89.99995422363281,
+				0.0,
+				0.0
 			],
 			"scl": [
-				0.9999999403953552,
-				1.0000001192092896,
-				0.9999998807907104
+				0.9999997615814209,
+				0.9999998807907104,
+				0.9999998211860657
 			]
 		},
 		{
@@ -234,37 +184,37 @@
 		{
 			"parent": null,
 			"pos": [
-				46.12188720703125,
-				37.03577423095703,
-				-18.821043014526367
+				400.0,
+				0.0,
+				0.0
 			],
 			"rot": [
-				47.93659591674805,
-				50.889434814453125,
-				58.88640594482422
+				0.0,
+				0.0,
+				0.0
 			],
 			"scl": [
-				0.9999998807907104,
-				1.0000001192092896,
-				0.9999998807907104
+				1.0,
+				1.0,
+				1.0
 			]
 		},
 		{
 			"parent": null,
 			"pos": [
-				-86.37379455566406,
-				37.03577423095703,
-				-18.821043014526367
+				-400.0,
+				0.0,
+				0.0
 			],
 			"rot": [
-				47.93659591674805,
-				50.889434814453125,
-				58.88640594482422
+				0.0,
+				0.0,
+				0.0
 			],
 			"scl": [
-				0.9999998807907104,
-				1.0000001192092896,
-				0.9999998807907104
+				1.0,
+				1.0,
+				1.0
 			]
 		}
 	]

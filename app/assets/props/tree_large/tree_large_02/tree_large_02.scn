@@ -208,7 +208,7 @@
 							]
 						}
 					],
-					"write_a": true,
+					"write_a": false,
 					"write_b": true,
 					"write_g": true,
 					"write_r": true,

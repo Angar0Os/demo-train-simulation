@@ -1,0 +1,153 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			58,
+			58,
+			58,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			12,
+			16,
+			30,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 15.0,
+		"fog_near": 5.0,
+		"probe": {
+			"irradiance_map": "probes/espace_recharge.hdr.irradiance",
+			"parallax": 1.0,
+			"pos": [
+				23.25,
+				2.0,
+				10.199999809265137
+			],
+			"radiance_map": "probes/espace_recharge.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.5,
+				4.0,
+				5.0
+			],
+			"type": "cube"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/skydome/skydome_night.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				255,
+				244,
+				180,
+				255
+			],
+			"diffuse_intensity": 0.5,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7853981852531433,
+			"priority": 1.0,
+			"pssm_split": [
+				5.0,
+				10.0,
+				25.0,
+				75.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 0.0005000000237487257,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				244,
+				180,
+				255
+			],
+			"specular_intensity": 0.5,
+			"type": "linear"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "LightMoon"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 0,
+			"name": "skydome"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-11.0,
+				11.0,
+				-3.999999761581421
+			],
+			"rot": [
+				90.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0000001192092896,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				10.0,
+				5.0,
+				10.0
+			]
+		}
+	]
+}

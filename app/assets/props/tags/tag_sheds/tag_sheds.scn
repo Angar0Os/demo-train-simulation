@@ -121,7 +121,7 @@
 					"write_b": true,
 					"write_g": true,
 					"write_r": true,
-					"write_z": true
+					"write_z": false
 				}
 			],
 			"name": "props/tags/tag_sheds/tag_sheds.geo"
@@ -136,7 +136,7 @@
 				0.0
 			],
 			"rot": [
-				-89.99996185302734,
+				-89.99995422363281,
 				-180.0,
 				180.0
 			],

@@ -50,28 +50,39 @@
 	},
 	"instances": [
 		{
-			"name": "props/tvp_picto_pieton_ballast/tvp_ballast.scn"
+			"name": "signaletique/sgn_3C 2500x750/sgn_3C 2500x750.scn"
 		},
 		{
-			"name": "props/tvp_picto_pieton_ballast/tvp_ballast.scn"
-		},
-		{
-			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
-		},
-		{
-			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
-		},
-		{
-			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
-		},
-		{
-			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+			"name": "signaletique/sgn_3C 2500x750/sgn_3C 2500x750.scn"
 		},
 		{
 			"name": "props/tvp_poteau_signaletique_sud/tvp_poteau_signaletique_sud.scn"
 		},
 		{
 			"name": "props/tvp_poteau_signaletique_sud/tvp_poteau_signaletique_sud.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "signaletique/sgn_3ATP 1080x480/sgn_3ATP 1080x480.scn"
+		},
+		{
+			"name": "props/tvp_picto_pieton_ballast/tvp_ballast.scn"
+		},
+		{
+			"name": "props/tvp_picto_pieton_ballast/tvp_ballast.scn"
+		},
+		{
+			"anim": "off",
+			"loop_mode": "none",
+			"name": "props/tvp_pictogram_blinking/tvp_pictogram_blinking_group.scn"
 		}
 	],
 	"key_values": null,
@@ -86,7 +97,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"instance": 0,
+			"instance": 9,
 			"name": "tvp_ballast"
 		},
 		{
@@ -98,8 +109,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 3,
-			"instance": 1,
+			"idx": 1,
+			"instance": 8,
 			"name": "tvp_ballast"
 		},
 		{
@@ -111,8 +122,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 6,
-			"instance": 7,
+			"idx": 2,
+			"instance": 2,
 			"name": "tvp_poteau_signaletique_sud"
 		},
 		{
@@ -124,8 +135,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 7,
-			"instance": 4,
+			"idx": 3,
+			"instance": 5,
 			"name": "sgn_3ATP 1080x480"
 		},
 		{
@@ -137,8 +148,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8,
-			"instance": 5,
+			"idx": 4,
+			"instance": 4,
 			"name": "sgn_3ATP 1080x480"
 		},
 		{
@@ -150,8 +161,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 9,
-			"instance": 6,
+			"idx": 5,
+			"instance": 3,
 			"name": "tvp_poteau_signaletique_sud"
 		},
 		{
@@ -163,8 +174,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 10,
-			"instance": 3,
+			"idx": 6,
+			"instance": 6,
 			"name": "sgn_3ATP 1080x480"
 		},
 		{
@@ -176,9 +187,48 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 11,
-			"instance": 2,
+			"idx": 7,
+			"instance": 7,
 			"name": "sgn_3ATP 1080x480"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 1,
+			"name": "sgn_3C 2500x750"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 0,
+			"name": "sgn_3C 2500x750"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"instance": 10,
+			"name": "tvp_pictogram_blinking_group"
 		}
 	],
 	"transforms": [
@@ -222,7 +272,7 @@
 			"parent": null,
 			"pos": [
 				-12.0,
-				0.30000001192092896,
+				0.20000000298023224,
 				-6.0
 			],
 			"rot": [
@@ -240,7 +290,7 @@
 			"parent": null,
 			"pos": [
 				-12.0,
-				0.30000001192092896,
+				0.20000000298023224,
 				6.0
 			],
 			"rot": [
@@ -255,7 +305,7 @@
 			]
 		},
 		{
-			"parent": 6,
+			"parent": 2,
 			"pos": [
 				0.032052040100097656,
 				2.700000047683716,
@@ -273,7 +323,7 @@
 			]
 		},
 		{
-			"parent": 6,
+			"parent": 2,
 			"pos": [
 				-0.034119606018066406,
 				2.700000047683716,
@@ -291,7 +341,7 @@
 			]
 		},
 		{
-			"parent": 9,
+			"parent": 5,
 			"pos": [
 				0.03279685974121094,
 				2.700000047683716,
@@ -309,7 +359,7 @@
 			]
 		},
 		{
-			"parent": 9,
+			"parent": 5,
 			"pos": [
 				-0.03466033935546875,
 				2.700000047683716,
@@ -324,6 +374,60 @@
 				0.9999997615814209,
 				1.0,
 				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				0.009999999776482582,
+				4.150000095367432
+			],
+			"rot": [
+				-0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				0.009999999776482582,
+				-4.150000095367432
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
 			]
 		}
 	]

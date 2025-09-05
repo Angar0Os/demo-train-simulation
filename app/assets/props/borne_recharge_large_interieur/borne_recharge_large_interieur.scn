@@ -81,17 +81,17 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/borne_recharge_large_interieur/borne_recharge_large_albedo.png",
+							"path": "props/borne recharge_maps/borne_recharge_large_albedo.png",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
-							"path": "props/borne_recharge_large_interieur/borne_recharge_large_normal.png",
+							"path": "props/borne recharge_maps/borne_recharge_large_normal.png",
 							"stage": 2
 						},
 						{
 							"name": "uOcclusionRoughnessMetalnessMap",
-							"path": "props/borne_recharge_large_interieur/borne_recharge_large_aoborne_recharge_large_roughnessborne_recharge_large_metal.png",
+							"path": "props/borne recharge_maps/borne_recharge_large_aoborne_recharge_large_roughnessborne_recharge_large_metal.png",
 							"stage": 1
 						}
 					],

@@ -96,12 +96,12 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/tvp_picto_pieton_ballast/tvp_poteau_signaletique_catenaire_Base_Color.png",
+							"path": "props/tvp_poteau_signaletique_nord/tvp_poteau_signaletique_catenaire_Base_Color.png",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
-							"path": "props/tvp_picto_pieton_ballast/tvp_poteau_signaletique_catenaire_Normal_DirectX.png",
+							"path": "props/tvp_poteau_signaletique_nord/tvp_poteau_signaletique_catenaire_Normal_DirectX.png",
 							"stage": 2
 						},
 						{
@@ -162,12 +162,12 @@
 						},
 						{
 							"name": "uNormalMap",
-							"path": "props/tvp_picto_pieton_ballast/tvp_poteau_signaletique_catenaire_Normal_DirectX.png",
+							"path": "props/tvp_poteau_signaletique_nord/tvp_poteau_signaletique_catenaire_Normal_DirectX.png",
 							"stage": 2
 						},
 						{
 							"name": "uOcclusionRoughnessMetalnessMap",
-							"path": "props/tvp_picto_pieton_ballast/panneaux_signaletique_Mixed_AO229panneaux_signaletique_Metallic.jpg",
+							"path": "props/totem/panneaux_signaletique_Mixed_AO229panneaux_signaletique_Metallic.jpg",
 							"stage": 1
 						}
 					],

@@ -1546,7 +1546,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/train_station_01/TexturesCom_MetalGalvanized0022_1_seamless_S.jpg",
+							"path": "signaletique/sgn_poteau/galvanize_albedo.jpg",
 							"stage": 0
 						}
 					],
@@ -1756,7 +1756,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/train_station_01/TexturesCom_MetalGalvanized0022_1_seamless_S.jpg",
+							"path": "signaletique/sgn_poteau/galvanize_albedo.jpg",
 							"stage": 0
 						}
 					],

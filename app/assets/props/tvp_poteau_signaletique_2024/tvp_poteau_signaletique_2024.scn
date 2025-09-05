@@ -84,7 +84,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/tvp_poteau_signaletique_2024/tvp_poteau_signaletique_catenaire_phase2.jpg",
+							"path": "props/tvp_poteau_signaletique_sud/tvp_poteau_signaletique_catenaire_phase2.jpg",
 							"stage": 0
 						},
 						{
@@ -155,17 +155,17 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "props/tvp_poteau_signaletique_2024/panneaux_signaletique_phase2.jpg",
+							"path": "props/tvp_poteau_signaletique_sud/panneaux_signaletique_phase2.jpg",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
-							"path": "props/tvp_poteau_signaletique_2024/panneaux_signaletique_Normal__phase2.png",
+							"path": "props/tvp_poteau_signaletique_sud/panneaux_signaletique_Normal__phase2.png",
 							"stage": 2
 						},
 						{
 							"name": "uOcclusionRoughnessMetalnessMap",
-							"path": "props/tvp_poteau_signaletique_2024/panneaux_signaletique__AO_phase2229panneaux_signaletique_Metallicphase2.png",
+							"path": "props/tvp_poteau_signaletique_sud/panneaux_signaletique__AO_phase2229panneaux_signaletique_Metallicphase2.png",
 							"stage": 1
 						}
 					],

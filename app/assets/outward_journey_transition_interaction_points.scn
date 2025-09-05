@@ -53,13 +53,19 @@
 			"name": "helpers/interaction_point_0.scn"
 		},
 		{
-			"name": "helpers/interaction_point_1.scn"
+			"name": "helpers/interaction_point_3.scn"
 		},
 		{
 			"name": "platform/platform_simulation.scn"
 		},
 		{
 			"name": "platform/environment.scn"
+		},
+		{
+			"name": "helpers/interaction_point_2.scn"
+		},
+		{
+			"name": "helpers/interaction_point_1.scn"
 		}
 	],
 	"key_values": null,
@@ -88,7 +94,7 @@
 			"disabled": false,
 			"idx": 1,
 			"instance": 1,
-			"name": "interaction_point_1"
+			"name": "interaction_point_3"
 		},
 		{
 			"components": [
@@ -98,8 +104,8 @@
 				4294967295,
 				4294967295
 			],
-			"disabled": false,
-			"idx": 14,
+			"disabled": true,
+			"idx": 2,
 			"instance": 2,
 			"name": "platform_simulation"
 		},
@@ -111,10 +117,36 @@
 				4294967295,
 				4294967295
 			],
-			"disabled": false,
-			"idx": 233,
+			"disabled": true,
+			"idx": 3,
 			"instance": 3,
 			"name": "environment"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 4,
+			"name": "interaction_point_2"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 251,
+			"instance": 5,
+			"name": "interaction_point_1"
 		}
 	],
 	"transforms": [
@@ -123,7 +155,7 @@
 			"pos": [
 				-3.8986024856567383,
 				0.6000000238418579,
-				-1.0412732362747192
+				-1.5
 			],
 			"rot": [
 				-0.0,
@@ -131,9 +163,9 @@
 				0.0
 			],
 			"scl": [
-				0.9999993443489075,
-				0.9999993443489075,
-				0.9999986886978149
+				0.9999992847442627,
+				0.9999992847442627,
+				0.9999985694885254
 			]
 		},
 		{
@@ -188,6 +220,42 @@
 				1.0,
 				1.0,
 				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				7.125286102294922,
+				0.6000000238418579,
+				-1.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				0.9999980926513672
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.0,
+				0.6000000238418579,
+				-1.5
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				0.9999980926513672
 			]
 		}
 	]

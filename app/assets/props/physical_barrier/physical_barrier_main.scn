@@ -1,0 +1,2063 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 16
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 6000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 26000000000,
+								"tension": 1.0,
+								"v": [
+									0.6180413961410522,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 17
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 2000000000,
+								"v": true
+							},
+							{
+								"t": 28000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 2000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_arriere",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 28000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 18
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 6000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 26000000000,
+								"tension": 1.0,
+								"v": [
+									0.6182012557983398,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 19
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 2000000000,
+								"v": true
+							},
+							{
+								"t": 30000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 2000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_avant",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 30000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 20
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 6000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 26000000000,
+								"tension": 1.0,
+								"v": [
+									0.6182012557983398,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					},
+					{
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 21
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 2000000000,
+								"v": true
+							},
+							{
+								"t": 30000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 2000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_cache",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 30000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 22
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "hide",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 23
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 6000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 26000000000,
+								"tension": 1.0,
+								"v": [
+									0.6179354786872864,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 24
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 25
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 8000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 28000000000,
+								"tension": 1.0,
+								"v": [
+									0.6180413961410522,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 32000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 26
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 4000000000,
+								"v": true
+							},
+							{
+								"t": 30000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 4000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_arriere",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 30000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 27
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 8000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 28000000000,
+								"tension": 1.0,
+								"v": [
+									0.6179354786872864,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 32000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 28
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 29
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 9000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 29000000000,
+								"tension": 1.0,
+								"v": [
+									0.6182012557983398,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 33000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					},
+					{
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 30
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 5000000000,
+								"v": true
+							},
+							{
+								"t": 33000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_cache",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 33000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 31
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 9000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 29000000000,
+								"tension": 1.0,
+								"v": [
+									0.6179354786872864,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 33000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 32
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 33
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 7000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 27000000000,
+								"tension": 1.0,
+								"v": [
+									0.6182012557983398,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 31000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					},
+					{
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 34
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 3000000000,
+								"v": true
+							},
+							{
+								"t": 31000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 3000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_cache",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 31000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 35
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 7000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 27000000000,
+								"tension": 1.0,
+								"v": [
+									0.6179354786872864,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 31000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 36
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 37
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 1.0,
+								"v": [
+									-0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 9000000000,
+								"tension": 1.0,
+								"v": [
+									0.6108652353286743,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 29000000000,
+								"tension": 1.0,
+								"v": [
+									0.6182012557983398,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 33000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 38
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							},
+							{
+								"t": 5000000000,
+								"v": true
+							},
+							{
+								"t": 33000000000,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5000000000,
+								"v": {
+									"loop": "none",
+									"name": "B_anim_train_avant",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 33000000000,
+								"v": {
+									"loop": "none",
+									"name": "init",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 39
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			78,
+			76,
+			65,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			255
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			255,
+			255,
+			255,
+			255
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/physical_barrier/physical_barrier.scn"
+		},
+		{
+			"name": "blocs/quai_nord_gare_02/quai_nord_gare_02.scn"
+		},
+		{
+			"name": "props/zebra_tvp/zebra_tvp.scn"
+		},
+		{
+			"name": "props/info_barriere/ecran_info_barriere.scn"
+		},
+		{
+			"name": "props/square_shadow/square_shadow.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 0,
+			"name": "physical_barrier"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "rotation_axis"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 2,
+			"instance": 1,
+			"name": "quai_nord_gare_02"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 3,
+			"instance": 2,
+			"name": "zebra_tvp"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 4,
+			"instance": 3,
+			"name": "ecran_info_barriere"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"name": "physical_barrier_offset"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 4,
+			"name": "square_shadow"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"name": "root"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"name": "box"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"name": "box"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.1518988013267517,
+								0.1518988013267517,
+								0.1518988013267517,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.19999998807907104,
+								0.5959999561309814,
+								0.14999999105930328,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "primitives/cube.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.1518988013267517,
+								0.1518988013267517,
+								0.1518988013267517,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.19999998807907104,
+								0.5959999561309814,
+								0.14999999105930328,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "primitives/cube.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "init",
+			"node_anims": [
+				{
+					"anim": 16,
+					"node": 1
+				},
+				{
+					"anim": 23,
+					"node": 4
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_arriere",
+			"node_anims": [
+				{
+					"anim": 17,
+					"node": 1
+				},
+				{
+					"anim": 18,
+					"node": 4
+				}
+			],
+			"t_end": 30100000768,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_avant",
+			"node_anims": [
+				{
+					"anim": 19,
+					"node": 1
+				},
+				{
+					"anim": 20,
+					"node": 4
+				}
+			],
+			"t_end": 30100000768,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_cache",
+			"node_anims": [
+				{
+					"anim": 21,
+					"node": 1
+				},
+				{
+					"anim": 22,
+					"node": 4
+				}
+			],
+			"t_end": 30100000768,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_no_visual",
+			"node_anims": [
+				{
+					"anim": 24,
+					"node": 1
+				},
+				{
+					"anim": 25,
+					"node": 4
+				}
+			],
+			"t_end": 30100000768,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_arriere_delay_2sec",
+			"node_anims": [
+				{
+					"anim": 26,
+					"node": 1
+				},
+				{
+					"anim": 27,
+					"node": 4
+				}
+			],
+			"t_end": 32099997696,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_no_visual_delay_2sec",
+			"node_anims": [
+				{
+					"anim": 28,
+					"node": 1
+				},
+				{
+					"anim": 29,
+					"node": 4
+				}
+			],
+			"t_end": 32099997696,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_cache_delay_3sec",
+			"node_anims": [
+				{
+					"anim": 30,
+					"node": 1
+				},
+				{
+					"anim": 31,
+					"node": 4
+				}
+			],
+			"t_end": 33099999232,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_no_visual_delay_3sec",
+			"node_anims": [
+				{
+					"anim": 32,
+					"node": 1
+				},
+				{
+					"anim": 33,
+					"node": 4
+				}
+			],
+			"t_end": 33099999232,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_cache_delay_1sec",
+			"node_anims": [
+				{
+					"anim": 34,
+					"node": 1
+				},
+				{
+					"anim": 35,
+					"node": 4
+				}
+			],
+			"t_end": 31100000256,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_no_visual_delay_1sec",
+			"node_anims": [
+				{
+					"anim": 36,
+					"node": 1
+				},
+				{
+					"anim": 37,
+					"node": 4
+				}
+			],
+			"t_end": 31100000256,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "open_B_anim_train_avant_delay_3sec",
+			"node_anims": [
+				{
+					"anim": 38,
+					"node": 1
+				},
+				{
+					"anim": 39,
+					"node": 4
+				}
+			],
+			"t_end": 33099999232,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": 7,
+			"pos": [
+				0.0,
+				0.0,
+				-0.026864252984523773
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-20.0,
+				0.0,
+				-4.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				0.0,
+				-4.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": 5,
+			"pos": [
+				0.0,
+				-0.0007771578384563327,
+				0.00354757159948349
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9707946181297302,
+				0.9999992251396179,
+				1.0283012390136719
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-4.341380588357424e-08,
+				0.016499996185302734,
+				-0.12999999523162842
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999991655349731,
+				0.9999993443489075
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 7,
+			"pos": [
+				0.0,
+				0.010205898433923721,
+				-0.1600518524646759
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.2999868392944336,
+				0.9999997019767761,
+				0.35390084981918335
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				0.4990966320037842,
+				-0.11525724828243256,
+				-0.12999999523162842
+			],
+			"rot": [
+				-7.016736655276372e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0149997472763062,
+				0.24428234994411469,
+				0.24428246915340424
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-0.49900001287460327,
+				-0.11525724828243256,
+				-0.12999999523162842
+			],
+			"rot": [
+				-7.016736655276372e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0149997472763062,
+				0.24428234994411469,
+				0.24428246915340424
+			]
+		}
+	]
+}

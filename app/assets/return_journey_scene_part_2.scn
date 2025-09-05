@@ -123,12 +123,42 @@
 			"name": "helpers/interaction_point_a.scn"
 		},
 		{
-			"anim": "off",
-			"loop_mode": "none",
-			"name": "props/tvp_pictogram_blinking/tvp_pictogram_blinking_group.scn"
+			"name": "characters/character_man_01/character_man_01.scn"
 		},
 		{
-			"name": "scene_signals_gare_01_tvp_ouest.scn"
+			"anim": "1637776932224_TempMotion",
+			"loop_mode": "loop",
+			"name": "characters/male_alex_idlelookingaround_01/male_alex_idlelookingaround_01.scn"
+		},
+		{
+			"anim": "mixamo.com",
+			"loop_mode": "loop",
+			"name": "characters/male_paul_idle/male_paul_idle.scn"
+		},
+		{
+			"anim": "far_forward",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
+		},
+		{
+			"anim": "all_off",
+			"loop_mode": "none",
+			"name": "danger_zone_gare_01.scn"
+		},
+		{
+			"name": "props/physical_barrier/physical_barrier_main.scn"
+		},
+		{
+			"name": "props/physical_barrier/physical_barrier_main.scn"
+		},
+		{
+			"name": "helpers/letter_north.scn"
+		},
+		{
+			"name": "helpers/letter_south.scn"
+		},
+		{
+			"name": "sounds/barrier_audio.scn"
 		}
 	],
 	"key_values": null,
@@ -401,7 +431,7 @@
 			"disabled": false,
 			"idx": 20,
 			"instance": 17,
-			"name": "train_ter_hdf"
+			"name": "train_ter_hdf_north"
 		},
 		{
 			"components": [
@@ -438,9 +468,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 906,
-			"instance": 20,
-			"name": "tvp_pictogram_blinking_group"
+			"idx": 23,
+			"instance": 21,
+			"name": "male_alex_idlelookingaround_01"
 		},
 		{
 			"components": [
@@ -451,9 +481,113 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 907,
-			"instance": 21,
-			"name": "scene_signals_gare_01_tvp_ouest"
+			"idx": 24,
+			"instance": 20,
+			"name": "character_man_01"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"instance": 22,
+			"name": "male_paul_idle"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 23,
+			"name": "train_ter_hdf_south"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 24,
+			"name": "danger_zone_gare_01"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 25,
+			"name": "physical_barrier_north"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 26,
+			"name": "physical_barrier_south"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 28,
+			"name": "letter_south"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 27,
+			"name": "letter_north"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1516,
+			"instance": 29,
+			"name": "sfx_barrier_audio"
 		}
 	],
 	"transforms": [
@@ -676,7 +810,7 @@
 		{
 			"parent": null,
 			"pos": [
-				2.7822158336639404,
+				2.8988001346588135,
 				0.33505260944366455,
 				1.6887801885604858
 			],
@@ -686,9 +820,9 @@
 				0.0
 			],
 			"scl": [
-				0.9999992847442627,
-				0.9999992847442627,
-				0.9999985694885254
+				0.9999992251396179,
+				0.9999992251396179,
+				0.9999984502792358
 			]
 		},
 		{
@@ -856,7 +990,7 @@
 		{
 			"parent": null,
 			"pos": [
-				2.993832588195801,
+				2.8645639419555664,
 				0.33500000834465027,
 				4.9368062019348145
 			],
@@ -866,9 +1000,171 @@
 				0.0
 			],
 			"scl": [
-				0.9999996423721313,
-				0.9999996423721313,
-				0.9999992847442627
+				0.9999995827674866,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				51.48478317260742,
+				0.30000001192092896,
+				5.703273296356201
+			],
+			"rot": [
+				-0.0,
+				-33.996986389160156,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999997019767761,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-53.288185119628906,
+				0.30000001192092896,
+				-5.0049967765808105
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.988460540771484,
+				0.2929938733577728,
+				5.463703632354736
+			],
+			"rot": [
+				-0.0,
+				-3.9999985694885254,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999997019767761,
+				0.9999993443489075
+			]
+		},
+		{
+			"parent": 3,
+			"pos": [
+				67.5,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				0.0,
+				4.485000133514404
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0999999046325684,
+				1.0999999046325684,
+				1.0999999046325684
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.000000953674316,
+				0.0,
+				-4.485000133514404
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.100000023841858,
+				1.100000023841858,
+				1.100000023841858
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				1.5,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0,
+				1.5,
+				-6.0
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
 			]
 		},
 		{
@@ -879,32 +1175,14 @@
 				0.0
 			],
 			"rot": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"rot": [
-				0.0,
+				-0.0,
 				0.0,
 				0.0
 			],
 			"scl": [
-				1.0,
-				1.0,
-				1.0
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
 			]
 		}
 	]

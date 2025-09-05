@@ -61,88 +61,11 @@
 	},
 	"instances": [
 		{
-			"anim": "far_backward",
+			"anim": "far_forward",
 			"loop_mode": "none",
 			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
 		},
 		{
-			"name": "helpers/interaction_point_e.scn"
-		},
-		{
-			"name": "helpers/interaction_point_8.scn"
-		},
-		{
-			"anim": "far_backward",
-			"loop_mode": "none",
-			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
-		},
-		{
-			"name": "helpers/interaction_point_7.scn"
-		},
-		{
-			"name": "helpers/interaction_point_f.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "helpers/interaction_point_6.scn"
-		},
-		{
-			"name": "helpers/interaction_point_5.scn"
-		},
-		{
-			"name": "helpers/interaction_point_4.scn"
-		},
-		{
-			"name": "helpers/interaction_point_3.scn"
-		},
-		{
-			"name": "helpers/interaction_point_2.scn"
-		},
-		{
-			"name": "helpers/interaction_point_0.scn"
-		},
-		{
-			"name": "helpers/interaction_point_1.scn"
-		},
-		{
-			"name": "props/public_light/public_light.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X5/fence_small_white_X5.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X5/fence_small_white_X5.scn"
-		},
-		{
-			"name": "props/siege_3pl/siege_3pl.scn"
-		},
-		{
-			"name": "props/siege_5pl/siege_5pl.scn"
-		},
-		{
-			"name": "props/siege_3pl/siege_3pl.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_pole_white/fence_small_pole_white.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "props/affichage_temperature/affichage_temperature.scn"
-		},
-		{
-			"name": "props/fontaines/fontaine_eaupur/fontaine_eaupur.scn"
-		},
-		{
-			"name": "props/jeu/jeu.scn"
-		},
-		{
 			"name": "props/fence_white/fence_small_white_X5/fence_small_white_X5.scn"
 		},
 		{
@@ -153,38 +76,35 @@
 		},
 		{
 			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "props/siege_5pl/siege_5pl.scn"
-		},
-		{
-			"name": "props/poubelle/poubelle.scn"
-		},
-		{
-			"name": "props/salle_expo/salle_expo_complet.scn"
-		},
-		{
-			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
-		},
-		{
-			"name": "props/jeu/jeu.scn"
-		},
-		{
-			"name": "scene_base_gare_02.scn"
-		},
-		{
-			"name": "environment.scn"
 		},
 		{
 			"name": "props/boite_a_livre/boite_a_livre.scn"
 		},
 		{
+			"name": "environment.scn"
+		},
+		{
+			"name": "scene_base_gare_02.scn"
+		},
+		{
+			"name": "props/jeu/jeu.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "props/poubelle/poubelle.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
 			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
 		},
 		{
@@ -195,6 +115,120 @@
 		},
 		{
 			"name": "props/fence_white/fence_small_white_X5/fence_small_white_X5.scn"
+		},
+		{
+			"name": "props/jeu/jeu.scn"
+		},
+		{
+			"name": "props/fontaines/fontaine_eaupur/fontaine_eaupur.scn"
+		},
+		{
+			"name": "props/affichage_temperature/affichage_temperature.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_pole_white/fence_small_pole_white.scn"
+		},
+		{
+			"name": "props/siege_3pl/siege_3pl.scn"
+		},
+		{
+			"name": "props/siege_5pl/siege_5pl.scn"
+		},
+		{
+			"name": "props/siege_3pl/siege_3pl.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X5/fence_small_white_X5.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X5/fence_small_white_X5.scn"
+		},
+		{
+			"name": "props/public_light/public_light.scn"
+		},
+		{
+			"name": "helpers/interaction_point_1.scn"
+		},
+		{
+			"name": "helpers/interaction_point_0.scn"
+		},
+		{
+			"name": "helpers/interaction_point_2.scn"
+		},
+		{
+			"name": "helpers/interaction_point_3.scn"
+		},
+		{
+			"name": "helpers/interaction_point_4.scn"
+		},
+		{
+			"name": "helpers/interaction_point_5.scn"
+		},
+		{
+			"name": "helpers/interaction_point_6.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "props/fence_white/fence_small_white_X1/fence_small_white_X1.scn"
+		},
+		{
+			"name": "helpers/interaction_point_f.scn"
+		},
+		{
+			"name": "helpers/interaction_point_7.scn"
+		},
+		{
+			"anim": "far_forward",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
+		},
+		{
+			"name": "helpers/interaction_point_8.scn"
+		},
+		{
+			"name": "helpers/interaction_point_e.scn"
+		},
+		{
+			"anim": "far_backward",
+			"loop_mode": "none",
+			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
+		},
+		{
+			"anim": "1637432440480_TempMotion",
+			"loop_mode": "loop",
+			"name": "characters/male_paul_listening_music_idle/male_paul_listening_music_idle.scn"
+		},
+		{
+			"anim": "FBXExportClip_0",
+			"loop_mode": "loop",
+			"name": "characters/female_couple_discussion_idle_01/female_couple_discussion_idle_01.scn"
+		},
+		{
+			"anim": "all_off",
+			"loop_mode": "none",
+			"name": "danger_zone_gare_02.scn"
+		},
+		{
+			"name": "props/physical_barrier/physical_barrier_main.scn"
+		},
+		{
+			"anim": "init",
+			"loop_mode": "none",
+			"name": "props/physical_barrier/physical_barrier_main.scn"
+		},
+		{
+			"name": "helpers/letter_north.scn"
+		},
+		{
+			"name": "helpers/letter_south.scn"
+		},
+		{
+			"name": "sounds/barrier_audio.scn"
 		}
 	],
 	"key_values": null,
@@ -209,7 +243,7 @@
 			],
 			"disabled": true,
 			"idx": 0,
-			"instance": 38,
+			"instance": 6,
 			"name": "environment"
 		},
 		{
@@ -258,7 +292,7 @@
 			],
 			"disabled": false,
 			"idx": 4,
-			"instance": 37,
+			"instance": 7,
 			"name": "scene_base_gare_02"
 		},
 		{
@@ -271,7 +305,7 @@
 			],
 			"disabled": false,
 			"idx": 5,
-			"instance": 24,
+			"instance": 19,
 			"name": "fontaine_eaupur"
 		},
 		{
@@ -284,7 +318,7 @@
 			],
 			"disabled": false,
 			"idx": 6,
-			"instance": 36,
+			"instance": 8,
 			"name": "jeu"
 		},
 		{
@@ -297,7 +331,7 @@
 			],
 			"disabled": false,
 			"idx": 7,
-			"instance": 35,
+			"instance": 9,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -310,21 +344,8 @@
 			],
 			"disabled": false,
 			"idx": 8,
-			"instance": 31,
+			"instance": 12,
 			"name": "fence_small_white_X1"
-		},
-		{
-			"components": [
-				41,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": true,
-			"idx": 9,
-			"instance": 34,
-			"name": "salle_expo_complet"
 		},
 		{
 			"components": [
@@ -335,8 +356,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 10,
-			"instance": 39,
+			"idx": 9,
+			"instance": 5,
 			"name": "boite_a_livre"
 		},
 		{
@@ -348,8 +369,8 @@
 				4294967295
 			],
 			"disabled": true,
-			"idx": 11,
-			"instance": 40,
+			"idx": 10,
+			"instance": 4,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -361,8 +382,8 @@
 				4294967295
 			],
 			"disabled": true,
-			"idx": 12,
-			"instance": 41,
+			"idx": 11,
+			"instance": 3,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -374,8 +395,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 13,
-			"instance": 32,
+			"idx": 12,
+			"instance": 11,
 			"name": "siege_5pl"
 		},
 		{
@@ -387,8 +408,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 14,
-			"instance": 33,
+			"idx": 13,
+			"instance": 10,
 			"name": "poubelle"
 		},
 		{
@@ -400,8 +421,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 15,
-			"instance": 6,
+			"idx": 14,
+			"instance": 37,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -413,8 +434,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 16,
-			"instance": 28,
+			"idx": 15,
+			"instance": 15,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -426,8 +447,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 17,
-			"instance": 29,
+			"idx": 16,
+			"instance": 14,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -439,8 +460,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 18,
-			"instance": 27,
+			"idx": 17,
+			"instance": 16,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -452,13 +473,26 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 19,
-			"instance": 30,
+			"idx": 18,
+			"instance": 13,
 			"name": "fence_small_white_X1"
 		},
 		{
 			"components": [
 				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 17,
+			"name": "fence_small_white_X5"
+		},
+		{
+			"components": [
+				39,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -471,19 +505,6 @@
 		},
 		{
 			"components": [
-				39,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 21,
-			"instance": 17,
-			"name": "fence_small_white_X5"
-		},
-		{
-			"components": [
 				8,
 				4294967295,
 				4294967295,
@@ -491,8 +512,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 22,
-			"instance": 25,
+			"idx": 21,
+			"instance": 18,
 			"name": "jeu"
 		},
 		{
@@ -504,8 +525,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 23,
-			"instance": 42,
+			"idx": 22,
+			"instance": 2,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -517,8 +538,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 24,
-			"instance": 43,
+			"idx": 23,
+			"instance": 1,
 			"name": "fence_small_white_X5"
 		},
 		{
@@ -530,8 +551,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 25,
-			"instance": 16,
+			"idx": 24,
+			"instance": 27,
 			"name": "fence_small_white_X5"
 		},
 		{
@@ -543,8 +564,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 26,
-			"instance": 7,
+			"idx": 25,
+			"instance": 36,
 			"name": "fence_small_white_X1"
 		},
 		{
@@ -556,8 +577,8 @@
 				4294967295
 			],
 			"disabled": true,
-			"idx": 27,
-			"instance": 15,
+			"idx": 26,
+			"instance": 28,
 			"name": "public_light"
 		},
 		{
@@ -569,8 +590,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 28,
-			"instance": 13,
+			"idx": 27,
+			"instance": 30,
 			"name": "interaction_point_0"
 		},
 		{
@@ -582,8 +603,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 29,
-			"instance": 10,
+			"idx": 28,
+			"instance": 33,
 			"name": "interaction_point_4"
 		},
 		{
@@ -595,8 +616,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 30,
-			"instance": 14,
+			"idx": 29,
+			"instance": 29,
 			"name": "interaction_point_1"
 		},
 		{
@@ -608,8 +629,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 31,
-			"instance": 12,
+			"idx": 30,
+			"instance": 31,
 			"name": "interaction_point_2"
 		},
 		{
@@ -621,8 +642,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 32,
-			"instance": 11,
+			"idx": 31,
+			"instance": 32,
 			"name": "interaction_point_3"
 		},
 		{
@@ -634,8 +655,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 33,
-			"instance": 9,
+			"idx": 32,
+			"instance": 34,
 			"name": "interaction_point_5"
 		},
 		{
@@ -647,8 +668,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 34,
-			"instance": 8,
+			"idx": 33,
+			"instance": 35,
 			"name": "interaction_point_6"
 		},
 		{
@@ -660,12 +681,25 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 35,
+			"idx": 34,
 			"name": "root_game"
 		},
 		{
 			"components": [
 				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"instance": 22,
+			"name": "fence_small_white_X1"
+		},
+		{
+			"components": [
+				33,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -678,19 +712,6 @@
 		},
 		{
 			"components": [
-				33,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 37,
-			"instance": 22,
-			"name": "fence_small_white_X1"
-		},
-		{
-			"components": [
 				34,
 				4294967295,
 				4294967295,
@@ -698,8 +719,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 38,
-			"instance": 23,
+			"idx": 37,
+			"instance": 20,
 			"name": "affichage_temperature"
 		},
 		{
@@ -711,8 +732,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 39,
-			"instance": 18,
+			"idx": 38,
+			"instance": 25,
 			"name": "siege_3pl"
 		},
 		{
@@ -724,8 +745,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 40,
-			"instance": 19,
+			"idx": 39,
+			"instance": 24,
 			"name": "siege_5pl"
 		},
 		{
@@ -737,9 +758,22 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 41,
-			"instance": 20,
+			"idx": 40,
+			"instance": 23,
 			"name": "siege_3pl"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 41,
+			"instance": 38,
+			"name": "interaction_point_F"
 		},
 		{
 			"components": [
@@ -751,8 +785,8 @@
 			],
 			"disabled": false,
 			"idx": 42,
-			"instance": 5,
-			"name": "interaction_point_F"
+			"instance": 39,
+			"name": "interaction_point_7"
 		},
 		{
 			"components": [
@@ -764,8 +798,8 @@
 			],
 			"disabled": false,
 			"idx": 43,
-			"instance": 4,
-			"name": "interaction_point_7"
+			"instance": 40,
+			"name": "train_ter_hdf_south_1"
 		},
 		{
 			"components": [
@@ -777,8 +811,8 @@
 			],
 			"disabled": false,
 			"idx": 44,
-			"instance": 3,
-			"name": "train_ter_hdf_south"
+			"instance": 41,
+			"name": "interaction_point_8"
 		},
 		{
 			"components": [
@@ -790,8 +824,8 @@
 			],
 			"disabled": false,
 			"idx": 45,
-			"instance": 2,
-			"name": "interaction_point_8"
+			"instance": 42,
+			"name": "interaction_point_E"
 		},
 		{
 			"components": [
@@ -803,8 +837,21 @@
 			],
 			"disabled": false,
 			"idx": 46,
-			"instance": 1,
-			"name": "interaction_point_E"
+			"instance": 43,
+			"name": "train_ter_hdf_north"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 45,
+			"name": "female_couple_discussion_idle_01"
 		},
 		{
 			"components": [
@@ -815,9 +862,100 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 47,
+			"idx": 48,
+			"instance": 44,
+			"name": "male_paul_listening_music_idle"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
 			"instance": 0,
-			"name": "train_ter_hdf_north"
+			"name": "train_ter_hdf_south_2"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"instance": 46,
+			"name": "danger_zone_gare_02"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"instance": 47,
+			"name": "physical_barrier_north"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 48,
+			"name": "physical_barrier_south"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 53,
+			"instance": 49,
+			"name": "letter_north"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 50,
+			"name": "letter_south"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1720,
+			"instance": 51,
+			"name": "sfx_barrier_audio"
 		}
 	],
 	"transforms": [
@@ -912,7 +1050,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				0.7288389205932617,
 				0.30000048875808716,
@@ -966,7 +1104,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-1.8860764503479004,
 				0.30000001192092896,
@@ -1074,7 +1212,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				3.067096710205078,
 				0.30000004172325134,
@@ -1092,7 +1230,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				1.4541244506835938,
 				0.30000004172325134,
@@ -1128,7 +1266,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				3.067096710205078,
 				0.30000004172325134,
@@ -1146,7 +1284,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-3.4440956115722656,
 				0.30000004172325134,
@@ -1164,7 +1302,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-0.1277923583984375,
 				0.30000004172325134,
@@ -1182,7 +1320,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-1.876333236694336,
 				0.30000004172325134,
@@ -1218,7 +1356,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-3.3754806518554688,
 				0.30000004172325134,
@@ -1236,7 +1374,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-3.3754806518554688,
 				0.30000004172325134,
@@ -1254,7 +1392,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				-3.8082199096679688,
 				-6.198883966135327e-06,
@@ -1380,7 +1518,7 @@
 			]
 		},
 		{
-			"parent": 35,
+			"parent": 34,
 			"pos": [
 				0.0073833465576171875,
 				0.3000001013278961,
@@ -1437,8 +1575,8 @@
 			"parent": null,
 			"pos": [
 				38.83168411254883,
-				0.0724625289440155,
-				-7.387743949890137
+				0.20789068937301636,
+				-7.335583209991455
 			],
 			"rot": [
 				-0.0,
@@ -1446,9 +1584,9 @@
 				0.0
 			],
 			"scl": [
-				0.9999995827674866,
-				0.9999995827674866,
-				0.9999991655349731
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
 			]
 		},
 		{
@@ -1562,24 +1700,6 @@
 		{
 			"parent": null,
 			"pos": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"rot": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
 				26.569765090942383,
 				0.33505260944366455,
 				4.546330451965332
@@ -1616,7 +1736,7 @@
 		{
 			"parent": 2,
 			"pos": [
-				114.5,
+				30.0,
 				0.0,
 				0.0
 			],
@@ -1626,9 +1746,9 @@
 				0.0
 			],
 			"scl": [
-				0.9999998807907104,
-				0.9999998807907104,
-				0.9999997615814209
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
 			]
 		},
 		{
@@ -1670,6 +1790,60 @@
 		{
 			"parent": 1,
 			"pos": [
+				-134.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999992847442627,
+				0.9999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				44.01445007324219,
+				0.3200146555900574,
+				5.570619583129883
+			],
+			"rot": [
+				-0.0,
+				39.99998474121094,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-13.277021408081055,
+				0.30000048875808716,
+				-5.429141998291016
+			],
+			"rot": [
+				-0.0,
+				-50.999969482421875,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997019767761,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
 				114.5,
 				0.0,
 				0.0
@@ -1683,6 +1857,114 @@
 				0.9999998807907104,
 				0.9999998807907104,
 				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				0.0,
+				4.485000133514404
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0999999046325684,
+				1.0999999046325684,
+				1.0999999046325684
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				0.0,
+				-4.485000133514404
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				1.100000023841858,
+				1.100000023841858,
+				1.100000023841858
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				1.5,
+				6.0
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				1.5,
+				-6.0
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
 			]
 		}
 	]

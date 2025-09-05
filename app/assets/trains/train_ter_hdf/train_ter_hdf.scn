@@ -17,7 +17,7 @@
 				"t_end": 0,
 				"t_start": 0
 			},
-			"idx": 136
+			"idx": 208
 		},
 		{
 			"anim": {
@@ -36,2004 +36,21 @@
 				"t_end": 0,
 				"t_start": 0
 			},
-			"idx": 137
-		},
-		{
-			"anim": {
-				"bool": [
-					{
-						"keys": [
-							{
-								"t": 0,
-								"v": false
-							}
-						],
-						"target": "Enable"
-					}
-				],
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 138
-		},
-		{
-			"anim": {
-				"bool": [
-					{
-						"keys": [
-							{
-								"t": 0,
-								"v": false
-							}
-						],
-						"target": "Enable"
-					}
-				],
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 139
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 140
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 141
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 142
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 143
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 144
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 145
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 146
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "open_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 147
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 148
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 149
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 150
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_right",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 151
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 152
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 153
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 154
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "close_left",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 155
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "all_closed",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 156
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "all_closed",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 157
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "all_closed",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 158
-		},
-		{
-			"anim": {
-				"flags": [],
-				"instance_anim": {
-					"keys": [
-						{
-							"loop": "none",
-							"name": "all_closed",
-							"scale": 1.0,
-							"t": 0
-						}
-					]
-				},
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 159
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 160
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": 0.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 161
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 162
-		},
-		{
-			"anim": {
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": 0.0,
-								"v": [
-									1000.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 163
-		},
-		{
-			"anim": {
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": 0.0,
-								"v": [
-									-1000.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 164
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 30000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									-600.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 30000001024,
-								"tension": 0.0,
-								"v": [
-									600.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 165
-		},
-		{
-			"anim": {
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									-400.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 20000000000,
-								"tension": 0.0,
-								"v": [
-									400.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 166
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 29000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 167
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 168
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 2000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 28000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 169
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 3000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 27000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 170
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 171
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 172
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 173
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 29500000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 174
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 4000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 16000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 175
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 2000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 18000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 176
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 3000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 17000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 177
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 19000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 178
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 179
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 180
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 181
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 182
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									-200.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 10000000000,
-								"tension": 0.0,
-								"v": [
-									200.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 183
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 350000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9650000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 184
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 650000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9350000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 185
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 186
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 150000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9850000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 187
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 30000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									600.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 30000001024,
-								"tension": 0.0,
-								"v": [
-									-600.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 188
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 29000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 189
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 2000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 28000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 190
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 3000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 27000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 191
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 29500000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 192
-		},
-		{
-			"anim": {
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									400.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 20000000000,
-								"tension": 0.0,
-								"v": [
-									-400.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 193
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 4000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 16000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 194
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 2000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 18000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 195
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 3000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 17000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 196
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 19000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0
-			},
-			"idx": 197
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 0.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									200.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 10000000000,
-								"tension": 0.0,
-								"v": [
-									-200.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 198
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 350000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9650000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 199
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 650000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9350000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 200
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 201
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 150000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 9850000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0
-			},
-			"idx": 202
-		},
-		{
-			"anim": {
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 100.0,
-								"t": 0,
-								"tension": 1.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 90000000000,
-								"tension": 0.0,
-								"v": [
-									1000.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 203
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_leaving.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 5900000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 204
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 205
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 206
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 207
-		},
-		{
-			"anim": {
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
-					{
-						"keys": [
-							{
-								"bias": 100.0,
-								"t": 0,
-								"tension": 1.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 90000000000,
-								"tension": 0.0,
-								"v": [
-									-1000.0,
-									0.0,
-									0.0
-								]
-							}
-						],
-						"target": "Position"
-					}
-				]
-			},
-			"idx": 208
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_leaving.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 5900000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
 			"idx": 209
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
 				"flags": [],
 				"t_end": 0,
 				"t_start": 0
@@ -2042,24 +59,17 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
 				"flags": [],
 				"t_end": 0,
 				"t_start": 0
@@ -2068,25 +78,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "open_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2094,18 +101,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "open_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2113,18 +124,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "open_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2133,136 +148,90 @@
 		{
 			"anim": {
 				"flags": [],
-				"t_end": 0,
-				"t_start": 0,
-				"vec3": [
+				"instance": [
 					{
 						"keys": [
 							{
-								"bias": -1.0,
 								"t": 0,
-								"tension": -1.0,
-								"v": [
-									-400.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 30000000000,
-								"tension": 0.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
+								"v": {
+									"loop": "none",
+									"name": "open_right",
+									"scale": 1.0
+								}
 							}
 						],
-						"target": "Position"
+						"target": "Instance"
 					}
-				]
+				],
+				"t_end": 0,
+				"t_start": 0
 			},
 			"idx": 215
 		},
 		{
 			"anim": {
 				"flags": [],
-				"t_end": 20000000000,
-				"t_start": 0,
-				"vec3": [
+				"instance": [
 					{
 						"keys": [
 							{
-								"bias": -1.0,
 								"t": 0,
-								"tension": -1.0,
-								"v": [
-									-270.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 20000000000,
-								"tension": 0.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
+								"v": {
+									"loop": "none",
+									"name": "open_left",
+									"scale": 1.0
+								}
 							}
 						],
-						"target": "Position"
+						"target": "Instance"
 					}
-				]
+				],
+				"t_end": 0,
+				"t_start": 0
 			},
 			"idx": 216
 		},
 		{
 			"anim": {
 				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0,
-				"vec3": [
+				"instance": [
 					{
 						"keys": [
 							{
-								"bias": -1.0,
 								"t": 0,
-								"tension": -1.0,
-								"v": [
-									-130.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 10000000000,
-								"tension": 0.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
+								"v": {
+									"loop": "none",
+									"name": "open_left",
+									"scale": 1.0
+								}
 							}
 						],
-						"target": "Position"
+						"target": "Instance"
 					}
-				]
+				],
+				"t_end": 0,
+				"t_start": 0
 			},
 			"idx": 217
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 27900000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "open_left",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2270,25 +239,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 26000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "open_left",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2296,25 +262,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 26000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2322,25 +285,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 26000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2348,39 +308,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 18000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2388,32 +331,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_right",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2421,32 +354,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_left",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2454,32 +377,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_left",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2487,32 +400,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 8000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_left",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2520,32 +423,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "close_left",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2553,32 +446,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "all_closed",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2586,32 +469,22 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "all_closed",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2620,24 +493,143 @@
 		{
 			"anim": {
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "all_closed",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 230
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "all_closed",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 231
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 232
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0,
 				"vec3": [
 					{
 						"keys": [
 							{
-								"bias": -1.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									400.0,
-									0.0,
-									0.0
-								]
-							},
-							{
 								"bias": 0.0,
-								"t": 30000000000,
+								"t": 0,
 								"tension": 0.0,
 								"v": [
 									0.0,
@@ -2650,143 +642,47 @@
 					}
 				]
 			},
-			"idx": 230
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 27900000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 231
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 26000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
-			"idx": 232
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 26000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 0,
-				"t_start": 0
-			},
 			"idx": 233
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 26000000000
-						}
-					]
-				},
 				"flags": [],
 				"t_end": 0,
-				"t_start": 0
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
 			},
 			"idx": 234
 		},
 		{
 			"anim": {
 				"flags": [],
-				"t_end": 20000000000,
+				"t_end": 0,
 				"t_start": 0,
 				"vec3": [
 					{
 						"keys": [
 							{
-								"bias": -1.0,
-								"t": 0,
-								"tension": -1.0,
-								"v": [
-									270.0,
-									0.0,
-									0.0
-								]
-							},
-							{
 								"bias": 0.0,
-								"t": 20000000000,
+								"t": 0,
 								"tension": 0.0,
 								"v": [
-									0.0,
+									-1000.0,
 									0.0,
 									0.0
 								]
@@ -2800,72 +696,189 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 18000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 30000001024,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
 				"t_end": 0,
-				"t_start": 0
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									-600.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									600.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
 			},
 			"idx": 236
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 2000000000,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 28000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 28000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 50000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 7900000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2873,32 +886,46 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 3000000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 10900000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 27900000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2906,32 +933,52 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 20000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -2939,67 +986,105 @@
 		},
 		{
 			"anim": {
-				"flags": [],
-				"t_end": 10000000000,
-				"t_start": 0,
-				"vec3": [
+				"audio_source": [
 					{
 						"keys": [
 							{
-								"bias": -1.0,
 								"t": 0,
-								"tension": -1.0,
-								"v": [
-									130.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 10000000000,
-								"tension": 0.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
 							}
 						],
-						"target": "Position"
+						"target": "AudioSource"
 					}
-				]
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
 			},
 			"idx": 240
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 500000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 8000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -3007,32 +1092,46 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 6000000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 13900000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 25950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -3040,32 +1139,52 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -3073,32 +1192,52 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
@@ -3106,172 +1245,107 @@
 		},
 		{
 			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0,
-				"vec3": [
+				"float": [
 					{
 						"keys": [
 							{
 								"bias": 0.0,
 								"t": 0,
-								"tension": 1.0,
-								"v": [
-									-400.0,
-									0.0,
-									0.0
-								]
-							},
-							{
-								"bias": 0.0,
-								"t": 60000000000,
 								"tension": 0.0,
-								"v": [
-									0.0,
-									0.0,
-									0.0
-								]
+								"v": 1.0
 							}
 						],
-						"target": "Position"
+						"target": "AudioSource.Gain"
 					}
-				]
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
 			},
 			"idx": 245
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 57950000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 30000001024,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
-			},
-			"idx": 246
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 56000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
-			},
-			"idx": 247
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 56000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
-			},
-			"idx": 248
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 56000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
-			},
-			"idx": 249
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 60000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 60000000000,
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"t_end": 0,
 				"t_start": 0,
 				"vec3": [
 					{
@@ -3281,17 +1355,255 @@
 								"t": 0,
 								"tension": -1.0,
 								"v": [
-									1200.0,
+									600.0,
 									0.0,
 									0.0
 								]
 							},
 							{
 								"bias": 0.0,
-								"t": 60000000000,
+								"t": 30000001024,
 								"tension": 0.0,
 								"v": [
-									-1200.0,
+									-600.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 246
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 2000000000,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 28000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 28000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 50000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 7950000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 247
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 3000000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 10900000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 27950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 248
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 6000000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 13900000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 25900000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 249
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 100.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000000000,
+								"tension": 0.0,
+								"v": [
+									1000.0,
 									0.0,
 									0.0
 								]
@@ -3305,140 +1617,383 @@
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 2000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 58000000000
-						}
-					]
-				},
 				"flags": [],
-				"t_end": 60000000000,
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5500000000,
+								"v": {
+									"loop": "loop",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 25950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
 				"t_start": 0
 			},
 			"idx": 251
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 4000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 56000000000
-						}
-					]
-				},
 				"flags": [],
-				"t_end": 60000000000,
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5750000000,
+								"v": {
+									"loop": "loop",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 19200000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
 				"t_start": 0
 			},
 			"idx": 252
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 54000000000
-						}
-					]
-				},
 				"flags": [],
-				"t_end": 60000000000,
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5950000000,
+								"v": {
+									"loop": "loop",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 12800000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
 				"t_start": 0
 			},
 			"idx": 253
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 59000000000
-						}
-					]
-				},
 				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 100.0,
+								"t": 0,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000000000,
+								"tension": 0.0,
+								"v": [
+									-1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
 			},
 			"idx": 254
 		},
 		{
 			"anim": {
 				"flags": [],
-				"t_end": 60000000000,
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5500000000,
+								"v": {
+									"loop": "loop",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 30500000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 255
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5750000000,
+								"v": {
+									"loop": "loop",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 21600000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 256
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 5950000000,
+								"v": {
+									"loop": "loop",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 13000000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 257
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 258
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 259
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
 				"t_start": 0,
 				"vec3": [
 					{
@@ -3448,14 +2003,14 @@
 								"t": 0,
 								"tension": -1.0,
 								"v": [
-									-800.0,
+									-400.0,
 									0.0,
 									0.0
 								]
 							},
 							{
 								"bias": 0.0,
-								"t": 60000000000,
+								"t": 30000000000,
 								"tension": 0.0,
 								"v": [
 									0.0,
@@ -3468,140 +2023,798 @@
 					}
 				]
 			},
-			"idx": 255
+			"idx": 260
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 57950000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_braking.ogg",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 26000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 100000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 7900000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"loop": "none",
+									"name": "braking",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 261
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 4450000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 12350000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"loop": "none",
+									"name": "braking",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 262
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 7650000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15550000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"loop": "none",
+									"name": "braking",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 263
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": -1.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									400.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 264
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_braking.ogg",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 26000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 200000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 8000000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"loop": "none",
+									"name": "braking",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 265
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 4650000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 12600000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"loop": "none",
+									"name": "braking",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 266
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 9600000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 17600000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26000000000,
+								"v": {
+									"loop": "none",
+									"name": "braking",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 29950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 267
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 60000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"t_end": 60000000000,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": -1.0,
+								"v": [
+									1200.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": [
+									-1200.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 268
+		},
+		{
+			"anim": {
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 4000000000,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 56000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
+				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 56000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 300000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 8100000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 59950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0
 			},
-			"idx": 256
+			"idx": 269
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 56000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 8800000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 16750000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 57900000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0
 			},
-			"idx": 257
+			"idx": 270
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 56000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 18200000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 26100000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 55950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0
 			},
-			"idx": 258
+			"idx": 271
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_braking.ogg",
-							"t": 56000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 60000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
-			},
-			"idx": 259
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 60000000000
-						}
-					]
-				},
-				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 60000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0,
 				"vec3": [
@@ -3632,139 +2845,210 @@
 					}
 				]
 			},
-			"idx": 260
+			"idx": 272
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low.ogg",
-							"t": 2000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 58000000000
-						}
-					]
-				},
+				"audio_source": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 4000000000,
+								"v": {
+									"is_stream": false,
+									"loop": true,
+									"max_dist": 100.0,
+									"name": "sounds/trains/train_passing_high.ogg",
+									"ref_dist": 0.0
+								}
+							},
+							{
+								"t": 56000000000,
+								"v": {
+									"is_stream": false,
+									"loop": false,
+									"max_dist": 100.0,
+									"name": "",
+									"ref_dist": 0.0
+								}
+							}
+						],
+						"target": "AudioSource"
+					}
+				],
 				"flags": [],
+				"float": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": 1.0
+							},
+							{
+								"bias": 0.0,
+								"t": 56000000000,
+								"tension": 0.0,
+								"v": 1.0
+							}
+						],
+						"target": "AudioSource.Gain"
+					}
+				],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "loop",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 100000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 8000000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 59950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0
 			},
-			"idx": 261
+			"idx": 273
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 4000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 56000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 9850000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 17750000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 57900000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0
 			},
-			"idx": 262
+			"idx": 274
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 6000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 54000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 19650000000,
+								"v": {
+									"loop": "none",
+									"name": "low_and_high_fadein",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 27950000000,
+								"v": {
+									"loop": "loop",
+									"name": "low_and_high",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 55950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 60000000000,
 				"t_start": 0
 			},
-			"idx": 263
-		},
-		{
-			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_high.ogg",
-							"t": 1000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 59000000000
-						}
-					]
-				},
-				"flags": [],
-				"t_end": 60000000000,
-				"t_start": 0
-			},
-			"idx": 264
+			"idx": 275
 		},
 		{
 			"anim": {
@@ -3804,179 +3088,1157 @@
 					}
 				]
 			},
-			"idx": 265
+			"idx": 276
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "sounds/trains/train_leaving.ogg",
-							"t": 10000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 16000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 100000000000
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 10000000000,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15750000000,
+								"v": {
+									"loop": "none",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 43750000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
-			"idx": 266
+			"idx": 277
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "sounds/trains/train_passing_low_repeat.ogg",
-							"t": 11000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 10000000000,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15500000000,
+								"v": {
+									"loop": "none",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 34850000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
-			"idx": 267
+			"idx": 278
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 90000001024
-						}
-					]
-				},
 				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 10000000000,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15250000000,
+								"v": {
+									"loop": "none",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 25150000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
-			"idx": 268
+			"idx": 279
 		},
 		{
 			"anim": {
-				"audio_source_anim": {
-					"keys": [
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 0
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": false,
-							"name": "",
-							"t": 10000000000
-						},
-						{
-							"gain": 1.0,
-							"is_stream": false,
-							"loop": true,
-							"name": "",
-							"t": 100000000000
-						}
-					]
-				},
 				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 100.0,
+								"t": 9950000000,
+								"tension": 1.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 99950000000,
+								"tension": 0.0,
+								"v": [
+									-1000.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 280
+		},
+		{
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 9950000000,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15900000000,
+								"v": {
+									"loop": "none",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 43950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
 				"t_end": 0,
 				"t_start": 0
 			},
-			"idx": 269
-		}
-	],
-	"audio_sources": [
-		{
-			"gain": 1.0,
-			"is_stream": false,
-			"loop": false,
-			"path": ""
+			"idx": 281
 		},
 		{
-			"gain": 1.0,
-			"is_stream": false,
-			"loop": false,
-			"path": ""
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 9950000000,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15750000000,
+								"v": {
+									"loop": "none",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 33950000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 282
 		},
 		{
-			"gain": 1.0,
-			"is_stream": false,
-			"loop": false,
-			"path": ""
+			"anim": {
+				"flags": [],
+				"instance": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 9950000000,
+								"v": {
+									"loop": "none",
+									"name": "leaving",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 15500000000,
+								"v": {
+									"loop": "none",
+									"name": "low",
+									"scale": 1.0
+								}
+							},
+							{
+								"t": 24350000000,
+								"v": {
+									"loop": "none",
+									"name": "off",
+									"scale": 1.0
+								}
+							}
+						],
+						"target": "Instance"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 283
 		},
 		{
-			"gain": 1.0,
-			"is_stream": false,
-			"loop": false,
-			"path": ""
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									2.0,
+									2.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 284
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									2.0,
+									2.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 285
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 286
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 287
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									2.8485074043273926,
+									0.1397479772567749
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 288
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									100.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 289
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									2.8485074043273926,
+									0.1397479772567749
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									4.499998092651367,
+									3.4999988079071045
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 290
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									2.8485074043273926,
+									0.1397479772567749
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									4.499998092651367,
+									3.4999988079071045
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 291
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-130.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 292
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									20.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000001024,
+								"tension": 0.0,
+								"v": [
+									100.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									4.5,
+									3.5
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000001024,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 293
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-50.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000001024,
+								"tension": 0.0,
+								"v": [
+									-130.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									4.499999046325684,
+									3.499999523162842
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 90000001024,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.499999046325684,
+									3.499999523162842
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 294
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									100.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									20.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.499999046325684,
+									3.499999523162842
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									4.499999046325684,
+									3.499999523162842
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 295
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-130.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									-50.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 30000001024,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 296
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-130.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 297
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									100.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 298
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									20.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 100000000000,
+								"tension": 0.0,
+								"v": [
+									100.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									4.5,
+									3.5
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 100000000000,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 299
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-50.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 100000000000,
+								"tension": 0.0,
+								"v": [
+									-130.0,
+									2.5229146480560303,
+									-3.0896778771675765e-16
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									4.5,
+									3.5
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 100000000000,
+								"tension": 0.0,
+								"v": [
+									160.0,
+									4.5,
+									3.5
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 300
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									2.0,
+									2.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 301
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									0.0,
+									0.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 302
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									0.0,
+									0.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 303
+		},
+		{
+			"anim": {
+				"flags": [],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									2.0,
+									2.0,
+									2.0,
+									-1.0
+								]
+							}
+						],
+						"target": "Material.2.uSelfColor"
+					}
+				]
+			},
+			"idx": 304
 		}
 	],
 	"canvas": {
@@ -4007,14 +4269,14 @@
 		"fog_far": 0.0,
 		"fog_near": 0.0,
 		"probe": {
-			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"irradiance_map": "probes/blue_sky.hdr.irradiance",
 			"parallax": 0.0,
 			"pos": [
 				0.0,
 				0.0,
 				0.0
 			],
-			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"radiance_map": "probes/blue_sky.hdr.radiance",
 			"rot": [
 				0.0,
 				0.0,
@@ -4030,22 +4292,13 @@
 	},
 	"instances": [
 		{
-			"name": "props/square_shadow/round_shadow.scn"
+			"name": "sounds/trains/sfx_train.scn"
 		},
 		{
-			"name": "props/square_shadow/round_shadow.scn"
+			"name": "sounds/trains/sfx_train.scn"
 		},
 		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
+			"name": "sounds/trains/sfx_train.scn"
 		},
 		{
 			"anim": "all_closed",
@@ -4066,6 +4319,27 @@
 			"anim": "all_closed",
 			"loop_mode": "none",
 			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "helpers/interaction_point_f.scn"
 		}
 	],
 	"key_values": null,
@@ -4140,7 +4414,7 @@
 			],
 			"disabled": false,
 			"idx": 5,
-			"instance": 8,
+			"instance": 4,
 			"name": "doors_front"
 		},
 		{
@@ -4153,7 +4427,7 @@
 			],
 			"disabled": false,
 			"idx": 6,
-			"instance": 9,
+			"instance": 3,
 			"name": "doors_locomotive"
 		},
 		{
@@ -4166,7 +4440,7 @@
 			],
 			"disabled": false,
 			"idx": 7,
-			"instance": 7,
+			"instance": 5,
 			"name": "doors_rear"
 		},
 		{
@@ -4252,7 +4526,7 @@
 			],
 			"disabled": false,
 			"idx": 14,
-			"instance": 5,
+			"instance": 7,
 			"name": "round_shadow"
 		},
 		{
@@ -4265,7 +4539,7 @@
 			],
 			"disabled": false,
 			"idx": 15,
-			"instance": 4,
+			"instance": 8,
 			"name": "round_shadow"
 		},
 		{
@@ -4278,7 +4552,7 @@
 			],
 			"disabled": false,
 			"idx": 16,
-			"instance": 3,
+			"instance": 9,
 			"name": "round_shadow"
 		},
 		{
@@ -4291,7 +4565,7 @@
 			],
 			"disabled": false,
 			"idx": 17,
-			"instance": 2,
+			"instance": 10,
 			"name": "round_shadow"
 		},
 		{
@@ -4304,7 +4578,7 @@
 			],
 			"disabled": false,
 			"idx": 18,
-			"instance": 1,
+			"instance": 11,
 			"name": "round_shadow"
 		},
 		{
@@ -4317,11 +4591,10 @@
 			],
 			"disabled": false,
 			"idx": 19,
-			"instance": 0,
+			"instance": 12,
 			"name": "round_shadow"
 		},
 		{
-			"audio_source": 0,
 			"components": [
 				20,
 				4294967295,
@@ -4331,10 +4604,10 @@
 			],
 			"disabled": false,
 			"idx": 20,
-			"name": "source_low"
+			"instance": 2,
+			"name": "source_high_center"
 		},
 		{
-			"audio_source": 1,
 			"components": [
 				21,
 				4294967295,
@@ -4344,10 +4617,10 @@
 			],
 			"disabled": false,
 			"idx": 21,
-			"name": "source_high_center"
+			"instance": 1,
+			"name": "source_high_rear"
 		},
 		{
-			"audio_source": 2,
 			"components": [
 				22,
 				4294967295,
@@ -4357,10 +4630,10 @@
 			],
 			"disabled": false,
 			"idx": 22,
-			"name": "source_high_rear"
+			"instance": 0,
+			"name": "source_high_front"
 		},
 		{
-			"audio_source": 3,
 			"components": [
 				23,
 				4294967295,
@@ -4370,7 +4643,68 @@
 			],
 			"disabled": false,
 			"idx": 23,
-			"name": "source_high_front"
+			"name": "collision_box"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				8,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 24,
+			"name": "collision_box_geo"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"name": "bb"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"name": "bb_front"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"name": "bb_rear"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 126,
+			"instance": 13,
+			"name": "FORWARD"
 		}
 	],
 	"objects": [
@@ -6103,6 +6437,81 @@
 				}
 			],
 			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "add",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								5.960464477539063e-08,
+								5.960464477539063e-08,
+								5.960464477539063e-08,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/cube.geo"
 		}
 	],
 	"scene_anims": [
@@ -6112,11 +6521,11 @@
 			"name": "show_interior",
 			"node_anims": [
 				{
-					"anim": 136,
+					"anim": 208,
 					"node": 1
 				},
 				{
-					"anim": 137,
+					"anim": 209,
 					"node": 3
 				}
 			],
@@ -6129,11 +6538,11 @@
 			"name": "hide_interior",
 			"node_anims": [
 				{
-					"anim": 138,
+					"anim": 210,
 					"node": 1
 				},
 				{
-					"anim": 139,
+					"anim": 211,
 					"node": 3
 				}
 			],
@@ -6146,19 +6555,19 @@
 			"name": "open_doors_right",
 			"node_anims": [
 				{
-					"anim": 140,
+					"anim": 212,
 					"node": 5
 				},
 				{
-					"anim": 141,
+					"anim": 213,
 					"node": 6
 				},
 				{
-					"anim": 142,
+					"anim": 214,
 					"node": 7
 				},
 				{
-					"anim": 143,
+					"anim": 215,
 					"node": 10
 				}
 			],
@@ -6171,19 +6580,19 @@
 			"name": "open_doors_left",
 			"node_anims": [
 				{
-					"anim": 144,
+					"anim": 216,
 					"node": 5
 				},
 				{
-					"anim": 145,
+					"anim": 217,
 					"node": 6
 				},
 				{
-					"anim": 146,
+					"anim": 218,
 					"node": 7
 				},
 				{
-					"anim": 147,
+					"anim": 219,
 					"node": 10
 				}
 			],
@@ -6196,19 +6605,19 @@
 			"name": "close_doors_right",
 			"node_anims": [
 				{
-					"anim": 148,
+					"anim": 220,
 					"node": 5
 				},
 				{
-					"anim": 149,
+					"anim": 221,
 					"node": 6
 				},
 				{
-					"anim": 150,
+					"anim": 222,
 					"node": 7
 				},
 				{
-					"anim": 151,
+					"anim": 223,
 					"node": 10
 				}
 			],
@@ -6221,19 +6630,19 @@
 			"name": "close_doors_left",
 			"node_anims": [
 				{
-					"anim": 152,
+					"anim": 224,
 					"node": 5
 				},
 				{
-					"anim": 153,
+					"anim": 225,
 					"node": 6
 				},
 				{
-					"anim": 154,
+					"anim": 226,
 					"node": 7
 				},
 				{
-					"anim": 155,
+					"anim": 227,
 					"node": 10
 				}
 			],
@@ -6246,39 +6655,39 @@
 			"name": "init",
 			"node_anims": [
 				{
-					"anim": 156,
+					"anim": 228,
 					"node": 5
 				},
 				{
-					"anim": 157,
+					"anim": 229,
 					"node": 6
 				},
 				{
-					"anim": 158,
+					"anim": 230,
 					"node": 7
 				},
 				{
-					"anim": 159,
+					"anim": 231,
 					"node": 10
 				},
 				{
-					"anim": 161,
+					"anim": 233,
 					"node": 11
 				},
 				{
-					"anim": 168,
+					"anim": 239,
 					"node": 20
 				},
 				{
-					"anim": 171,
+					"anim": 240,
 					"node": 21
 				},
 				{
-					"anim": 172,
+					"anim": 241,
 					"node": 22
 				},
 				{
-					"anim": 173,
+					"anim": 288,
 					"node": 23
 				}
 			],
@@ -6291,23 +6700,23 @@
 			"name": "far_forward",
 			"node_anims": [
 				{
-					"anim": 163,
+					"anim": 234,
 					"node": 11
 				},
 				{
-					"anim": 179,
+					"anim": 232,
 					"node": 20
 				},
 				{
-					"anim": 160,
+					"anim": 258,
 					"node": 21
 				},
 				{
-					"anim": 213,
+					"anim": 259,
 					"node": 22
 				},
 				{
-					"anim": 214,
+					"anim": 290,
 					"node": 23
 				}
 			],
@@ -6320,23 +6729,23 @@
 			"name": "far_backward",
 			"node_anims": [
 				{
-					"anim": 164,
+					"anim": 235,
 					"node": 11
 				},
 				{
-					"anim": 162,
-					"node": 20
-				},
-				{
-					"anim": 182,
-					"node": 22
-				},
-				{
-					"anim": 181,
+					"anim": 245,
 					"node": 21
 				},
 				{
-					"anim": 180,
+					"anim": 244,
+					"node": 20
+				},
+				{
+					"anim": 243,
+					"node": 22
+				},
+				{
+					"anim": 291,
 					"node": 23
 				}
 			],
@@ -6349,85 +6758,27 @@
 			"name": "train_pass_forward_30sec",
 			"node_anims": [
 				{
-					"anim": 165,
+					"anim": 236,
 					"node": 11
 				},
 				{
-					"anim": 167,
+					"anim": 237,
 					"node": 20
 				},
 				{
-					"anim": 169,
+					"anim": 238,
 					"node": 21
 				},
 				{
-					"anim": 170,
+					"anim": 242,
 					"node": 22
 				},
 				{
-					"anim": 174,
+					"anim": 289,
 					"node": 23
 				}
 			],
 			"t_end": 30000001024,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_pass_forward_20sec",
-			"node_anims": [
-				{
-					"anim": 166,
-					"node": 11
-				},
-				{
-					"anim": 175,
-					"node": 20
-				},
-				{
-					"anim": 176,
-					"node": 21
-				},
-				{
-					"anim": 177,
-					"node": 22
-				},
-				{
-					"anim": 178,
-					"node": 23
-				}
-			],
-			"t_end": 20000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_pass_forward_10sec",
-			"node_anims": [
-				{
-					"anim": 183,
-					"node": 11
-				},
-				{
-					"anim": 184,
-					"node": 20
-				},
-				{
-					"anim": 185,
-					"node": 21
-				},
-				{
-					"anim": 186,
-					"node": 22
-				},
-				{
-					"anim": 187,
-					"node": 23
-				}
-			],
-			"t_end": 10000000000,
 			"t_start": 0
 		},
 		{
@@ -6436,352 +6787,33 @@
 			"name": "train_pass_backward_30sec",
 			"node_anims": [
 				{
-					"anim": 188,
+					"anim": 246,
 					"node": 11
 				},
 				{
-					"anim": 189,
+					"anim": 247,
 					"node": 20
 				},
 				{
-					"anim": 190,
+					"anim": 248,
 					"node": 21
 				},
 				{
-					"anim": 191,
+					"anim": 249,
 					"node": 22
 				},
 				{
-					"anim": 192,
+					"anim": 292,
 					"node": 23
 				}
 			],
 			"t_end": 30000001024,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_pass_backward_20sec",
-			"node_anims": [
-				{
-					"anim": 193,
-					"node": 11
-				},
-				{
-					"anim": 194,
-					"node": 20
-				},
-				{
-					"anim": 195,
-					"node": 21
-				},
-				{
-					"anim": 196,
-					"node": 22
-				},
-				{
-					"anim": 197,
-					"node": 23
-				}
-			],
-			"t_end": 20000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_pass_backward_10sec",
-			"node_anims": [
-				{
-					"anim": 198,
-					"node": 11
-				},
-				{
-					"anim": 199,
-					"node": 20
-				},
-				{
-					"anim": 200,
-					"node": 21
-				},
-				{
-					"anim": 201,
-					"node": 22
-				},
-				{
-					"anim": 202,
-					"node": 23
-				}
-			],
-			"t_end": 10000000000,
 			"t_start": 0
 		},
 		{
 			"anim": 4294967295,
 			"frame_duration": 50000000,
 			"name": "train_leave_forward",
-			"node_anims": [
-				{
-					"anim": 203,
-					"node": 11
-				},
-				{
-					"anim": 204,
-					"node": 20
-				},
-				{
-					"anim": 205,
-					"node": 21
-				},
-				{
-					"anim": 206,
-					"node": 22
-				},
-				{
-					"anim": 207,
-					"node": 23
-				}
-			],
-			"t_end": 90000001024,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_leave_backward",
-			"node_anims": [
-				{
-					"anim": 208,
-					"node": 11
-				},
-				{
-					"anim": 209,
-					"node": 20
-				},
-				{
-					"anim": 210,
-					"node": 21
-				},
-				{
-					"anim": 211,
-					"node": 22
-				},
-				{
-					"anim": 212,
-					"node": 23
-				}
-			],
-			"t_end": 90000001024,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_forward_30sec",
-			"node_anims": [
-				{
-					"anim": 215,
-					"node": 11
-				},
-				{
-					"anim": 218,
-					"node": 20
-				},
-				{
-					"anim": 219,
-					"node": 21
-				},
-				{
-					"anim": 220,
-					"node": 22
-				},
-				{
-					"anim": 221,
-					"node": 23
-				}
-			],
-			"t_end": 30000001024,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_forward_20sec",
-			"node_anims": [
-				{
-					"anim": 216,
-					"node": 11
-				},
-				{
-					"anim": 222,
-					"node": 20
-				},
-				{
-					"anim": 223,
-					"node": 21
-				},
-				{
-					"anim": 224,
-					"node": 22
-				},
-				{
-					"anim": 225,
-					"node": 23
-				}
-			],
-			"t_end": 20000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_forward_10sec",
-			"node_anims": [
-				{
-					"anim": 217,
-					"node": 11
-				},
-				{
-					"anim": 226,
-					"node": 20
-				},
-				{
-					"anim": 227,
-					"node": 21
-				},
-				{
-					"anim": 228,
-					"node": 22
-				},
-				{
-					"anim": 229,
-					"node": 23
-				}
-			],
-			"t_end": 10000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_backward_30sec",
-			"node_anims": [
-				{
-					"anim": 230,
-					"node": 11
-				},
-				{
-					"anim": 231,
-					"node": 20
-				},
-				{
-					"anim": 232,
-					"node": 21
-				},
-				{
-					"anim": 233,
-					"node": 22
-				},
-				{
-					"anim": 234,
-					"node": 23
-				}
-			],
-			"t_end": 30000001024,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_backward_20sec",
-			"node_anims": [
-				{
-					"anim": 235,
-					"node": 11
-				},
-				{
-					"anim": 236,
-					"node": 20
-				},
-				{
-					"anim": 237,
-					"node": 21
-				},
-				{
-					"anim": 238,
-					"node": 22
-				},
-				{
-					"anim": 239,
-					"node": 23
-				}
-			],
-			"t_end": 20000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_backward_10sec",
-			"node_anims": [
-				{
-					"anim": 240,
-					"node": 11
-				},
-				{
-					"anim": 241,
-					"node": 20
-				},
-				{
-					"anim": 242,
-					"node": 21
-				},
-				{
-					"anim": 243,
-					"node": 22
-				},
-				{
-					"anim": 244,
-					"node": 23
-				}
-			],
-			"t_end": 10000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_arrive_forward_60sec",
-			"node_anims": [
-				{
-					"anim": 245,
-					"node": 11
-				},
-				{
-					"anim": 246,
-					"node": 20
-				},
-				{
-					"anim": 247,
-					"node": 21
-				},
-				{
-					"anim": 248,
-					"node": 22
-				},
-				{
-					"anim": 249,
-					"node": 23
-				}
-			],
-			"t_end": 60000000000,
-			"t_start": 0
-		},
-		{
-			"anim": 4294967295,
-			"frame_duration": 50000000,
-			"name": "train_pass_backward_60sec",
 			"node_anims": [
 				{
 					"anim": 250,
@@ -6800,46 +6832,46 @@
 					"node": 22
 				},
 				{
-					"anim": 254,
+					"anim": 293,
 					"node": 23
 				}
 			],
-			"t_end": 60000000000,
+			"t_end": 90000001024,
 			"t_start": 0
 		},
 		{
 			"anim": 4294967295,
 			"frame_duration": 50000000,
-			"name": "train_arrive_forward_60sec",
+			"name": "train_leave_backward",
 			"node_anims": [
 				{
-					"anim": 255,
+					"anim": 254,
 					"node": 11
 				},
 				{
-					"anim": 256,
+					"anim": 255,
 					"node": 20
 				},
 				{
-					"anim": 257,
+					"anim": 256,
 					"node": 21
 				},
 				{
-					"anim": 258,
+					"anim": 257,
 					"node": 22
 				},
 				{
-					"anim": 259,
+					"anim": 294,
 					"node": 23
 				}
 			],
-			"t_end": 60000000000,
+			"t_end": 90000001024,
 			"t_start": 0
 		},
 		{
 			"anim": 4294967295,
 			"frame_duration": 50000000,
-			"name": "train_pass_forward_60sec",
+			"name": "train_arrive_forward_30sec",
 			"node_anims": [
 				{
 					"anim": 260,
@@ -6858,7 +6890,94 @@
 					"node": 22
 				},
 				{
+					"anim": 295,
+					"node": 23
+				}
+			],
+			"t_end": 30000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_arrive_backward_30sec",
+			"node_anims": [
+				{
 					"anim": 264,
+					"node": 11
+				},
+				{
+					"anim": 265,
+					"node": 20
+				},
+				{
+					"anim": 266,
+					"node": 21
+				},
+				{
+					"anim": 267,
+					"node": 22
+				},
+				{
+					"anim": 296,
+					"node": 23
+				}
+			],
+			"t_end": 30000001024,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_backward_60sec",
+			"node_anims": [
+				{
+					"anim": 268,
+					"node": 11
+				},
+				{
+					"anim": 269,
+					"node": 20
+				},
+				{
+					"anim": 270,
+					"node": 21
+				},
+				{
+					"anim": 271,
+					"node": 22
+				},
+				{
+					"anim": 297,
+					"node": 23
+				}
+			],
+			"t_end": 60000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_pass_forward_60sec",
+			"node_anims": [
+				{
+					"anim": 272,
+					"node": 11
+				},
+				{
+					"anim": 273,
+					"node": 20
+				},
+				{
+					"anim": 274,
+					"node": 21
+				},
+				{
+					"anim": 275,
+					"node": 22
+				},
+				{
+					"anim": 298,
 					"node": 23
 				}
 			],
@@ -6871,27 +6990,124 @@
 			"name": "train_leave_forward_delay_10sec",
 			"node_anims": [
 				{
-					"anim": 265,
+					"anim": 276,
 					"node": 11
 				},
 				{
-					"anim": 266,
+					"anim": 277,
 					"node": 20
 				},
 				{
-					"anim": 267,
+					"anim": 278,
 					"node": 21
 				},
 				{
-					"anim": 268,
+					"anim": 279,
 					"node": 22
 				},
 				{
-					"anim": 269,
+					"anim": 299,
 					"node": 23
 				}
 			],
 			"t_end": 100000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "train_leave_backward_delay_10sec",
+			"node_anims": [
+				{
+					"anim": 280,
+					"node": 11
+				},
+				{
+					"anim": 281,
+					"node": 20
+				},
+				{
+					"anim": 282,
+					"node": 21
+				},
+				{
+					"anim": 283,
+					"node": 22
+				},
+				{
+					"anim": 300,
+					"node": 23
+				}
+			],
+			"t_end": 100000000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "lights_on",
+			"node_anims": [
+				{
+					"anim": 284,
+					"node": 4
+				},
+				{
+					"anim": 285,
+					"node": 9
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "lights_off",
+			"node_anims": [
+				{
+					"anim": 286,
+					"node": 4
+				},
+				{
+					"anim": 287,
+					"node": 9
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "lights_on_forward",
+			"node_anims": [
+				{
+					"anim": 301,
+					"node": 4
+				},
+				{
+					"anim": 302,
+					"node": 9
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "lights_on_backward",
+			"node_anims": [
+				{
+					"anim": 303,
+					"node": 4
+				},
+				{
+					"anim": 304,
+					"node": 9
+				}
+			],
+			"t_end": 100000000,
 			"t_start": 0
 		}
 	],
@@ -7277,24 +7493,6 @@
 		{
 			"parent": 11,
 			"pos": [
-				-15.0,
-				0.0,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				0.9999998807907104,
-				0.9999998807907104,
-				0.9999998807907104
-			]
-		},
-		{
-			"parent": 11,
-			"pos": [
 				-50.0,
 				0.0,
 				0.0
@@ -7326,6 +7524,114 @@
 				0.9999997615814209,
 				0.9999997615814209,
 				0.9999997615814209
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				20.0,
+				2.5229146480560303,
+				-3.0896778771675765e-16
+			],
+			"rot": [
+				-7.0167442785728975e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				4.499999046325684,
+				3.499999523162842
+			]
+		},
+		{
+			"parent": 23,
+			"pos": [
+				0.0,
+				0.0,
+				-3.0896778771675765e-16
+			],
+			"rot": [
+				-7.0167146324197436e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-15.0,
+				2.25,
+				-3.0896789359587606e-16
+			],
+			"rot": [
+				-7.016715479452691e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				70.0,
+				4.5,
+				3.0
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				19.273202896118164,
+				1.7041555643081665,
+				-3.33931569208016e-16
+			],
+			"rot": [
+				-7.0167260673645315e-15,
+				-1.2473034444312405e-21,
+				-51.1199951171875
+			],
+			"scl": [
+				3.5099995136260986,
+				4.499999523162842,
+				2.999997615814209
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				-49.81414794921875,
+				1.7041550874710083,
+				-3.33931569208016e-16
+			],
+			"rot": [
+				-7.0167260673645315e-15,
+				-1.24730223274089e-21,
+				39.87998580932617
+			],
+			"scl": [
+				3.5099971294403076,
+				4.499996185302734,
+				2.9999966621398926
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.178459405899048,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.0,
+				3.0,
+				3.0
 			]
 		}
 	]
