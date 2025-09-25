@@ -17,7 +17,7 @@
 			255
 		],
 		"brdf_map": "core/pbr/brdf.dds",
-		"current_camera": 854,
+		"current_camera": null,
 		"fog_color": [
 			109,
 			179,
@@ -59,7 +59,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5110,
+			"idx": 0,
 			"name": "Merged Node"
 		},
 		{
@@ -71,7 +71,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5111,
+			"idx": 1,
 			"name": "Merged Node"
 		},
 		{
@@ -83,7 +83,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5112,
+			"idx": 2,
 			"name": "Merged Node"
 		},
 		{
@@ -95,7 +95,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5113,
+			"idx": 3,
 			"name": "Merged Node"
 		},
 		{
@@ -107,7 +107,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5114,
+			"idx": 4,
 			"name": "Merged Node"
 		},
 		{
@@ -119,7 +119,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 5115,
+			"idx": 5,
 			"name": "Merged Node"
 		}
 	],

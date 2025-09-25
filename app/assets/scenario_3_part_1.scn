@@ -837,6 +837,9 @@
 		},
 		{
 			"name": "merged/scene_base_merged.scn"
+		},
+		{
+			"name": "stairs_simple.scn"
 		}
 	],
 	"key_values": null,
@@ -2990,7 +2993,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 168,
+			"idx": 167,
 			"instance": 189,
 			"name": "train_track_F"
 		},
@@ -3003,7 +3006,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 169,
+			"idx": 168,
 			"instance": 188,
 			"name": "train_track_W"
 		},
@@ -3016,7 +3019,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 170,
+			"idx": 169,
 			"name": "graphic_assets_list"
 		},
 		{
@@ -3028,7 +3031,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 171,
+			"idx": 170,
 			"instance": 9,
 			"name": "characters_group_01"
 		},
@@ -3041,7 +3044,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 172,
+			"idx": 171,
 			"instance": 53,
 			"name": "characters_group_01"
 		},
@@ -3054,7 +3057,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 173,
+			"idx": 172,
 			"name": "characters_list"
 		},
 		{
@@ -3066,7 +3069,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 174,
+			"idx": 173,
 			"instance": 34,
 			"name": "characters_group_01"
 		},
@@ -3079,7 +3082,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 175,
+			"idx": 174,
 			"instance": 11,
 			"name": "character_man_01"
 		},
@@ -3092,7 +3095,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 176,
+			"idx": 175,
 			"instance": 49,
 			"name": "characters_group_03"
 		},
@@ -3105,7 +3108,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 177,
+			"idx": 176,
 			"instance": 38,
 			"name": "characters_group_01"
 		},
@@ -3118,7 +3121,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 178,
+			"idx": 177,
 			"instance": 18,
 			"name": "characters_group_01"
 		},
@@ -3131,7 +3134,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 179,
+			"idx": 178,
 			"instance": 23,
 			"name": "characters_group_01"
 		},
@@ -3144,7 +3147,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 180,
+			"idx": 179,
 			"instance": 54,
 			"name": "characters_group_01"
 		},
@@ -3157,7 +3160,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 181,
+			"idx": 180,
 			"instance": 3,
 			"name": "characters_group_02"
 		},
@@ -3170,7 +3173,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 182,
+			"idx": 181,
 			"instance": 30,
 			"name": "characters_group_02"
 		},
@@ -3183,7 +3186,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 183,
+			"idx": 182,
 			"instance": 6,
 			"name": "characters_group_02"
 		},
@@ -3196,7 +3199,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 184,
+			"idx": 183,
 			"instance": 8,
 			"name": "characters_group_03"
 		},
@@ -3209,7 +3212,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 185,
+			"idx": 184,
 			"instance": 43,
 			"name": "characters_group_02"
 		},
@@ -3222,7 +3225,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 186,
+			"idx": 185,
 			"instance": 50,
 			"name": "characters_group_02"
 		},
@@ -3235,7 +3238,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 187,
+			"idx": 186,
 			"instance": 35,
 			"name": "characters_group_03"
 		},
@@ -3248,7 +3251,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 188,
+			"idx": 187,
 			"instance": 44,
 			"name": "characters_group_03"
 		},
@@ -3261,7 +3264,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 189,
+			"idx": 188,
 			"instance": 46,
 			"name": "characters_group_04"
 		},
@@ -3274,7 +3277,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 190,
+			"idx": 189,
 			"instance": 31,
 			"name": "characters_group_04"
 		},
@@ -3287,7 +3290,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 191,
+			"idx": 190,
 			"instance": 28,
 			"name": "characters_group_05"
 		},
@@ -3300,7 +3303,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 192,
+			"idx": 191,
 			"instance": 2,
 			"name": "characters_group_06"
 		},
@@ -3313,7 +3316,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 193,
+			"idx": 192,
 			"instance": 4,
 			"name": "characters_group_03"
 		},
@@ -3326,7 +3329,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 194,
+			"idx": 193,
 			"instance": 39,
 			"name": "characters_group_03"
 		},
@@ -3339,7 +3342,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 195,
+			"idx": 194,
 			"instance": 42,
 			"name": "characters_group_04"
 		},
@@ -3352,7 +3355,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 196,
+			"idx": 195,
 			"instance": 7,
 			"name": "characters_group_04"
 		},
@@ -3365,7 +3368,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 197,
+			"idx": 196,
 			"instance": 40,
 			"name": "characters_group_04"
 		},
@@ -3378,7 +3381,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 198,
+			"idx": 197,
 			"instance": 22,
 			"name": "characters_group_04"
 		},
@@ -3391,7 +3394,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 199,
+			"idx": 198,
 			"instance": 1,
 			"name": "characters_group_04"
 		},
@@ -3404,7 +3407,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 200,
+			"idx": 199,
 			"instance": 17,
 			"name": "characters_group_04"
 		},
@@ -3417,7 +3420,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 201,
+			"idx": 200,
 			"instance": 19,
 			"name": "characters_group_04"
 		},
@@ -3430,7 +3433,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 202,
+			"idx": 201,
 			"instance": 21,
 			"name": "characters_group_05"
 		},
@@ -3443,7 +3446,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 203,
+			"idx": 202,
 			"instance": 41,
 			"name": "characters_group_05"
 		},
@@ -3456,7 +3459,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 204,
+			"idx": 203,
 			"instance": 10,
 			"name": "characters_group_05"
 		},
@@ -3469,7 +3472,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 205,
+			"idx": 204,
 			"instance": 45,
 			"name": "characters_group_05"
 		},
@@ -3482,7 +3485,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 206,
+			"idx": 205,
 			"instance": 16,
 			"name": "characters_group_07"
 		},
@@ -3495,7 +3498,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 207,
+			"idx": 206,
 			"instance": 32,
 			"name": "characters_group_sitting_01"
 		},
@@ -3508,7 +3511,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 208,
+			"idx": 207,
 			"instance": 51,
 			"name": "characters_male_vito_sitting_c"
 		},
@@ -3521,7 +3524,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 209,
+			"idx": 208,
 			"instance": 55,
 			"name": "characters_group_06"
 		},
@@ -3534,7 +3537,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 210,
+			"idx": 209,
 			"instance": 26,
 			"name": "characters_group_06"
 		},
@@ -3547,7 +3550,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 211,
+			"idx": 210,
 			"instance": 13,
 			"name": "characters_group_07"
 		},
@@ -3560,7 +3563,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 212,
+			"idx": 211,
 			"instance": 27,
 			"name": "characters_group_sitting_01"
 		},
@@ -3573,7 +3576,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 213,
+			"idx": 212,
 			"instance": 29,
 			"name": "characters_group_sitting_01"
 		},
@@ -3586,7 +3589,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 214,
+			"idx": 213,
 			"instance": 33,
 			"name": "characters_group_sitting_01"
 		},
@@ -3599,7 +3602,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 215,
+			"idx": 214,
 			"instance": 24,
 			"name": "characters_group_sitting_02"
 		},
@@ -3612,7 +3615,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 216,
+			"idx": 215,
 			"instance": 52,
 			"name": "characters_male_kevin_paul_dialogue"
 		},
@@ -3625,7 +3628,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 217,
+			"idx": 216,
 			"instance": 5,
 			"name": "characters_group_sitting_01"
 		},
@@ -3638,7 +3641,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 218,
+			"idx": 217,
 			"instance": 48,
 			"name": "characters_group_sitting_01"
 		},
@@ -3651,7 +3654,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 219,
+			"idx": 218,
 			"instance": 25,
 			"name": "characters_group_sitting_02"
 		},
@@ -3664,7 +3667,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 220,
+			"idx": 219,
 			"instance": 15,
 			"name": "characters_man_sitting_01d"
 		},
@@ -3677,7 +3680,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 221,
+			"idx": 220,
 			"instance": 47,
 			"name": "characters_man_sitting_01a"
 		},
@@ -3690,7 +3693,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 222,
+			"idx": 221,
 			"instance": 37,
 			"name": "woman_bag_01a"
 		},
@@ -3703,7 +3706,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 223,
+			"idx": 222,
 			"instance": 14,
 			"name": "characters_man_sitting_01a"
 		},
@@ -3716,7 +3719,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 224,
+			"idx": 223,
 			"instance": 12,
 			"name": "characters_man_sitting_01d"
 		},
@@ -3729,7 +3732,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 225,
+			"idx": 224,
 			"instance": 56,
 			"name": "male_kevin_paul_dialogue"
 		},
@@ -3742,7 +3745,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 226,
+			"idx": 225,
 			"instance": 0,
 			"name": "man_phone_01b"
 		},
@@ -3755,7 +3758,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 227,
+			"idx": 226,
 			"instance": 20,
 			"name": "characters_group_sitting_01"
 		},
@@ -3768,7 +3771,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 228,
+			"idx": 227,
 			"instance": 36,
 			"name": "man_phone_01c"
 		},
@@ -3781,8 +3784,21 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 229,
+			"idx": 228,
 			"name": "skinned_characters"
+		},
+		{
+			"components": [
+				229,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6988,
+			"instance": 195,
+			"name": "stairs_simple"
 		}
 	],
 	"transforms": [
@@ -4227,7 +4243,7 @@
 			],
 			"rot": [
 				-0.0,
-				-1.9636770957731642e-05,
+				-1.9636769138742238e-05,
 				0.0
 			],
 			"scl": [
@@ -4348,7 +4364,7 @@
 			"parent": null,
 			"pos": [
 				0.0,
-				0.0,
+				-10000.0,
 				0.0
 			],
 			"rot": [
@@ -4705,7 +4721,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				81.80000305175781,
 				0.0,
@@ -6433,7 +6449,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				0.0,
 				0.0,
@@ -6685,7 +6701,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				106.36000061035156,
 				0.05000000074505806,
@@ -6721,7 +6737,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				0.0,
 				0.0,
@@ -6739,7 +6755,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				164.49998474121094,
 				-0.6499999761581421,
@@ -6757,7 +6773,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				0.0,
 				0.05000000074505806,
@@ -6775,7 +6791,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				0.0506439208984375,
 				0.0,
@@ -6793,7 +6809,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				0.0506439208984375,
 				1.8742342945188284e-05,
@@ -6829,7 +6845,7 @@
 			]
 		},
 		{
-			"parent": 170,
+			"parent": 169,
 			"pos": [
 				0.0,
 				0.0,
@@ -6847,7 +6863,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-39.10000228881836,
 				-4.0,
@@ -6865,7 +6881,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-38.900001525878906,
 				-4.0,
@@ -6883,7 +6899,7 @@
 			]
 		},
 		{
-			"parent": 229,
+			"parent": 228,
 			"pos": [
 				-36.19999694824219,
 				-3.999999761581421,
@@ -6901,7 +6917,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-24.700000762939453,
 				0.0,
@@ -6919,7 +6935,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-57.10000228881836,
 				0.0,
@@ -6937,7 +6953,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-54.70000076293945,
 				0.0,
@@ -6955,7 +6971,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-70.70000457763672,
 				0.0,
@@ -6973,7 +6989,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-73.9000015258789,
 				0.0,
@@ -6991,7 +7007,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-68.0,
 				0.0,
@@ -7009,7 +7025,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-14.199999809265137,
 				0.0,
@@ -7045,7 +7061,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-24.80000114440918,
 				0.0,
@@ -7063,7 +7079,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-10.800000190734863,
 				0.0,
@@ -7081,7 +7097,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-46.400001525878906,
 				0.0,
@@ -7099,7 +7115,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-36.79999923706055,
 				0.0,
@@ -7117,7 +7133,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-50.0,
 				0.0,
@@ -7135,7 +7151,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-35.79999923706055,
 				-4.0,
@@ -7153,7 +7169,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-36.10000228881836,
 				-4.0,
@@ -7171,7 +7187,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-157.8000030517578,
 				0.0,
@@ -7189,7 +7205,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				0.800000011920929,
 				0.0,
@@ -7207,7 +7223,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-59.79999923706055,
 				0.0,
@@ -7225,7 +7241,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-53.900001525878906,
 				0.0,
@@ -7243,7 +7259,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-7.700000286102295,
 				0.0,
@@ -7251,7 +7267,7 @@
 			],
 			"rot": [
 				-0.0,
-				108.99992370605469,
+				108.99991607666016,
 				0.0
 			],
 			"scl": [
@@ -7261,7 +7277,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				1.8000000715255737,
 				0.0,
@@ -7279,7 +7295,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-18.30000114440918,
 				0.0,
@@ -7297,7 +7313,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				168.27999877929688,
 				0.0,
@@ -7315,7 +7331,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				48.20000076293945,
 				0.0,
@@ -7333,7 +7349,7 @@
 			]
 		},
 		{
-			"parent": 229,
+			"parent": 228,
 			"pos": [
 				-4.299999713897705,
 				0.0,
@@ -7351,7 +7367,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-11.699999809265137,
 				0.0,
@@ -7369,7 +7385,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-12.800000190734863,
 				0.0,
@@ -7387,7 +7403,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				40.900001525878906,
 				0.0,
@@ -7405,7 +7421,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				12.300000190734863,
 				0.0,
@@ -7423,7 +7439,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				19.200000762939453,
 				0.0,
@@ -7441,7 +7457,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				28.100000381469727,
 				0.0,
@@ -7459,7 +7475,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				0.0,
 				0.0,
@@ -7477,7 +7493,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				10.40000057220459,
 				0.0,
@@ -7495,7 +7511,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				178.40000915527344,
 				0.0,
@@ -7513,7 +7529,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-61.60000228881836,
 				0.0,
@@ -7531,7 +7547,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				23.30000114440918,
 				0.0,
@@ -7549,7 +7565,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-5.400000095367432,
 				0.0,
@@ -7567,7 +7583,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-30.200000762939453,
 				0.0,
@@ -7585,7 +7601,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				29.899999618530273,
 				0.0,
@@ -7603,7 +7619,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-16.30000114440918,
 				0.0,
@@ -7621,7 +7637,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				0.10000000149011612,
 				0.0,
@@ -7639,7 +7655,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				89.17999267578125,
 				0.0,
@@ -7657,7 +7673,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				91.58000183105469,
 				0.0,
@@ -7675,7 +7691,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				96.27999877929688,
 				0.0,
@@ -7693,7 +7709,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				75.57999420166016,
 				0.0,
@@ -7711,7 +7727,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				72.5,
 				0.0,
@@ -7729,7 +7745,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				181.60000610351563,
 				0.0,
@@ -7747,7 +7763,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				181.40000915527344,
 				0.0,
@@ -7765,7 +7781,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				185.6999969482422,
 				0.0,
@@ -7783,7 +7799,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				50.20000076293945,
 				0.0,
@@ -7801,7 +7817,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				50.400001525878906,
 				0.0,
@@ -7819,7 +7835,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-152.1999969482422,
 				0.0,
@@ -7837,7 +7853,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-146.16000366210938,
 				0.0,
@@ -7855,7 +7871,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-153.6999969482422,
 				0.0,
@@ -7873,7 +7889,7 @@
 			]
 		},
 		{
-			"parent": 173,
+			"parent": 172,
 			"pos": [
 				-149.0,
 				0.0,
@@ -7888,6 +7904,24 @@
 				0.9999989867210388,
 				0.9999988079071045,
 				0.9999988675117493
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
 			]
 		},
 		{
