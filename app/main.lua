@@ -118,7 +118,7 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and app_st
 	for idx = 1, 2 do
 		dist_to_mile = hg.Dist(cam_pos, miles_pos[idx])
 		-- print(idx .. "," .. dist_to_mile)
-		dist_to_mile = EaseInOutQuick(clamp(map(dist_to_mile, 1200, 550, 0.0, 1.0), 0.0, 1.0))
+		dist_to_mile = EaseInOutQuick(clamp(map(dist_to_mile, -220, 220, 0.0, 1.0), 0.0, 1.0))
 		variable_speed = variable_speed + dist_to_mile * max_speed
 	end
 
