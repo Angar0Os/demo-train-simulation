@@ -1,0 +1,432 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "blocs/quai_couvert_pied/quai_couvert_pied.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_pied/quai_couvert_pied.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_end/quai_couvert_end.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		},
+		{
+			"name": "blocs/quai_couvert/quai_couvert.scn"
+		},
+		{
+			"name": "blocs/quai_couvert_start/quai_couvert_start.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 9,
+			"name": "quai_couvert"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 6,
+			"name": "quai_couvert_end"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 0,
+			"name": "quai_couvert_pied"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 10,
+			"name": "quai_couvert_start"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 8,
+			"name": "quai_couvert_start"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 4,
+			"name": "quai_couvert_pied"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 1,
+			"name": "quai_couvert_start"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 7,
+			"name": "quai_couvert_start"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 5,
+			"name": "quai_couvert_start"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 2,
+			"name": "quai_couvert_start"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 3,
+			"name": "quai_couvert_start"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				77.0,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				64.8003158569336,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				52.5,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				61.80715560913086,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				101.4000015258789,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				0.9999986886978149
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				89.19999694824219,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				0.9999988079071045
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				113.69999694824219,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999992251396179,
+				0.9999992251396179,
+				0.9999984502792358
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				162.1300048828125,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				138.17564392089844,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				0.9999980926513672
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				125.94999694824219,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999991059303284,
+				0.9999991059303284,
+				0.9999982118606567
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				150.0,
+				0.0,
+				13.800000190734863
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		}
+	]
+}

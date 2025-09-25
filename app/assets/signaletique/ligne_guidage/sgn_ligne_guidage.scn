@@ -1,0 +1,7042 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "sgn_ligne_guidage_V_65m"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "sgn_ligne_guidage_V_185m_ligne"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"name": "sgn_ligne_guidage_V_30m"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "sgn_ligne_guidage_V_100m"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"name": "sgn_ligne_guidage_V_135m"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"name": "sgn_ligne_guidage_V_185m"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"name": "sgn_ligne_guidage_W_65m"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				8,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"name": "sgn_ligne_guidage_W_30m"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				9,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"name": "sgn_ligne_guidage_W_100m"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				10,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"name": "sgn_ligne_guidage_W_135m"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				11,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"name": "sgn_ligne_guidage_W_185m"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				12,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"name": "sgn_ligne_guidage_V_fleche_angle"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				13,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				64,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				65,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				66,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				67,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				68,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				69,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				70,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				71,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				52,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"name": "sgn_ligne_guidage_V_135m_ligne"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				53,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"name": "sgn_ligne_guidage_V_100m_ligne"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				54,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"name": "sgn_ligne_guidage_V_65m_ligne"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				55,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"name": "sgn_ligne_guidage_V_30m_ligne"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				56,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"name": "sgn_ligne_guidage_V_angle_ligne"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				63,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"name": "sgn_ligne_guidage_W_angle_ligne"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				58,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"name": "sgn_ligne_guidage_W_fleche_angle"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				61,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"name": "sgn_ligne_guidage_W_65m_ligne"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				62,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"name": "sgn_ligne_guidage_W_30m_ligne"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				57,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"name": "sgn_ligne_guidage_W_185m_ligne"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				59,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"name": "sgn_ligne_guidage_W_135m_ligne"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				60,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"name": "sgn_ligne_guidage_W_100m_ligne"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				42,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 34,
+			"name": "sgn_ligne_guidage_V_Hall_150m_ligne"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				44,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 35,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				43,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 36,
+			"name": "sgn_ligne_guidage_V_Hall_160m"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				45,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 37,
+			"name": "sgn_ligne_guidage_V_Hall_160m_ligne"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				46,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 38,
+			"name": "sgn_ligne_guidage_V_Hall_150m"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				47,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 39,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				17,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 40,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				16,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 41,
+			"name": "sgn_ligne_guidage_W_Tunnel_165m"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				26,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 42,
+			"name": "sgn_ligne_guidage_W_Tunnel_150m"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				25,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 43,
+			"name": "sgn_ligne_guidage_W_Tunnel_150m_ligne2"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				24,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 44,
+			"name": "sgn_ligne_guidage_W_Tunnel_150m_ligne1"
+		},
+		{
+			"components": [
+				69,
+				4294967295,
+				15,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 45,
+			"name": "sgn_ligne_guidage_W_Tunnel_195m_ligne"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				27,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 46,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				48,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 47,
+			"name": "sgn_ligne_guidage_V_Tunnel_150m_ligne1"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				49,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 48,
+			"name": "sgn_ligne_guidage_V_Tunnel_150m_ligne2"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				50,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 49,
+			"name": "sgn_ligne_guidage_V_Tunnel_150m"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				51,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 50,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				34,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 51,
+			"name": "sgn_ligne_guidage_V_Tunnel_165m"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				35,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 52,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				36,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 53,
+			"name": "sgn_ligne_guidage_V_Tunnel_165m_ligne"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				38,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 54,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				37,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 55,
+			"name": "sgn_ligne_guidage_V_Tunnel_180m"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				39,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 56,
+			"name": "sgn_ligne_guidage_V_Tunnel_180m_ligne"
+		},
+		{
+			"components": [
+				71,
+				4294967295,
+				41,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 57,
+			"name": "sgn_ligne_guidage_V_Tunnel_195m"
+		},
+		{
+			"components": [
+				70,
+				4294967295,
+				40,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 58,
+			"name": "sgn_ligne_guidage_V_Tunnel_195m"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				14,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 59,
+			"name": "sgn_ligne_guidage_V_Tunnel_195m_ligne"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				18,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 60,
+			"name": "sgn_ligne_guidage_W_Tunnel_165m_ligne"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				20,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 61,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				19,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 62,
+			"name": "sgn_ligne_guidage_W_Tunnel_180m"
+		},
+		{
+			"components": [
+				40,
+				4294967295,
+				21,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 63,
+			"name": "sgn_ligne_guidage_W_Tunnel_180m_ligne"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				23,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 64,
+			"name": "sgn_ligne_guidage_V_Tunnel_195m"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				22,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 65,
+			"name": "sgn_ligne_guidage_W_Tunnel_195m"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				28,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 66,
+			"name": "sgn_ligne_guidage_W_Hall_150m_ligne"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				30,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 67,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				29,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 68,
+			"name": "sgn_ligne_guidage_W_Hall_160m"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				31,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 69,
+			"name": "sgn_ligne_guidage_W_Hall_160m_ligne"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				32,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 70,
+			"name": "sgn_ligne_guidage_W_Hall_150m"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				33,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 71,
+			"name": "sgn_ligne_guidage_fleche_droite"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_65m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_30m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_100m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_135m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_185m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_65m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_30m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_100m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_135m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_185m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_angle.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_Tunnel_165m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_Tunnel_180m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_Tunnel_195m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_Hall_150m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_Hall_160m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_W_Hall_150m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_Tunnel_165m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_Tunnel_180m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_Tunnel_195m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_Hall_160m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_Hall_150m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_V_Hall_150m.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_angle.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "ligne_guidage"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "signaletique/ligne_guidage/sgn_ligne_guidage_bleu.png",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "signaletique/directions/sgn_directions_orm.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.800000011920929,
+								0.800000011920929,
+								0.800000011920929,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.5,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "signaletique/ligne_guidage/sgn_ligne_guidage_fleche_droite.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-75.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": 7,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				43.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				475.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-110.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-40.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.999999463558197,
+				0.999998927116394
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				103.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				138.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				68.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				33.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-17.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-139.5,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": 0,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732933044433594
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 3,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.050000190734863,
+				55.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999986290931702,
+				124.99998474121094
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.047999858856201,
+				0.8003687858581543
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999985694885254,
+				0.9999979734420776
+			]
+		},
+		{
+			"parent": 65,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732488989830017
+			],
+			"rot": [
+				-0.0,
+				-6.51378343624609e-12,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.999999463558197,
+				0.9999988675117493
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.41055297851563,
+				-4.050000190734863,
+				58.26537322998047
+			],
+			"rot": [
+				-0.0,
+				-89.9999771118164,
+				0.0
+			],
+			"scl": [
+				0.9999986886978149,
+				0.9999983906745911,
+				45.49995803833008
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.050000190734863,
+				47.80036926269531
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999982714653015,
+				104.49993133544922
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.047500133514404,
+				45.80036926269531
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999986886978149,
+				0.9999980926513672
+			]
+		},
+		{
+			"parent": 42,
+			"pos": [
+				0.0,
+				0.0,
+				0.3973318040370941
+			],
+			"rot": [
+				-0.0,
+				-4.071115406595327e-12,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999991655349731,
+				0.9999986886978149
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.799999237060547,
+				0.009982705116271973,
+				65.7516860961914
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999990463256836,
+				95.49993896484375
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.799999237060547,
+				0.009982705116271973,
+				77.7516860961914
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.9999991655349731,
+				0.9999986290931702
+			]
+		},
+		{
+			"parent": 68,
+			"pos": [
+				0.0,
+				0.0,
+				0.39733433723449707
+			],
+			"rot": [
+				-0.0,
+				-3.6424617064767517e-06,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999997615814209,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.799999237060547,
+				0.009982705116271973,
+				75.7516860961914
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999989867210388,
+				75.49994659423828
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.799999237060547,
+				0.009982705116271973,
+				67.7516860961914
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999992251396179,
+				0.9999987483024597
+			]
+		},
+		{
+			"parent": 70,
+			"pos": [
+				0.0,
+				0.0,
+				0.3973419666290283
+			],
+			"rot": [
+				0.0,
+				-8.142226584802181e-13,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999994039535522,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.047999858856201,
+				27.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999991655349731,
+				0.9999985694885254
+			]
+		},
+		{
+			"parent": 51,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.050000190734863,
+				25.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999987483024597,
+				125.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.047999858856201,
+				42.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999991655349731,
+				0.9999985694885254
+			]
+		},
+		{
+			"parent": 55,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.050000190734863,
+				40.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999986886978149,
+				124.99999237060547
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.049999952316284,
+				0.009982705116271973,
+				-8.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				95.5
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.049999952316284,
+				0.009982705116271973,
+				-20.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": 36,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.049999952316284,
+				0.009982705116271973,
+				-18.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				75.5
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.049999952316284,
+				0.009982705116271973,
+				-10.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": 38,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.050000190734863,
+				17.800369262695313
+			],
+			"rot": [
+				-0.0,
+				1.3660375770996325e-05,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.999998152256012,
+				124.99992370605469
+			]
+		},
+		{
+			"parent": 62,
+			"pos": [
+				-1.52587890625e-05,
+				0.0,
+				0.3973251283168793
+			],
+			"rot": [
+				-0.0,
+				-3.2568906339208725e-12,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999997019767761,
+				0.9999992251396179
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.047999858856201,
+				15.800369262695313
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999986290931702,
+				0.9999980330467224
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.050000190734863,
+				32.80036926269531
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999982118606567,
+				124.99993133544922
+			]
+		},
+		{
+			"parent": 41,
+			"pos": [
+				0.0,
+				0.0,
+				0.397343248128891
+			],
+			"rot": [
+				-0.0,
+				-1.628446075901957e-12,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999991059303284,
+				0.9999986290931702
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.38519287109375,
+				-4.050000190734863,
+				-0.4650000035762787
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.999998927116394,
+				45.49999237060547
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.050000190734863,
+				10.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999988079071045,
+				104.5
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.047500133514404,
+				12.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999992251396179,
+				0.9999986290931702
+			]
+		},
+		{
+			"parent": 49,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				325.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-42.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				324.9999694824219
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-77.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				324.9999084472656
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-112.0,
+				0.009982705116271973,
+				1.600000023841858
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				272.5
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-140.0,
+				0.009982705116271973,
+				0.30000001192092896
+			],
+			"rot": [
+				-0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				23.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-15.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				474.99951171875
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				167.5,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999992847442627,
+				0.9999985694885254
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				35.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				324.999755859375
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				70.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999992847442627,
+				324.99969482421875
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				105.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999992251396179,
+				0.9999992251396179,
+				324.9996643066406
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				140.0,
+				0.009982705116271973,
+				56.25
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999991655349731,
+				0.9999991655349731,
+				272.499755859375
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				168.0,
+				0.009982705116271973,
+				57.70000076293945
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999988079071045,
+				22.999977111816406
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": 5,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": 8,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": 9,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": 10,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": 11,
+			"pos": [
+				0.0,
+				0.0,
+				0.39732927083969116
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.047999858856201,
+				30.800369262695313
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999986290931702,
+				0.9999980330467224
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.3603515625,
+				-4.050000190734863,
+				2.8003687858581543
+			],
+			"rot": [
+				-0.0,
+				1.3660376680491026e-05,
+				0.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999980926513672,
+				124.99991607666016
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.334999084472656,
+				-4.047999858856201,
+				57.0
+			],
+			"rot": [
+				0.0,
+				-179.99996948242188,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999991059303284,
+				0.9999985098838806
+			]
+		},
+		{
+			"parent": 58,
+			"pos": [
+				0.0,
+				0.0,
+				0.3973255753517151
+			],
+			"rot": [
+				0.0,
+				-3.256888682356962e-12,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999997615814209,
+				0.9999997019767761
+			]
+		}
+	]
+}

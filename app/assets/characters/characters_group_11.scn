@@ -1,0 +1,228 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			195,
+			195,
+			195,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "characters/woman_bag_01d/woman_bag_01d.scn"
+		},
+		{
+			"name": "characters/male_vito_b/male_vito_b.scn"
+		},
+		{
+			"name": "characters/woman_carla_04/woman_carla_04.scn"
+		},
+		{
+			"name": "characters/woman_claudia_02/woman_claudia.scn"
+		},
+		{
+			"name": "characters/man_phone_01b/man_phone_01b.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 0,
+			"name": "woman_bag_01d"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 4,
+			"name": "man_phone_01b"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 1,
+			"name": "male_vito_b"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 2,
+			"name": "woman_carla_04"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 3,
+			"name": "woman_claudia"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-0.04485666751861572,
+				2.384185791015625e-07,
+				0.12143349647521973
+			],
+			"rot": [
+				-0.0,
+				49.64646530151367,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999996423721313,
+				0.9999992251396179
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.8576538562774658,
+				0.0,
+				-0.7961125373840332
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.7151336669921875,
+				0.0,
+				-0.36002206802368164
+			],
+			"rot": [
+				-0.0,
+				111.45411682128906,
+				0.0
+			],
+			"scl": [
+				1.0,
+				0.9999995827674866,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.08833393454551697,
+				0.0,
+				-0.9633383750915527
+			],
+			"rot": [
+				-0.0,
+				-31.788576126098633,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.999999463558197,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.3927900791168213,
+				-2.384185791015625e-07,
+				0.2531280517578125
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999992847442627,
+				0.9999985694885254
+			]
+		}
+	]
+}

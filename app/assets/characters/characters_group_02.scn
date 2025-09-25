@@ -1,0 +1,162 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			177,
+			177,
+			177,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "characters/man_phone_01c/man_phone_01c.scn"
+		},
+		{
+			"name": "characters/man_phone_01d/man_phone_0dc.scn"
+		},
+		{
+			"anim": "idle",
+			"loop_mode": "infinite",
+			"name": "characters/male_alex_idlelookingaround_01/male_alex_idlelookingaround_static.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 1,
+			"name": "man_phone_0dc"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 0,
+			"name": "man_phone_01c"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 2,
+			"name": "male_alex_idlelookingaround_01"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-0.14879989624023438,
+				0.0,
+				-0.07491588592529297
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				9.912679672241211,
+				1.1920928955078125e-07,
+				2.9357128143310547
+			],
+			"rot": [
+				0.0,
+				-145.78895568847656,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-10.373936653137207,
+				0.0,
+				-1.6849918365478516
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999995231628418
+			]
+		}
+	]
+}

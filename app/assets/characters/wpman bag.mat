@@ -1,0 +1,91 @@
+{
+	"blend_mode": "opaque",
+	"depth_test": "less",
+	"face_culling": "cw",
+	"flags": [],
+	"program": "core/shader/skin.hps",
+	"textures": [
+		{
+			"name": "uBaseOpacityMap",
+			"path": "characters/woman_bag_01c/woman_bag_01c_color.png",
+			"stage": 0
+		},
+		{
+			"name": "uNormalMap",
+			"path": "characters/woman_bag_01a/woman_bag_01_normal.png",
+			"stage": 2
+		},
+		{
+			"name": "uOcclusionRoughnessMetalnessMap",
+			"path": "characters/woman_bag_01a/woman_bag_01_orm.png",
+			"stage": 1
+		}
+	],
+	"values": [
+		{
+			"name": "uBaseOpacityColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"name": "uOcclusionRoughnessMetalnessColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				1.0,
+				1.0,
+				-1.0
+			]
+		},
+		{
+			"name": "uParam",
+			"type": "vec4",
+			"value": [
+				0.699999988079071,
+				0.800000011920929,
+				2.0,
+				15.0
+			]
+		},
+		{
+			"name": "uSelfColor",
+			"type": "vec4",
+			"value": [
+				0.0,
+				0.0,
+				0.0,
+				-1.0
+			]
+		},
+		{
+			"name": "uSkinChroma0",
+			"type": "vec4",
+			"value": [
+				0.894514799118042,
+				0.5089945793151855,
+				0.3547864854335785,
+				1.0
+			]
+		},
+		{
+			"name": "uSkinChroma1",
+			"type": "vec4",
+			"value": [
+				0.8354430198669434,
+				0.6369943618774414,
+				0.567537248134613,
+				1.0
+			]
+		}
+	],
+	"write_a": true,
+	"write_b": true,
+	"write_g": true,
+	"write_r": true,
+	"write_z": true
+}

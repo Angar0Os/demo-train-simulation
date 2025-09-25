@@ -26,9 +26,29 @@
 		],
 		"fog_far": 0.0,
 		"fog_near": 0.0,
-		"irradiance_map": "core/pbr/probe.hdr.irradiance",
-		"radiance_map": "core/pbr/probe.hdr.radiance"
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
 	},
+	"key_values": null,
 	"nodes": [
 		{
 			"components": [
@@ -81,6 +101,7 @@
 	],
 	"objects": [
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "Wagon"
@@ -97,6 +118,7 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
@@ -157,6 +179,7 @@
 					"blend_mode": "alpha",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/pbr.hps",
 					"values": [
 						{
@@ -200,6 +223,7 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
@@ -260,6 +284,7 @@
 			"name": "props/car_wagon/car_wagon_0.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "square_shadow"
@@ -270,26 +295,33 @@
 					"blend_mode": "alpha",
 					"depth_test": "less",
 					"face_culling": "cw",
-					"program": "core/shader/default.hps",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
-							"name": "uDiffuseMap",
+							"name": "uBaseOpacityMap",
+							"path": "props/square_shadow/square_shadow_alpha.png",
 							"stage": 0
-						},
-						{
-							"name": "uOpacityMap",
-							"path": "props/square_shadow/square_shadow.png",
-							"stage": 5
 						}
 					],
 					"values": [
 						{
-							"name": "uDiffuseColor",
+							"name": "uBaseOpacityColor",
 							"type": "vec4",
 							"value": [
 								0.0,
 								0.0,
 								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.5,
+								0.10000000149011612,
 								1.0
 							]
 						},
@@ -301,16 +333,6 @@
 								0.0,
 								0.0,
 								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
 							]
 						}
 					],

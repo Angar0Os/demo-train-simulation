@@ -7,7 +7,7 @@ $input vWorldPos, vNormal, vTangent, vBinormal, vTexCoord0, vTexCoord1, vLinearS
 uniform vec4 uBaseOpacityColor;
 uniform vec4 uOcclusionRoughnessMetalnessColor;
 uniform vec4 uSelfColor;
-uniform vec4 uParam; // uParam.x = normal intensity (default = 1.0), uParam.y = specular dimming (default = 0.0)
+uniform vec4 uParam; // uParam.x = normal intensity (default = 1.0), uParam.y = specular dimming (default = 0.0), uParam.z = alpha cut threshold
 
 // Texture slots
 SAMPLER2D(uBaseOpacityMap, 0);
@@ -15,12 +15,6 @@ SAMPLER2D(uOcclusionRoughnessMetalnessMap, 1);
 SAMPLER2D(uNormalMap, 2);
 SAMPLER2D(uSelfMap, 4);
 SAMPLER2D(uAmbientMap, 6);
-
-vec3 SimpleReinhardToneMapping(vec3 color, float exposure) // 1.5
-{
-	color *= exposure / (1. + color / exposure);
-	return color;
-}
 
 float map(float value, float min1, float max1, float min2, float max2) {
   return min2 + (value - min1) * (max2 - min2) / (max1 - min1);
@@ -148,8 +142,6 @@ void main() {
 #else // USE_OCCLUSION_ROUGHNESS_METALNESS_MAP
 	vec4 occ_rough_metal = uOcclusionRoughnessMetalnessColor;
 #endif // USE_OCCLUSION_ROUGHNESS_METALNESS_MAP
-
-occ_rough_metal.y = pow(occ_rough_metal.y, 2.0);
 
 // Optional secondary occlusion, always needing a second set of UV (UV1)
 #if USE_AMBIENT_MAP
@@ -294,7 +286,7 @@ occ_rough_metal.y = pow(occ_rough_metal.y, 2.0);
 	float opacity = base_opacity.w;
 
 #if ENABLE_ALPHA_CUT
-	if (opacity < 0.4)
+	if (opacity < uParam.z)
 		discard;
 #endif // ENABLE_ALPHA_CUT
 
@@ -307,9 +299,7 @@ occ_rough_metal.y = pow(occ_rough_metal.y, 2.0);
 #else // FORWARD_PIPELINE_AAA_PREPASS
 	// incorrectly apply gamma correction at fragment shader level in the non-AAA pipeline
 #if FORWARD_PIPELINE_AAA != 1
-	float gamma = uAmbientColor.x;
-	float exposure = uAmbientColor.y;
-	color = SimpleReinhardToneMapping(color, exposure);
+	float gamma = 2.2;
 	color = pow(color, vec3_splat(1. / gamma));
 #endif // FORWARD_PIPELINE_AAA != 1
 

@@ -86,7 +86,7 @@
 						},
 						{
 							"name": "uSelfMap",
-							"path": "props/skydome/skydome_gradient_night.png",
+							"path": "props/skydome/skydome_gradient_night.hdr",
 							"stage": 4
 						}
 					],
@@ -105,7 +105,7 @@
 							"name": "uSkyDomeParam",
 							"type": "vec4",
 							"value": [
-								0.07500000298023224,
+								0.05000000074505806,
 								0.0020000000949949026,
 								1.850000023841858,
 								0.0

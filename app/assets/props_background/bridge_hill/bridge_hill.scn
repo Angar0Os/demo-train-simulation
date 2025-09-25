@@ -80,18 +80,22 @@
 					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
+							"name": "uAmbientMap",
+							"path": "props/dirt/dirt_dust_decal.png",
+							"stage": 6
+						},
+						{
 							"name": "uBaseOpacityMap",
-							"path": "blocs/ground_grass_sud/grass_tile_02.png",
+							"path": "props_background/bridge/bridge_concrete_albedo.png",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
-							"path": "blocs/ground_grass_sud/grass_tile_01_normal.png",
 							"stage": 2
 						},
 						{
 							"name": "uOcclusionRoughnessMetalnessMap",
-							"path": "blocs/ground_grass_sud/grass_tile_01_aograss_tile_01_roughness0.png",
+							"path": "props_background/bridge/bridge_concrete_obridge_concrete_rbridge_concrete_m.png",
 							"stage": 1
 						}
 					],

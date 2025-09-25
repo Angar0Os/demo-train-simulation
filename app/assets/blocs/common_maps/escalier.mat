@@ -1,0 +1,71 @@
+{
+	"blend_mode": "opaque",
+	"depth_test": "less",
+	"face_culling": "cw",
+	"flags": [],
+	"program": "core/shader/pbr.hps",
+	"textures": [
+		{
+			"name": "uAmbientMap",
+			"path": "props/elevator_top/elevator_ao.jpg",
+			"stage": 6
+		},
+		{
+			"name": "uBaseOpacityMap",
+			"path": "props/elevator_top/elevator_diffuse.jpg",
+			"stage": 0
+		},
+		{
+			"name": "uNormalMap",
+			"path": "props/elevator_top/elevator_normal.png",
+			"stage": 2
+		},
+		{
+			"name": "uOcclusionRoughnessMetalnessMap",
+			"path": "props/elevator_top/elevator_orm.png",
+			"stage": 1
+		},
+		{
+			"name": "uSelfMap",
+			"path": "props/elevator_top/elevator_illum.jpg",
+			"stage": 4
+		}
+	],
+	"values": [
+		{
+			"name": "uBaseOpacityColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"name": "uOcclusionRoughnessMetalnessColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				1.0,
+				1.0,
+				-1.0
+			]
+		},
+		{
+			"name": "uSelfColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				1.0,
+				1.0,
+				-1.0
+			]
+		}
+	],
+	"write_a": true,
+	"write_b": true,
+	"write_g": true,
+	"write_r": true,
+	"write_z": true
+}

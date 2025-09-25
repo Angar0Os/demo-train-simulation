@@ -84,22 +84,22 @@
 					"textures": [
 						{
 							"name": "uAmbientMap",
-							"path": "blocs/maps_rail/rail_low_ao.png",
+							"path": "blocs/rail_maps/rail_low_ao.png",
 							"stage": 6
 						},
 						{
 							"name": "uBaseOpacityMap",
-							"path": "blocs/maps_rail/ballaste_albedo.png",
+							"path": "blocs/rail_maps/ballaste_albedo.png",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
-							"path": "blocs/maps_rail/ballaste_normal.png",
+							"path": "blocs/rail_maps/ballaste_normal.png",
 							"stage": 2
 						},
 						{
 							"name": "uOcclusionRoughnessMetalnessMap",
-							"path": "blocs/maps_rail/ballaste_aoballaste_roughnessballaste_metalness.png",
+							"path": "blocs/rail_maps/ballaste_aoballaste_roughnessballaste_metalness.png",
 							"stage": 1
 						}
 					],
@@ -129,7 +129,7 @@
 							"type": "vec4",
 							"value": [
 								1.0,
-								0.0,
+								0.6000000238418579,
 								0.0,
 								0.0
 							]
@@ -156,26 +156,26 @@
 					"depth_test": "less",
 					"face_culling": "cw",
 					"flags": [],
-					"program": "core/shader/pbr.hps",
+					"program": "core/shader/hfpbr.hps",
 					"textures": [
 						{
 							"name": "uAmbientMap",
-							"path": "blocs/maps_rail/rail_low_ao.png",
+							"path": "blocs/rail_maps/rail_low_ao.png",
 							"stage": 6
 						},
 						{
 							"name": "uBaseOpacityMap",
-							"path": "blocs/maps_rail/rail_traverse_albedo.png",
+							"path": "blocs/rail_maps/rail_traverse_albedo.png",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
-							"path": "blocs/maps_rail/rail_traverse_normal.png",
+							"path": "blocs/rail_maps/rail_traverse_normal.png",
 							"stage": 2
 						},
 						{
 							"name": "uOcclusionRoughnessMetalnessMap",
-							"path": "blocs/maps_rail/rail_traverse_orm.png",
+							"path": "blocs/rail_maps/rail_traverse_orm.png",
 							"stage": 1
 						}
 					],

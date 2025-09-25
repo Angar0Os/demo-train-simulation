@@ -1,0 +1,174 @@
+{
+	"flow_project": {
+		"name": "SNCF Reims 2025",
+		"desc": "Etude sur la navigation des usagers en gare",
+		"audio_falloff": "legacy",
+		"scenarios": {
+			"scenario_000_tutorial": {
+				"name": "Tutoriel",
+				"script": "scenarios/scenario_0_tutoriel.lua",
+				"waypoints": "scenarios/scenario_0_tutoriel.waypoints",
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                }
+			},
+			"scenario_001_part_001": {
+				"name": "Scenario 1",
+				"script": "scenarios/scenario_1_part_1.lua",
+				"waypoints": "scenarios/scenario_1_part_1.waypoints",
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_001_part_002": {
+				"name": "Scenario 1, partie 2",
+				"script": "scenarios/scenario_1_part_2.lua",
+				"waypoints": "scenarios/scenario_1_part_2.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_001_part_003": {
+				"name": "Scenario 1, partie 3",
+				"script": "scenarios/scenario_1_part_3.lua",
+				"waypoints": "scenarios/scenario_1_part_3.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_001_part_004": {
+				"name": "Scenario 1, partie 4",
+				"script": "scenarios/scenario_1_part_4.lua",
+				"waypoints": "scenarios/scenario_1_part_4.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_002_part_001": {
+				"name": "Scenario 2",
+				"script": "scenarios/scenario_2_part_1.lua",
+				"waypoints": "scenarios/scenario_2_part_1.waypoints",
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_002_part_002": {
+				"name": "Scenario 2, partie 2",
+				"script": "scenarios/scenario_2_part_2.lua",
+				"waypoints": "scenarios/scenario_2_part_2.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_002_part_003": {
+				"name": "Scenario 2, partie 3",
+				"script": "scenarios/scenario_2_part_3.lua",
+				"waypoints": "scenarios/scenario_2_part_3.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_003_part_001": {
+				"name": "Scenario 3",
+				"script": "scenarios/scenario_3_part_1.lua",
+				"waypoints": "scenarios/scenario_3_part_1.waypoints",
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_003_part_002": {
+				"name": "Scenario 3, partie 2",
+				"script": "scenarios/scenario_3_part_2.lua",
+				"waypoints": "scenarios/scenario_3_part_2.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_003_part_003": {
+				"name": "Scenario 3, partie 3",
+				"script": "scenarios/scenario_3_part_3.lua",
+				"waypoints": "scenarios/scenario_3_part_3.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			},
+			"scenario_003_part_004": {
+				"name": "Scenario 3, partie 4",
+				"script": "scenarios/scenario_3_part_4.lua",
+				"waypoints": "scenarios/scenario_3_part_4.waypoints",
+				"hidden": true,
+				"origin_offset": {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": -12.5
+                },
+				"insight": {
+					"env": ["analysis/piste_1/scenario_1_part_1_flat.scn"]
+				}
+			}
+		},
+		"options":
+		{
+			"[1] Configuration": ["Etat actuel", "Piste 1 - Suspendue",  "Piste 2 - Coloree",  "Piste 3 - Ascenseur"]
+		}
+	}
+}

@@ -1,0 +1,160 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			177,
+			177,
+			177,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "characters/woman_bag_01d/woman_bag_01d.scn"
+		},
+		{
+			"name": "characters/male_vito_a/male_vito_a.scn"
+		},
+		{
+			"name": "characters/man_phone_01b/man_phone_01b.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 215,
+			"instance": 2,
+			"name": "man_phone_01b"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 216,
+			"instance": 1,
+			"name": "male_vito_a"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 221,
+			"instance": 0,
+			"name": "woman_bag_01d"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.23374271392822266,
+				-4.76837158203125e-07,
+				-0.5976486802101135
+			],
+			"rot": [
+				0.0,
+				-93.10083770751953,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.999999463558197,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.1414117813110352,
+				-9.5367431640625e-07,
+				1.188868522644043
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999988675117493,
+				0.9999988675117493,
+				0.9999977350234985
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.3588018417358398,
+				-4.76837158203125e-07,
+				-0.5976486802101135
+			],
+			"rot": [
+				-0.0,
+				44.2119026184082,
+				0.0
+			],
+			"scl": [
+				1.0000003576278687,
+				0.9999994039535522,
+				0.9999997019767761
+			]
+		}
+	]
+}

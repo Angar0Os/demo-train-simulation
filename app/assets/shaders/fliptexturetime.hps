@@ -1,0 +1,7 @@
+{
+	"features": ["OptionalBaseColorOpacityMap", "OptionalSelfMap", "OptionalAlphaCut"],
+	"uniforms": [
+		{"name": "uCutoff", "type": "Vec4", "value": [0.4, 0.0, 0.0, 0.0]},
+		{"name": "uFlipTexture", "type": "Vec4", "value": [1.0, 0.0, 0.0, 0.0]}
+	]
+}

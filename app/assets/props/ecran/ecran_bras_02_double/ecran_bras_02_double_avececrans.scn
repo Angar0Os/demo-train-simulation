@@ -1,0 +1,162 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			111,
+			111,
+			111,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/ecran/ecran_bras_02_double/ecran_bras_02_double.scn"
+		},
+		{
+			"anim": "rotatewifi&vigipirate",
+			"loop_mode": "loop",
+			"name": "props/ecran/ecran_solo/ecran_solo_wifi&vigipirate.scn"
+		},
+		{
+			"name": "props/ecran/ecran_solo/ecran_solo.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 0,
+			"name": "ecran_bras_01_double"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 1,
+			"name": "ecran_solo_wifi&vigipirate"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 2,
+			"name": "ecran_solo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.5765857100486755,
+				0.1436092108488083,
+				0.02638869173824787
+			],
+			"rot": [
+				-0.0,
+				-179.9999542236328,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999997615814209,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.5799105167388916,
+				0.14261671900749207,
+				-0.040328867733478546
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				0.9999994039535522
+			]
+		}
+	]
+}

@@ -1,0 +1,329 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			90,
+			83,
+			73,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			149,
+			197,
+			249,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			109,
+			179,
+			255,
+			0
+		],
+		"fog_far": 1000.0,
+		"fog_near": 200.0,
+		"probe": {
+			"irradiance_map": "probes/probe_day_mix.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "probes/probe_day_mix.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/skydome/skydome.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 1.5,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7853981852531433,
+			"priority": 0.0,
+			"pssm_split": [
+				5.0,
+				10.0,
+				25.0,
+				100.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 0.0005000000237487257,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 6.0,
+			"type": "linear"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 0,
+			"name": "skydome"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "root"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "LightSun"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"name": "sun_flare_1"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "sun_flare_2"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "screen",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "shaders/texture_only.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "props/sun/sun_flare_1.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "screen",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "shaders/texture_only.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "props/sun/sun_flare_2.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "primitives/plane.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				9.999999046325684,
+				4.999999523162842,
+				10.0
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				8.927042961120605,
+				23.90760612487793,
+				-10.527942657470703
+			],
+			"rot": [
+				59.99999237060547,
+				-39.99998474121094,
+				-6.836373813712271e-06
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				0.9999997019767761
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				0.0,
+				0.15000000596046448,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				3.0,
+				3.0,
+				3.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-191.17018127441406,
+				194.5311279296875,
+				-169.5927276611328
+			],
+			"rot": [
+				30.000043869018555,
+				-129.9998779296875,
+				-179.99989318847656
+			],
+			"scl": [
+				69.99998474121094,
+				69.99999237060547,
+				69.99999237060547
+			]
+		}
+	]
+}

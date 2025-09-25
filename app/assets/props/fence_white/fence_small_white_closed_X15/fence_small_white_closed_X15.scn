@@ -3,9 +3,9 @@
 		"clear_color": true,
 		"clear_z": true,
 		"color": [
-			0,
-			0,
-			0,
+			195,
+			195,
+			195,
 			255
 		]
 	},
@@ -48,6 +48,11 @@
 			"type": "sphere"
 		}
 	},
+	"instances": [
+		{
+			"name": "props/square_shadow/square_shadow.scn"
+		}
+	],
 	"key_values": null,
 	"nodes": [
 		{
@@ -61,6 +66,19 @@
 			"disabled": false,
 			"idx": 0,
 			"name": "fence_small_white_closed_x15"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 0,
+			"name": "square_shadow"
 		}
 	],
 	"objects": [
@@ -81,7 +99,7 @@
 					"textures": [
 						{
 							"name": "uAmbientMap",
-							"path": "props/fence_maps/fence_closed_ao.png",
+							"path": "props/fence_white/fence_small_white_maps/fence_closed_ao.png",
 							"stage": 6
 						},
 						{
@@ -169,6 +187,24 @@
 				1.0,
 				1.0,
 				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				12.098437309265137,
+				0.029999999329447746,
+				0.45028188824653625
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				27.999998092651367,
+				0.9999990463256836,
+				1.3899991512298584
 			]
 		}
 	]
