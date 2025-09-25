@@ -19,7 +19,7 @@ end
 hg.InputInit()
 hg.WindowSystemInit()
 
-res_x, res_y = 1920, 1080
+res_x, res_y, tex_size_x, tex_size_y = 1920, 1080, 1920, 1080
 -- res_x, res_y = 1280, 720
 win = hg.RenderInit('Train Simulator', res_x, res_y, hg.RF_VSync) -- | hg.RF_MSAA4X)
 
@@ -77,18 +77,31 @@ local skybox_pos = skybox_node:GetTransform():GetPos()
 
 local miles_pos = {main_scene:GetNode("mile_0"):GetTransform():GetPos(), main_scene:GetNode("mile_1"):GetTransform():GetPos()}
 
+
+frame_buffer = hg.CreateFrameBuffer(tex_size_x, tex_size_y, hg.TF_RGBA8, hg.TF_D24, 4, 'framebuffer')
+tex_color = hg.GetColorTexture(frame_buffer)
+
+tex_color_ref = res:AddTexture("tex_rb", tex_color)
+tex_readback = hg.CreateTexture(tex_size_x, tex_size_y, "readback", hg.TF_ReadBack | hg.TF_BlitDestination, hg.TF_RGBA8)
+picture = hg.Picture(tex_size_x, tex_size_y, hg.PF_RGBA32)
+
+state = "none"
+
 -- main loop
 local frame = 0
 local speed_factor = 0.0
-local state = "running"
-local keyboard = hg.Keyboard('raw')
+local app_state = "running"
+local sim_running = false
+local keyboard = hg.Keyboard()
+local image_counter = 0001
 
-while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and state == "running" do
-	keyboard:Update()
+while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and app_state == "running" do
+    keyboard:Update()
 
 	if keyboard:Released(hg.K_F9) and speed_factor < 1.0 then
 		speed_factor = 1.0
-		print(state)
+        sim_running = true
+		print(app_state)
 	end
 
 	dt = hg.time_from_sec_f(1.0 / 60.0)
@@ -119,14 +132,24 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and state 
 
 	if cam_pos.x > max_len then
 		-- cam_pos.x = cam_pos.x - max_len
-		state = "quit"
+		app_state = "quit"
 	end
 
-	main_scene:Update(dt)
+    main_scene:Update(dt)
 
 	-- render main scene
-	view_id, pass_id = hg.SubmitSceneToPipeline(view_id, main_scene, hg.IntRect(0, 0, res_x, res_y), true, pipeline, res, pipeline_aaa, pipeline_aaa_config, frame)
+	view_id, pass_id = hg.SubmitSceneToPipeline(view_id, main_scene, hg.IntRect(0, 0, res_x, res_y), true, pipeline, res, pipeline_aaa, pipeline_aaa_config, frame, frame_buffer.handle)
 	-- view_id, pass_id = hg.SubmitSceneToPipeline(view_id, main_scene, hg.IntRect(0, 0, res_x, res_y), true, pipeline, res)
+    if(state == "none" and sim_running == true) then
+        state = "capture"
+        frame_count_capture, view_id = hg.CaptureTexture(view_id, res, tex_color_ref, tex_readback, picture)
+
+    elseif (state == "capture" and frame_count_capture <= frame) then
+        png_filename = string.format("images/capture_%04d.png", image_counter)
+        hg.SavePNG(picture, png_filename)
+        image_counter = image_counter + 1
+    state = "none"
+end
 
 	frame = hg.Frame()
 	hg.UpdateWindow(win)
