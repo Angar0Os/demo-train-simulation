@@ -159,7 +159,7 @@ void main() {
 	vec3 view = mul(u_view, vec4(vWorldPos, 1.0)).xyz;
 	vec3 P = vWorldPos; // fragment world pos
 	vec3 V = normalize(GetT(u_invView) - P); // world space view vector
-	vec3 N = sign(dot(V, vNormal)) * normalize(vNormal); // geometry normal
+	vec3 N = normalize(vNormal); // sign(dot(V, vNormal)) * normalize(vNormal); // geometry normal
 
 #if USE_NORMAL_MAP
 	vec3 T = normalize(vTangent);

@@ -1,14 +1,14 @@
 {
 	"recent_files": [
-		"skybox_fog.scn",
-		"camera_day.scn",
-		"props/skydome/skydome.scn",
 		"skybox_day.scn",
-		"outward_journey_scene_part_2.scn",
+		"camera_day.scn",
 		"demo_scene.scn",
+		"scene_blocking.scn",
+		"envs/background.scn",
+		"scenario_3_part_1.scn",
 		"camera_night.scn",
-		"skybox_night.scn",
-		"props/skydome/skydome_night.scn",
-		"scene_base_gare_01_tvp_ouest.scn"
+		"merged/scene_base_merged.scn",
+		"skybox_fog.scn",
+		"props/skydome/skydome.scn"
 	]
 }

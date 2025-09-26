@@ -836,7 +836,7 @@
 			"name": "helpers/letter_north.scn"
 		},
 		{
-			"name": "merged/scene_base_merged.scn"
+			"name": "scene_blocking.scn"
 		},
 		{
 			"name": "stairs_simple.scn"
@@ -3796,7 +3796,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 6988,
+			"idx": 229,
 			"instance": 195,
 			"name": "stairs_simple"
 		}
@@ -7267,7 +7267,7 @@
 			],
 			"rot": [
 				-0.0,
-				108.99991607666016,
+				108.9999008178711,
 				0.0
 			],
 			"scl": [

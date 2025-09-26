@@ -62,8 +62,8 @@ void main() {
 
 				float log_depth = ComputeRayLogDepth(uMainProjection, hit_point);
 
-				if ((dot(attr0.xyz, ray_d_spread) < 0.0) && (hit_point.z <= log_depth)) { // ray facing the collision
-					vec3 irradiance = texture2D(u_color, uv - vel * uv_ratio).xyz;
+				if ((dot(attr0.xyz, ray_d_spread) < 0.0)) { // ray facing the collision
+					vec3 irradiance = texture2D(u_color, uv - vel * uv_ratio).xyz * 4.0;
 					color += vec4(irradiance, 1.0);
 				} else {
 					color += vec4(0.0, 0.0, 0.0, 0.0); // backface hit

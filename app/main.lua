@@ -26,7 +26,7 @@ win = hg.RenderInit('Train Simulator', res_x, res_y, hg.RF_VSync) -- | hg.RF_MSA
 hg.AddAssetsFolder("assets_compiled")
 
 --
-pipeline = hg.CreateForwardPipeline(4096, false)
+pipeline = hg.CreateForwardPipeline(4096 * 2, false)
 res = hg.PipelineResources()
 
 max_len = 4967.400 - 40.350-- in meters
@@ -52,16 +52,18 @@ elseif weather_mode == "fog" then
 	hg.LoadSceneFromAssets("skybox_fog.scn", main_scene, res, hg.GetForwardPipelineInfo())
 end
 
+-- hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+
 -- AAA pipeline
 pipeline_aaa_config = hg.ForwardPipelineAAAConfig()
 pipeline_aaa = hg.CreateForwardPipelineAAAFromAssets("core", pipeline_aaa_config, hg.BR_Equal, hg.BR_Equal)
 
 pipeline_aaa_config.sample_count = 1
-pipeline_aaa_config.motion_blur = 0.001
-pipeline_aaa_config.exposure = 1.4
-pipeline_aaa_config.gamma = 1.6
+pipeline_aaa_config.motion_blur = 0.1
+pipeline_aaa_config.exposure = 1.70
+pipeline_aaa_config.gamma = 1.620
 pipeline_aaa_config.z_thickness = 1.0 / 2.0
-pipeline_aaa_config.sharpen = 0.5
+pipeline_aaa_config.sharpen = 0.75
 
 -- Set camera
 local main_camera_node = main_scene:GetNode("RenderCamera")
@@ -89,9 +91,11 @@ state = "none"
 
 -- main loop
 local frame = 0
-local speed_factor = 0.0
+local dist_to_mile = 0.0
+local speed = 0.05
+local speed_factor = 1.0
 local app_state = "running"
-local sim_running = false
+local sim_running = true
 local keyboard = hg.Keyboard()
 local image_counter = 0001
 
@@ -110,46 +114,34 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and app_st
 	local view_id = 0
 	local pass_id
 
-	-- trs = main_scene:GetNode('engine_master'):GetTransform()
-	-- trs:SetRot(trs:GetRot() + hg.Vec3(0, hg.Deg(15) * hg.time_to_sec_f(dt), 0))
-	local variable_speed, dist_to_mile, idx
-	variable_speed = 0.0
-	
-	for idx = 1, 2 do
-		dist_to_mile = hg.Dist(cam_pos, miles_pos[idx])
-		-- print(idx .. "," .. dist_to_mile)
-		dist_to_mile = EaseInOutQuick(clamp(map(dist_to_mile, -220, 220, 0.0, 1.0), 0.0, 1.0))
-		variable_speed = variable_speed + dist_to_mile * max_speed
-	end
+	local cam_pos = hg.Lerp(miles_pos[1], miles_pos[2], EaseInOutQuick(clamp(dist_to_mile, 0.0, 1.0)))
 
-	variable_speed = variable_speed + min_speed
-	-- print("variable_speed = " .. variable_speed)
-
-	cam_pos.x = cam_pos.x + hg.time_to_sec_f(dt) * variable_speed * speed_factor
-	main_camera_node:GetTransform():SetPos(cam_pos)
+	main_camera_node:GetTransform():SetPos(cam_pos + hg.Vec3(0.0, 1.5, 0.0))
 	skybox_pos.x = cam_pos.x
 	skybox_node:GetTransform():SetPos(skybox_pos)
 
-	if cam_pos.x > max_len then
+	if dist_to_mile >= 1.0 then
 		-- cam_pos.x = cam_pos.x - max_len
 		app_state = "quit"
 	end
 
+	dist_to_mile = dist_to_mile + hg.time_to_sec_f(dt) * speed * speed_factor
+
     main_scene:Update(dt)
 
 	-- render main scene
-	view_id, pass_id = hg.SubmitSceneToPipeline(view_id, main_scene, hg.IntRect(0, 0, res_x, res_y), true, pipeline, res, pipeline_aaa, pipeline_aaa_config, frame, frame_buffer.handle)
+	view_id, pass_id = hg.SubmitSceneToPipeline(view_id, main_scene, hg.IntRect(0, 0, res_x, res_y), true, pipeline, res, pipeline_aaa, pipeline_aaa_config, frame) -- , frame_buffer.handle)
 	-- view_id, pass_id = hg.SubmitSceneToPipeline(view_id, main_scene, hg.IntRect(0, 0, res_x, res_y), true, pipeline, res)
-    if(state == "none" and sim_running == true) then
-        state = "capture"
-        frame_count_capture, view_id = hg.CaptureTexture(view_id, res, tex_color_ref, tex_readback, picture)
+    -- if(state == "none" and sim_running == true) then
+    --     state = "capture"
+    --     frame_count_capture, view_id = hg.CaptureTexture(view_id, res, tex_color_ref, tex_readback, picture)
 
-    elseif (state == "capture" and frame_count_capture <= frame) then
-        png_filename = string.format("images/capture_%04d.png", image_counter)
-        hg.SavePNG(picture, png_filename)
-        image_counter = image_counter + 1
-    state = "none"
-end
+    -- elseif (state == "capture" and frame_count_capture <= frame) then
+    --     png_filename = string.format("images/capture_%04d.png", image_counter)
+    --     hg.SavePNG(picture, png_filename)
+    --     image_counter = image_counter + 1
+	-- 	state = "none"
+	-- end
 
 	frame = hg.Frame()
 	hg.UpdateWindow(win)
