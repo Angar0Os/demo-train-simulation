@@ -93,9 +93,9 @@ state = "none"
 local frame = 0
 local dist_to_mile = 0.0
 local speed = 0.05
-local speed_factor = 1.0
+local speed_factor = 0.0
 local app_state = "running"
-local sim_running = true
+local sim_running = false
 local keyboard = hg.Keyboard()
 local image_counter = 0001
 
