@@ -24,8 +24,8 @@
 			206,
 			0
 		],
-		"fog_far": 1500.0,
-		"fog_near": 200.0,
+		"fog_far": 1000.0,
+		"fog_near": 80.0,
 		"probe": {
 			"irradiance_map": "probes/probe_day_mix.hdr.irradiance",
 			"parallax": 0.0,
@@ -152,7 +152,7 @@
 			],
 			"rot": [
 				39.99998474121094,
-				79.99998474121094,
+				79.99996948242188,
 				2.9098300728946924e-06
 			],
 			"scl": [

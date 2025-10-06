@@ -62,6 +62,9 @@
 	"instances": [
 		{
 			"name": "scenario_3_part_1.scn"
+		},
+		{
+			"name": "scenario_3_part_1.scn"
 		}
 	],
 	"key_values": null,
@@ -113,6 +116,19 @@
 			"disabled": false,
 			"idx": 3,
 			"instance": 0,
+			"name": "scenario_3_part_1"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 1,
 			"name": "scenario_3_part_1"
 		}
 	],
@@ -187,6 +203,24 @@
 				1.0,
 				1.0,
 				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1200.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				0.9999997615814209
 			]
 		}
 	]
