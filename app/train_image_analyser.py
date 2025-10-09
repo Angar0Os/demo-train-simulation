@@ -1,0 +1,75 @@
+from ultralytics import YOLO
+from pathlib import Path
+import cv2
+import random
+import os
+
+video_path = "double_train_reims_QHD.mp4"
+output_path = "output_videos/labeled_double_train_reims_QHD.mp4"
+os.makedirs(Path(output_path).parent, exist_ok=True)
+
+model = YOLO("yolov8l-worldv2.pt")
+
+CLASS_COLORS = {
+    "person": (255, 0, 0),
+    "car": (0, 255, 0),
+    "traffic light": (0, 165, 255),
+    "train": (147, 20, 255),
+    "suitcase": (0, 255, 255),
+    "handbag": (255, 0, 255),
+    "tv": (255, 255, 0),
+    "clock": (128, 0, 128),
+    "bench": (0, 128, 0),
+}
+
+def get_class_color(class_name):
+    """Renvoie une couleur cohérente par classe."""
+    if class_name in CLASS_COLORS:
+        return CLASS_COLORS[class_name]
+    random.seed(hash(class_name) % 10000)
+    return tuple(random.randint(0, 255) for _ in range(3))
+
+cap = cv2.VideoCapture(video_path)
+
+fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+fps = cap.get(cv2.CAP_PROP_FPS)
+width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+out = cv2.VideoWriter(output_path, fourcc, fps, (width, height))
+
+while cap.isOpened():
+    success, frame = cap.read()
+    if not success:
+        break
+
+    results = model.track(frame, persist=True, verbose=False)
+
+    if len(results) > 0 and results[0].boxes is not None:
+        boxes = results[0].boxes.xyxy
+        classes = results[0].boxes.cls
+        confs = results[0].boxes.conf
+        ids = results[0].boxes.id  # ID
+
+        for i, (box, cls, conf) in enumerate(zip(boxes, classes, confs)):
+            x1, y1, x2, y2 = map(int, box)
+            class_name = model.names[int(cls)].upper()
+            color = get_class_color(class_name.lower())
+            label = f"{class_name} {conf:.2f}"
+            if ids is not None:
+                label += f" ID:{int(ids[i])}"
+
+            cv2.rectangle(frame, (x1, y1), (x2, y2), color, 2)
+            (text_w, text_h), baseline = cv2.getTextSize(label, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)
+            cv2.rectangle(frame, (x1, y1 - text_h - baseline - 4), (x1 + text_w + 4, y1), color, -1)
+            cv2.putText(frame, label, (x1 + 2, y1 - 4),
+                        cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 1, cv2.LINE_AA)
+
+    cv2.imshow("YOLO Tracking", frame)
+    out.write(frame)
+
+    if cv2.waitKey(1) & 0xFF == ord("q"):
+        break
+
+cap.release()
+out.release()
+cv2.destroyAllWindows()
