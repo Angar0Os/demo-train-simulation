@@ -3,9 +3,10 @@ from pathlib import Path
 import cv2
 import random
 import os
+import numpy as np
 
-video_path = "double_train_reims_QHD.mp4"
-output_path = "output_videos/labeled_double_train_reims_QHD.mp4"
+video_path = "double_train_reims_fog_QHD.mp4"
+output_path = "output_videos/labeled_double_train_reims_fog_QHD.mp4"
 os.makedirs(Path(output_path).parent, exist_ok=True)
 
 model = YOLO("yolov8l-worldv2.pt")
@@ -48,7 +49,9 @@ while cap.isOpened():
         boxes = results[0].boxes.xyxy
         classes = results[0].boxes.cls
         confs = results[0].boxes.conf
-        ids = results[0].boxes.id  # ID
+        ids = results[0].boxes.id  # ID 
+
+        overlay = frame.copy()
 
         for i, (box, cls, conf) in enumerate(zip(boxes, classes, confs)):
             x1, y1, x2, y2 = map(int, box)
@@ -58,11 +61,15 @@ while cap.isOpened():
             if ids is not None:
                 label += f" ID:{int(ids[i])}"
 
-            cv2.rectangle(frame, (x1, y1), (x2, y2), color, 2)
+            alpha = float(conf) if conf < 0.5 else 1.0
+
+            cv2.rectangle(overlay, (x1, y1), (x2, y2), color, 2)
             (text_w, text_h), baseline = cv2.getTextSize(label, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)
-            cv2.rectangle(frame, (x1, y1 - text_h - baseline - 4), (x1 + text_w + 4, y1), color, -1)
-            cv2.putText(frame, label, (x1 + 2, y1 - 4),
+            cv2.rectangle(overlay, (x1, y1 - text_h - baseline - 4), (x1 + text_w + 4, y1), color, -1)
+            cv2.putText(overlay, label, (x1 + 2, y1 - 4),
                         cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 1, cv2.LINE_AA)
+
+            frame = cv2.addWeighted(overlay, alpha, frame, 1 - alpha, 0)
 
     cv2.imshow("YOLO Tracking", frame)
     out.write(frame)
