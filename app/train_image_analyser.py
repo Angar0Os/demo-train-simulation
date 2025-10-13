@@ -11,17 +11,34 @@ os.makedirs(Path(output_path).parent, exist_ok=True)
 
 model = YOLO("yolov8l-worldv2.pt")
 
+# CLASS_COLORS = {
+#     "person": (255, 0, 0),
+#     "handbag": (255, 0, 255),
+#     "suitcase": (0, 255, 255),
+#     "bench": (0, 128, 0),
+#     "tv": (255, 255, 0),
+#     "clock": (128, 0, 128),
+#     "traffic light": (0, 165, 255),
+#     "car": (0, 255, 0),
+#     "train": (147, 20, 255),
+# }
+
 CLASS_COLORS = {
-    "person": (255, 0, 0),
-    "car": (0, 255, 0),
-    "traffic light": (0, 165, 255),
-    "train": (147, 20, 255),
-    "suitcase": (0, 255, 255),
-    "handbag": (255, 0, 255),
-    "tv": (255, 255, 0),
-    "clock": (128, 0, 128),
-    "bench": (0, 128, 0),
+    "person":           hex_to_bgr('#E6607F'),
+    "handbag":          hex_to_bgr('#00A7E6'),
+    "suitcase":         hex_to_bgr('#E6DE60'),
+    "bench":            hex_to_bgr('#918E6D'),
+    "tv":               hex_to_bgr('#665A5D'),
+    "clock":            hex_to_bgr('#5A6366'),
+    "traffic light":    hex_to_bgr('#7B6D91'),
+    "car":              hex_to_bgr('#9560E6'),
+    "train":            hex_to_bgr('#60E67D'),
 }
+
+def hex_to_bgr(hex_color: str):
+    hex_color = hex_color.lstrip('#')
+    rgb = tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
+    return rgb[::-1]
 
 def get_class_color(class_name):
     """Renvoie une couleur cohérente par classe."""
@@ -55,13 +72,13 @@ while cap.isOpened():
 
         for i, (box, cls, conf) in enumerate(zip(boxes, classes, confs)):
             x1, y1, x2, y2 = map(int, box)
-            class_name = model.names[int(cls)].upper()
+            class_name = model.names[int(cls)].capitalize()
             color = get_class_color(class_name.lower())
             label = f"{class_name} {conf:.2f}"
             if ids is not None:
                 label += f" ID:{int(ids[i])}"
 
-            alpha = float(conf) if conf < 0.5 else 1.0
+            alpha = float(conf) * 2.0 if conf < 0.5 else 1.0
 
             cv2.rectangle(overlay, (x1, y1), (x2, y2), color, 2)
             (text_w, text_h), baseline = cv2.getTextSize(label, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)
