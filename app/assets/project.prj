@@ -1,14 +1,14 @@
 {
 	"recent_files": [
-		"scenario_3_part_1.scn",
-		"trains/train_ter_hdf/train_ter_hdf.scn",
 		"demo_scene.scn",
+		"train_night.scn",
+		"train.scn",
 		"demo_scene_.scn",
+		"trains/train_ter_hdf/train_ter_hdf.scn",
+		"scenario_3_part_1.scn",
 		"skybox_day.scn",
 		"camera_day.scn",
 		"scene_blocking.scn",
-		"envs/background.scn",
-		"camera_night.scn",
-		"merged/scene_base_merged.scn"
+		"envs/background.scn"
 	]
 }

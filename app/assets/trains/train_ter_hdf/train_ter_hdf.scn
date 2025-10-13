@@ -7257,24 +7257,6 @@
 	},
 	"instances": [
 		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
-			"name": "props/square_shadow/round_shadow.scn"
-		},
-		{
 			"anim": "all_closed",
 			"loop_mode": "none",
 			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
@@ -7293,6 +7275,24 @@
 			"anim": "all_closed",
 			"loop_mode": "none",
 			"name": "trains/train_ter_hdf/portes_ter_hdf.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
 		}
 	],
 	"key_values": null,
@@ -7306,6 +7306,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 0,
 			"name": "train_wagon_long"
 		},
@@ -7318,6 +7319,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 1,
 			"name": "train_wagon_short_interior"
 		},
@@ -7330,6 +7332,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 2,
 			"name": "train_wagon_short"
 		},
@@ -7342,6 +7345,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 3,
 			"name": "train_locomotive_interior"
 		},
@@ -7354,6 +7358,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 4,
 			"name": "train_locomotive"
 		},
@@ -7366,8 +7371,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 5,
-			"instance": 8,
+			"instance": 1,
 			"name": "doors_front"
 		},
 		{
@@ -7379,8 +7385,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 6,
-			"instance": 9,
+			"instance": 0,
 			"name": "doors_locomotive"
 		},
 		{
@@ -7392,8 +7399,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 7,
-			"instance": 7,
+			"instance": 2,
 			"name": "doors_rear"
 		},
 		{
@@ -7405,6 +7413,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 8,
 			"name": "train_wagon_long_rear"
 		},
@@ -7417,6 +7426,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 9,
 			"name": "train_locomotive_rear"
 		},
@@ -7429,8 +7439,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 10,
-			"instance": 6,
+			"instance": 3,
 			"name": "doors_locomotive_rear"
 		},
 		{
@@ -7442,6 +7453,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 11,
 			"name": "train_motion"
 		},
@@ -7454,6 +7466,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 12,
 			"name": "train_locomotive_interior"
 		},
@@ -7466,6 +7479,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 13,
 			"name": "root"
 		},
@@ -7478,8 +7492,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 14,
-			"instance": 5,
+			"instance": 4,
 			"name": "round_shadow"
 		},
 		{
@@ -7491,8 +7506,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 15,
-			"instance": 4,
+			"instance": 5,
 			"name": "round_shadow"
 		},
 		{
@@ -7504,8 +7520,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 16,
-			"instance": 3,
+			"instance": 6,
 			"name": "round_shadow"
 		},
 		{
@@ -7517,8 +7534,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 17,
-			"instance": 2,
+			"instance": 7,
 			"name": "round_shadow"
 		},
 		{
@@ -7530,8 +7548,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 18,
-			"instance": 1,
+			"instance": 8,
 			"name": "round_shadow"
 		},
 		{
@@ -7543,8 +7562,9 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 19,
-			"instance": 0,
+			"instance": 9,
 			"name": "round_shadow"
 		},
 		{
@@ -7557,6 +7577,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 20,
 			"name": "source_low"
 		},
@@ -7570,6 +7591,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 21,
 			"name": "source_high_center"
 		},
@@ -7583,6 +7605,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 22,
 			"name": "source_high_rear"
 		},
@@ -7596,6 +7619,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 23,
 			"name": "source_high_front"
 		}
@@ -7603,6 +7627,7 @@
 	"objects": [
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "MTER_wagon_01_pubage_BaseColor"
@@ -7777,10 +7802,12 @@
 					"write_z": true
 				}
 			],
-			"name": "trains/train_ter_hdf/train_wagon_long_46.geo"
+			"name": "trains/train_ter_hdf/train_wagon_long_46.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "interieur_subs_05_interior_TER_wagon_BaseColor"
@@ -8018,10 +8045,12 @@
 					"write_z": false
 				}
 			],
-			"name": "trains/train_ter_hdf/train_wagon_short_interior_47.geo"
+			"name": "trains/train_ter_hdf/train_wagon_short_interior_47.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "TER__wagon_02_pubage_BaseColor"
@@ -8201,10 +8230,12 @@
 					"write_z": true
 				}
 			],
-			"name": "trains/train_ter_hdf/train_wagon_short_48.geo"
+			"name": "trains/train_ter_hdf/train_wagon_short_48.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "Material #40"
@@ -8442,10 +8473,12 @@
 					"write_z": false
 				}
 			],
-			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo"
+			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "TER_loco_pubage_BaseColor"
@@ -8676,10 +8709,12 @@
 					"write_z": true
 				}
 			],
-			"name": "trains/train_ter_hdf/train_locomotive_50.geo"
+			"name": "trains/train_ter_hdf/train_locomotive_50.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "MTER_wagon_01_pubage_BaseColor"
@@ -8854,10 +8889,12 @@
 					"write_z": true
 				}
 			],
-			"name": "trains/train_ter_hdf/train_wagon_long_46.geo"
+			"name": "trains/train_ter_hdf/train_wagon_long_46.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "TER_loco_pubage_BaseColor"
@@ -9088,10 +9125,12 @@
 					"write_z": true
 				}
 			],
-			"name": "trains/train_ter_hdf/train_locomotive_50.geo"
+			"name": "trains/train_ter_hdf/train_locomotive_50.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "Material #40"
@@ -9329,7 +9368,8 @@
 					"write_z": false
 				}
 			],
-			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo"
+			"name": "trains/train_ter_hdf/train_locomotive_interior_49.geo",
+			"shadow": ""
 		}
 	],
 	"scene_anims": [

@@ -20,6 +20,8 @@ hg.InputInit()
 hg.WindowSystemInit()
 
 res_x, res_y, tex_size_x, tex_size_y = 2560, 1440, 2560, 1440
+-- res_x, res_y, tex_size_x, tex_size_y = 1920, 1080, 1920, 1080
+
 -- res_x, res_y = 1280, 720
 win = hg.RenderInit('Train Simulator', res_x, res_y, hg.RF_VSync) -- | hg.RF_MSAA4X)
 
@@ -36,21 +38,24 @@ main_scene = hg.Scene()
 local weather_mode 
 --weather_mode = "day"
 -- weather_mode = "fog"
-weather_mode = "day"
-capture_mode = true
+weather_mode = "night"
+capture_mode = false
 
 
 if weather_mode == "night" then
 	hg.LoadSceneFromAssets("camera_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+    hg.LoadSceneFromAssets("train_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_night.scn", main_scene, res, hg.GetForwardPipelineInfo())
 elseif weather_mode == "day" then
 	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+    hg.LoadSceneFromAssets("train_scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 elseif weather_mode == "fog" then
 	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
+    hg.LoadSceneFromAssets("train_scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_fog.scn", main_scene, res, hg.GetForwardPipelineInfo())
 end
 
@@ -80,8 +85,10 @@ local skybox_node = main_scene:GetNode("skydome")
 local skybox_pos = skybox_node:GetTransform():GetPos()
 
 local miles_pos = {main_scene:GetNode("mile_0"):GetTransform():GetPos(), main_scene:GetNode("mile_1"):GetTransform():GetPos()}
-local moving_train = main_scene:GetNode("train_track_W")
 
+local moving_train = nil
+
+moving_train = main_scene:GetNode("moving_train")
 
 frame_buffer = hg.CreateFrameBuffer(tex_size_x, tex_size_y, hg.TF_RGBA8, hg.TF_D24, 4, 'framebuffer')
 tex_color = hg.GetColorTexture(frame_buffer)
@@ -102,6 +109,7 @@ local sim_running = false
 local keyboard = hg.Keyboard()
 local image_counter = 0001
 
+moving_train:GetTransform():SetPos(hg.Vec3(270, -0.669, 49.661))
 moving_train_pos = moving_train:GetTransform():GetPos()
 
 while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and app_state == "running" do
@@ -149,7 +157,7 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and app_st
             frame_count_capture, view_id = hg.CaptureTexture(view_id, res, tex_color_ref, tex_readback, picture)
 
         elseif (state == "capture" and frame_count_capture <= frame) then
-            png_filename = string.format("images_reims/capture_%04d.png", image_counter)
+            png_filename = string.format("images_reims_fog/capture_%04d.png", image_counter)
             hg.SavePNG(picture, png_filename)
             image_counter = image_counter + 1
 	    	state = "none"
