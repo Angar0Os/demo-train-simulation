@@ -58,7 +58,8 @@
 				4294967295,
 				4294967295
 			],
-			"disabled": false,
+			"disabled": true,
+			"editor": false,
 			"idx": 0,
 			"name": "fake_exterior"
 		},
@@ -71,6 +72,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 1,
 			"name": "fake_floor"
 		}
@@ -78,6 +80,7 @@
 	"objects": [
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "panorama_fake"
@@ -148,10 +151,12 @@
 					"write_z": true
 				}
 			],
-			"name": "blocs/fake_exterior/fake_exterior.geo"
+			"name": "blocs/fake_exterior/fake_exterior.geo",
+			"shadow": ""
 		},
 		{
 			"bones": [],
+			"flags": [],
 			"material_infos": [
 				{
 					"name": "exterior_fake"
@@ -225,7 +230,8 @@
 					"write_z": true
 				}
 			],
-			"name": "blocs/fake_exterior/fake_floor.geo"
+			"name": "blocs/fake_exterior/fake_floor.geo",
+			"shadow": ""
 		}
 	],
 	"transforms": [
@@ -237,9 +243,9 @@
 				-82.5534896850586
 			],
 			"rot": [
-				-89.9999771118164,
+				-89.99996948242188,
 				-0.0,
-				-174.99996948242188
+				-174.9999542236328
 			],
 			"scl": [
 				0.02040858194231987,
@@ -256,7 +262,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99993896484375,
 				0.0
 			],
 			"scl": [
