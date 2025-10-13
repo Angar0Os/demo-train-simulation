@@ -19,22 +19,22 @@
 		"brdf_map": "core/pbr/brdf.dds",
 		"current_camera": null,
 		"fog_color": [
-			157,
-			157,
-			157,
+			88,
+			85,
+			76,
 			0
 		],
 		"fog_far": 350.0,
 		"fog_near": 15.0,
 		"probe": {
-			"irradiance_map": "probes/probe_autoshop.hdr.irradiance",
+			"irradiance_map": "probes/tunnel.hdr.irradiance",
 			"parallax": 0.0,
 			"pos": [
 				0.0,
 				0.0,
 				0.0
 			],
-			"radiance_map": "probes/probe_autoshop.hdr.radiance",
+			"radiance_map": "probes/tunnel.hdr.radiance",
 			"rot": [
 				0.0,
 				0.0,
@@ -95,6 +95,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 0,
 			"instance": 0,
 			"name": "skydome"
@@ -108,6 +109,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 1,
 			"name": "root"
 		},
@@ -120,6 +122,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 2,
 			"name": "LightSun"
 		}
@@ -151,7 +154,7 @@
 				0.0
 			],
 			"rot": [
-				69.39250946044922,
+				69.39250183105469,
 				49.99999237060547,
 				-1.2128718935855431e-06
 			],
