@@ -65,6 +65,9 @@
 		},
 		{
 			"name": "scenario_3_part_1.scn"
+		},
+		{
+			"name": "trains/train_ter_hdf/train_ter_hdf.scn"
 		}
 	],
 	"key_values": null,
@@ -78,6 +81,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 0,
 			"name": "_Camera"
 		},
@@ -90,6 +94,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 1,
 			"name": "mile_0"
 		},
@@ -102,6 +107,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 2,
 			"name": "mile_1"
 		},
@@ -114,6 +120,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 3,
 			"instance": 0,
 			"name": "scenario_3_part_1"
@@ -127,9 +134,24 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 4,
 			"instance": 1,
 			"name": "scenario_3_part_1"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"editor": false,
+			"idx": 5,
+			"instance": 2,
+			"name": "train_track_W"
 		}
 	],
 	"transforms": [
@@ -221,6 +243,24 @@
 				0.9999998807907104,
 				0.9999998807907104,
 				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				248.57791137695313,
+				-0.627200722694397,
+				49.672786712646484
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999980330467224,
+				0.9999974966049194,
+				0.9999966025352478
 			]
 		}
 	]
