@@ -958,6 +958,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 0,
 			"instance": 76,
 			"name": "wp_009"
@@ -971,6 +972,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 1,
 			"name": "cam_wp_007_in"
 		},
@@ -983,6 +985,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 2,
 			"instance": 78,
 			"name": "out"
@@ -996,6 +999,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 3,
 			"name": "cam_wp_007_out"
 		},
@@ -1008,6 +1012,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 4,
 			"instance": 73,
 			"name": "wp_008"
@@ -1021,6 +1026,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 5,
 			"instance": 79,
 			"name": "in"
@@ -1034,6 +1040,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 6,
 			"name": "cam_wp_006_in"
 		},
@@ -1046,6 +1053,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 7,
 			"instance": 97,
 			"name": "out"
@@ -1059,6 +1067,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 8,
 			"name": "cam_wp_006_out"
 		},
@@ -1071,6 +1080,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 9,
 			"instance": 95,
 			"name": "in"
@@ -1084,6 +1094,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 10,
 			"instance": 84,
 			"name": "out"
@@ -1097,6 +1108,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 11,
 			"name": "cam_wp_007_out"
 		},
@@ -1109,6 +1121,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 12,
 			"instance": 89,
 			"name": "out"
@@ -1122,6 +1135,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 13,
 			"name": "cam_wp_007_in"
 		},
@@ -1134,6 +1148,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 14,
 			"instance": 85,
 			"name": "interaction_point_uturn"
@@ -1147,6 +1162,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 15,
 			"instance": 67,
 			"name": "in"
@@ -1160,6 +1176,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 16,
 			"instance": 88,
 			"name": "wp_007"
@@ -1173,6 +1190,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 17,
 			"name": "cam_wp_006_out"
 		},
@@ -1185,6 +1203,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 18,
 			"instance": 94,
 			"name": "obb_enable_exit_point"
@@ -1198,6 +1217,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 19,
 			"name": "cam_wp_006_in"
 		},
@@ -1210,6 +1230,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 20,
 			"instance": 65,
 			"name": "in"
@@ -1223,6 +1244,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 21,
 			"instance": 75,
 			"name": "wp_006"
@@ -1236,6 +1258,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 22,
 			"name": "cam_wp_005_out"
 		},
@@ -1248,6 +1271,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 23,
 			"instance": 61,
 			"name": "out"
@@ -1261,6 +1285,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 24,
 			"instance": 186,
 			"name": "obb_enable_exit_point"
@@ -1274,6 +1299,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 25,
 			"name": "cam_wp_005_in"
 		},
@@ -1286,6 +1312,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 26,
 			"instance": 69,
 			"name": "in"
@@ -1299,6 +1326,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 27,
 			"instance": 83,
 			"name": "wp_005"
@@ -1312,6 +1340,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 28,
 			"name": "cam_wp_004_out"
 		},
@@ -1324,6 +1353,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 29,
 			"instance": 81,
 			"name": "out"
@@ -1337,6 +1367,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 30,
 			"name": "cam_wp_004_in"
 		},
@@ -1349,6 +1380,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 31,
 			"instance": 82,
 			"name": "obb_enable_exit_point"
@@ -1362,6 +1394,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 32,
 			"instance": 71,
 			"name": "in"
@@ -1375,6 +1408,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 33,
 			"name": "cam_wp_003_out"
 		},
@@ -1387,6 +1421,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 34,
 			"instance": 60,
 			"name": "out"
@@ -1400,6 +1435,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 35,
 			"instance": 66,
 			"name": "wp_004"
@@ -1413,6 +1449,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 36,
 			"instance": 92,
 			"name": "obb_enable_exit_point"
@@ -1426,6 +1463,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 37,
 			"name": "cam_wp_003_in"
 		},
@@ -1438,6 +1476,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 38,
 			"instance": 72,
 			"name": "in"
@@ -1451,6 +1490,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 39,
 			"instance": 64,
 			"name": "wp_003"
@@ -1464,6 +1504,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 40,
 			"name": "cam_wp_002_out"
 		},
@@ -1476,6 +1517,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 41,
 			"instance": 70,
 			"name": "out"
@@ -1489,6 +1531,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 42,
 			"instance": 80,
 			"name": "obb_enable_exit_point"
@@ -1502,6 +1545,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 43,
 			"name": "cam_wp_002_in"
 		},
@@ -1514,6 +1558,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 44,
 			"instance": 90,
 			"name": "in"
@@ -1527,6 +1572,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 45,
 			"instance": 93,
 			"name": "wp_002"
@@ -1540,6 +1586,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 46,
 			"name": "cam_wp_001_out"
 		},
@@ -1552,6 +1599,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 47,
 			"instance": 63,
 			"name": "out"
@@ -1565,6 +1613,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 48,
 			"instance": 87,
 			"name": "obb_enable_exit_point"
@@ -1578,6 +1627,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 49,
 			"name": "cam_wp_001_in"
 		},
@@ -1590,6 +1640,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 50,
 			"instance": 68,
 			"name": "wp_001"
@@ -1603,6 +1654,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 51,
 			"instance": 86,
 			"name": "in"
@@ -1616,6 +1668,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 52,
 			"name": "cam_wp_000_out"
 		},
@@ -1628,6 +1681,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 53,
 			"instance": 57,
 			"name": "out"
@@ -1641,6 +1695,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 54,
 			"instance": 59,
 			"name": "interaction_point_start"
@@ -1654,6 +1709,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 55,
 			"name": "cam_wp_000_in"
 		},
@@ -1666,6 +1722,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 56,
 			"instance": 62,
 			"name": "in"
@@ -1679,6 +1736,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 57,
 			"instance": 91,
 			"name": "wp_000"
@@ -1692,6 +1750,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 58,
 			"name": "wp_list"
 		},
@@ -1704,6 +1763,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 59,
 			"instance": 77,
 			"name": "interaction_point_wallet"
@@ -1717,6 +1777,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 60,
 			"instance": 58,
 			"name": "wallet"
@@ -1730,6 +1791,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 61,
 			"instance": 74,
 			"name": "interaction_point_end"
@@ -1743,6 +1805,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 62,
 			"instance": 96,
 			"name": "obb_enable_exit_point"
@@ -1756,6 +1819,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 63,
 			"instance": 107,
 			"name": "obb_8"
@@ -1769,6 +1833,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 64,
 			"instance": 105,
 			"name": "obb_7"
@@ -1782,6 +1847,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 65,
 			"instance": 106,
 			"name": "obb_5"
@@ -1795,6 +1861,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 66,
 			"instance": 104,
 			"name": "obb_6"
@@ -1808,6 +1875,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 67,
 			"instance": 100,
 			"name": "obb_4"
@@ -1821,6 +1889,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 68,
 			"instance": 101,
 			"name": "obb_3"
@@ -1834,6 +1903,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 69,
 			"instance": 108,
 			"name": "obb_2"
@@ -1847,6 +1917,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 70,
 			"name": "follower"
 		},
@@ -1859,6 +1930,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 71,
 			"instance": 102,
 			"name": "obb_1"
@@ -1872,6 +1944,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 72,
 			"instance": 99,
 			"name": "obb_9"
@@ -1885,6 +1958,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 73,
 			"instance": 103,
 			"name": "obb_0"
@@ -1898,6 +1972,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 74,
 			"instance": 98,
 			"name": "follower_0"
@@ -1911,6 +1986,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 75,
 			"name": "follower"
 		},
@@ -1923,6 +1999,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 76,
 			"instance": 109,
 			"name": "follower_1"
@@ -1936,6 +2013,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 77,
 			"instance": 117,
 			"name": "obb_5"
@@ -1949,6 +2027,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 78,
 			"instance": 114,
 			"name": "obb_0"
@@ -1962,6 +2041,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 79,
 			"instance": 113,
 			"name": "obb_1"
@@ -1975,6 +2055,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 80,
 			"instance": 119,
 			"name": "obb_2"
@@ -1988,6 +2069,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 81,
 			"instance": 112,
 			"name": "obb_3"
@@ -2001,6 +2083,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 82,
 			"instance": 111,
 			"name": "obb_4"
@@ -2014,6 +2097,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 83,
 			"instance": 115,
 			"name": "obb_6"
@@ -2027,6 +2111,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 84,
 			"instance": 116,
 			"name": "obb_7"
@@ -2040,6 +2125,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 85,
 			"instance": 118,
 			"name": "obb_8"
@@ -2053,6 +2139,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 86,
 			"instance": 110,
 			"name": "obb_9"
@@ -2066,6 +2153,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 87,
 			"name": "follower"
 		},
@@ -2078,6 +2166,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 88,
 			"instance": 120,
 			"name": "follower_2"
@@ -2091,6 +2180,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 89,
 			"instance": 128,
 			"name": "obb_5"
@@ -2104,6 +2194,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 90,
 			"instance": 125,
 			"name": "obb_0"
@@ -2117,6 +2208,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 91,
 			"instance": 124,
 			"name": "obb_1"
@@ -2130,6 +2222,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 92,
 			"instance": 130,
 			"name": "obb_2"
@@ -2143,6 +2236,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 93,
 			"instance": 123,
 			"name": "obb_3"
@@ -2156,6 +2250,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 94,
 			"instance": 122,
 			"name": "obb_4"
@@ -2169,6 +2264,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 95,
 			"instance": 126,
 			"name": "obb_6"
@@ -2182,6 +2278,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 96,
 			"instance": 127,
 			"name": "obb_7"
@@ -2195,6 +2292,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 97,
 			"instance": 129,
 			"name": "obb_8"
@@ -2208,6 +2306,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 98,
 			"instance": 121,
 			"name": "obb_9"
@@ -2221,6 +2320,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 99,
 			"name": "follower"
 		},
@@ -2233,6 +2333,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 100,
 			"instance": 131,
 			"name": "follower_3"
@@ -2246,6 +2347,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 101,
 			"instance": 183,
 			"name": "obb_5"
@@ -2259,6 +2361,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 102,
 			"instance": 180,
 			"name": "obb_0"
@@ -2272,6 +2375,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 103,
 			"instance": 179,
 			"name": "obb_1"
@@ -2285,6 +2389,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 104,
 			"instance": 185,
 			"name": "obb_2"
@@ -2298,6 +2403,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 105,
 			"instance": 178,
 			"name": "obb_3"
@@ -2311,6 +2417,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 106,
 			"instance": 177,
 			"name": "obb_4"
@@ -2324,6 +2431,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 107,
 			"instance": 181,
 			"name": "obb_6"
@@ -2337,6 +2445,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 108,
 			"instance": 182,
 			"name": "obb_7"
@@ -2350,6 +2459,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 109,
 			"instance": 184,
 			"name": "obb_8"
@@ -2363,6 +2473,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 110,
 			"instance": 132,
 			"name": "obb_9"
@@ -2376,6 +2487,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 111,
 			"name": "follower"
 		},
@@ -2388,6 +2500,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 112,
 			"instance": 133,
 			"name": "follower_4"
@@ -2401,6 +2514,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 113,
 			"instance": 141,
 			"name": "obb_5"
@@ -2414,6 +2528,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 114,
 			"instance": 138,
 			"name": "obb_0"
@@ -2427,6 +2542,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 115,
 			"instance": 137,
 			"name": "obb_1"
@@ -2440,6 +2556,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 116,
 			"instance": 143,
 			"name": "obb_2"
@@ -2453,6 +2570,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 117,
 			"instance": 136,
 			"name": "obb_3"
@@ -2466,6 +2584,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 118,
 			"instance": 135,
 			"name": "obb_4"
@@ -2479,6 +2598,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 119,
 			"instance": 139,
 			"name": "obb_6"
@@ -2492,6 +2612,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 120,
 			"instance": 140,
 			"name": "obb_7"
@@ -2505,6 +2626,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 121,
 			"instance": 142,
 			"name": "obb_8"
@@ -2518,6 +2640,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 122,
 			"instance": 134,
 			"name": "obb_9"
@@ -2531,6 +2654,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 123,
 			"name": "follower"
 		},
@@ -2543,6 +2667,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 124,
 			"instance": 144,
 			"name": "follower_5"
@@ -2556,6 +2681,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 125,
 			"instance": 168,
 			"name": "obb_5"
@@ -2569,6 +2695,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 126,
 			"instance": 165,
 			"name": "obb_0"
@@ -2582,6 +2709,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 127,
 			"instance": 164,
 			"name": "obb_1"
@@ -2595,6 +2723,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 128,
 			"instance": 170,
 			"name": "obb_2"
@@ -2608,6 +2737,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 129,
 			"instance": 147,
 			"name": "obb_3"
@@ -2621,6 +2751,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 130,
 			"instance": 146,
 			"name": "obb_4"
@@ -2634,6 +2765,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 131,
 			"instance": 166,
 			"name": "obb_6"
@@ -2647,6 +2779,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 132,
 			"instance": 167,
 			"name": "obb_7"
@@ -2660,6 +2793,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 133,
 			"instance": 169,
 			"name": "obb_8"
@@ -2673,6 +2807,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 134,
 			"instance": 145,
 			"name": "obb_9"
@@ -2686,6 +2821,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 135,
 			"name": "follower"
 		},
@@ -2698,6 +2834,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 136,
 			"instance": 171,
 			"name": "follower_6"
@@ -2711,6 +2848,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 137,
 			"instance": 150,
 			"name": "obb_5"
@@ -2724,6 +2862,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 138,
 			"instance": 176,
 			"name": "obb_0"
@@ -2737,6 +2876,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 139,
 			"instance": 175,
 			"name": "obb_1"
@@ -2750,6 +2890,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 140,
 			"instance": 152,
 			"name": "obb_2"
@@ -2763,6 +2904,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 141,
 			"instance": 174,
 			"name": "obb_3"
@@ -2776,6 +2918,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 142,
 			"instance": 173,
 			"name": "obb_4"
@@ -2789,6 +2932,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 143,
 			"instance": 148,
 			"name": "obb_6"
@@ -2802,6 +2946,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 144,
 			"instance": 149,
 			"name": "obb_7"
@@ -2815,6 +2960,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 145,
 			"instance": 151,
 			"name": "obb_8"
@@ -2828,6 +2974,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 146,
 			"instance": 172,
 			"name": "obb_9"
@@ -2841,6 +2988,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 147,
 			"name": "follower"
 		},
@@ -2853,6 +3001,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 148,
 			"instance": 153,
 			"name": "follower_7"
@@ -2866,6 +3015,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 149,
 			"instance": 161,
 			"name": "obb_5"
@@ -2879,6 +3029,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 150,
 			"instance": 158,
 			"name": "obb_0"
@@ -2892,6 +3043,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 151,
 			"instance": 157,
 			"name": "obb_1"
@@ -2905,6 +3057,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 152,
 			"instance": 163,
 			"name": "obb_2"
@@ -2918,6 +3071,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 153,
 			"instance": 156,
 			"name": "obb_3"
@@ -2931,6 +3085,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 154,
 			"instance": 155,
 			"name": "obb_4"
@@ -2944,6 +3099,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 155,
 			"instance": 159,
 			"name": "obb_6"
@@ -2957,6 +3113,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 156,
 			"instance": 160,
 			"name": "obb_7"
@@ -2970,6 +3127,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 157,
 			"instance": 162,
 			"name": "obb_8"
@@ -2983,6 +3141,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 158,
 			"instance": 154,
 			"name": "obb_9"
@@ -2996,6 +3155,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 159,
 			"name": "CAM_BOTTOM_VIEW"
 		},
@@ -3008,6 +3168,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 160,
 			"name": "CAM_TOP_VIEW"
 		},
@@ -3020,6 +3181,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 161,
 			"instance": 192,
 			"name": "background"
@@ -3033,6 +3195,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 162,
 			"instance": 193,
 			"name": "letter_north"
@@ -3046,6 +3209,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 163,
 			"instance": 191,
 			"name": "sgn_reperes_voies_quai"
@@ -3059,6 +3223,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 164,
 			"instance": 190,
 			"name": "letter_south"
@@ -3072,6 +3237,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 165,
 			"instance": 194,
 			"name": "scene_blocking"
@@ -3085,6 +3251,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 166,
 			"instance": 187,
 			"name": "train_track_C"
@@ -3098,6 +3265,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 167,
 			"instance": 189,
 			"name": "train_track_F"
@@ -3111,6 +3279,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 168,
 			"instance": 188,
 			"name": "train_track_W"
@@ -3124,6 +3293,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 169,
 			"name": "graphic_assets_list"
 		},
@@ -3136,6 +3306,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 170,
 			"instance": 9,
 			"name": "characters_group_01"
@@ -3149,6 +3320,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 171,
 			"instance": 53,
 			"name": "characters_group_01"
@@ -3162,6 +3334,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 172,
 			"name": "characters_list"
 		},
@@ -3174,6 +3347,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 173,
 			"instance": 34,
 			"name": "characters_group_01"
@@ -3187,6 +3361,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 174,
 			"instance": 11,
 			"name": "character_man_01"
@@ -3200,6 +3375,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 175,
 			"instance": 49,
 			"name": "characters_group_03"
@@ -3213,6 +3389,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 176,
 			"instance": 38,
 			"name": "characters_group_01"
@@ -3226,6 +3403,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 177,
 			"instance": 18,
 			"name": "characters_group_01"
@@ -3239,6 +3417,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 178,
 			"instance": 23,
 			"name": "characters_group_01"
@@ -3252,6 +3431,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 179,
 			"instance": 54,
 			"name": "characters_group_01"
@@ -3265,6 +3445,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 180,
 			"instance": 3,
 			"name": "characters_group_02"
@@ -3278,6 +3459,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 181,
 			"instance": 30,
 			"name": "characters_group_02"
@@ -3291,6 +3473,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 182,
 			"instance": 6,
 			"name": "characters_group_02"
@@ -3304,6 +3487,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 183,
 			"instance": 8,
 			"name": "characters_group_03"
@@ -3317,6 +3501,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 184,
 			"instance": 43,
 			"name": "characters_group_02"
@@ -3330,6 +3515,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 185,
 			"instance": 50,
 			"name": "characters_group_02"
@@ -3343,6 +3529,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 186,
 			"instance": 35,
 			"name": "characters_group_03"
@@ -3356,6 +3543,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 187,
 			"instance": 44,
 			"name": "characters_group_03"
@@ -3369,6 +3557,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 188,
 			"instance": 46,
 			"name": "characters_group_04"
@@ -3382,6 +3571,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 189,
 			"instance": 31,
 			"name": "characters_group_04"
@@ -3395,6 +3585,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 190,
 			"instance": 28,
 			"name": "characters_group_05"
@@ -3408,6 +3599,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 191,
 			"instance": 2,
 			"name": "characters_group_06"
@@ -3421,6 +3613,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 192,
 			"instance": 4,
 			"name": "characters_group_03"
@@ -3434,6 +3627,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 193,
 			"instance": 39,
 			"name": "characters_group_03"
@@ -3447,6 +3641,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 194,
 			"instance": 42,
 			"name": "characters_group_04"
@@ -3460,6 +3655,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 195,
 			"instance": 7,
 			"name": "characters_group_04"
@@ -3473,6 +3669,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 196,
 			"instance": 40,
 			"name": "characters_group_04"
@@ -3486,6 +3683,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 197,
 			"instance": 22,
 			"name": "characters_group_04"
@@ -3499,6 +3697,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 198,
 			"instance": 1,
 			"name": "characters_group_04"
@@ -3512,6 +3711,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 199,
 			"instance": 17,
 			"name": "characters_group_04"
@@ -3525,6 +3725,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 200,
 			"instance": 19,
 			"name": "characters_group_04"
@@ -3538,6 +3739,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 201,
 			"instance": 21,
 			"name": "characters_group_05"
@@ -3551,6 +3753,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 202,
 			"instance": 41,
 			"name": "characters_group_05"
@@ -3564,6 +3767,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 203,
 			"instance": 10,
 			"name": "characters_group_05"
@@ -3577,6 +3781,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 204,
 			"instance": 45,
 			"name": "characters_group_05"
@@ -3590,6 +3795,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 205,
 			"instance": 16,
 			"name": "characters_group_07"
@@ -3603,6 +3809,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 206,
 			"instance": 32,
 			"name": "characters_group_sitting_01"
@@ -3616,6 +3823,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 207,
 			"instance": 51,
 			"name": "characters_male_vito_sitting_c"
@@ -3629,6 +3837,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 208,
 			"instance": 55,
 			"name": "characters_group_06"
@@ -3642,6 +3851,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 209,
 			"instance": 26,
 			"name": "characters_group_06"
@@ -3655,6 +3865,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 210,
 			"instance": 13,
 			"name": "characters_group_07"
@@ -3668,6 +3879,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 211,
 			"instance": 27,
 			"name": "characters_group_sitting_01"
@@ -3681,6 +3893,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 212,
 			"instance": 29,
 			"name": "characters_group_sitting_01"
@@ -3694,6 +3907,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 213,
 			"instance": 33,
 			"name": "characters_group_sitting_01"
@@ -3707,6 +3921,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 214,
 			"instance": 24,
 			"name": "characters_group_sitting_02"
@@ -3720,6 +3935,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 215,
 			"instance": 52,
 			"name": "characters_male_kevin_paul_dialogue"
@@ -3733,6 +3949,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 216,
 			"instance": 5,
 			"name": "characters_group_sitting_01"
@@ -3746,6 +3963,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 217,
 			"instance": 48,
 			"name": "characters_group_sitting_01"
@@ -3759,6 +3977,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 218,
 			"instance": 25,
 			"name": "characters_group_sitting_02"
@@ -3772,6 +3991,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 219,
 			"instance": 15,
 			"name": "characters_man_sitting_01d"
@@ -3785,6 +4005,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 220,
 			"instance": 47,
 			"name": "characters_man_sitting_01a"
@@ -3798,6 +4019,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 221,
 			"instance": 37,
 			"name": "woman_bag_01a"
@@ -3811,6 +4033,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 222,
 			"instance": 14,
 			"name": "characters_man_sitting_01a"
@@ -3824,6 +4047,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 223,
 			"instance": 12,
 			"name": "characters_man_sitting_01d"
@@ -3837,6 +4061,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 224,
 			"instance": 56,
 			"name": "male_kevin_paul_dialogue"
@@ -3850,6 +4075,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 225,
 			"instance": 0,
 			"name": "man_phone_01b"
@@ -3863,6 +4089,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 226,
 			"instance": 20,
 			"name": "characters_group_sitting_01"
@@ -3876,6 +4103,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 227,
 			"instance": 36,
 			"name": "man_phone_01c"
@@ -3889,6 +4117,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 228,
 			"name": "skinned_characters"
 		},
@@ -3901,6 +4130,7 @@
 				4294967295
 			],
 			"disabled": false,
+			"editor": false,
 			"idx": 229,
 			"instance": 195,
 			"name": "stairs_simple"
@@ -3914,7 +4144,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8781,
+			"editor": false,
+			"idx": 230,
 			"instance": 198,
 			"name": "woman_bag_01b"
 		},
@@ -3927,7 +4158,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8782,
+			"editor": false,
+			"idx": 231,
 			"instance": 202,
 			"name": "average_man"
 		},
@@ -3940,7 +4172,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8783,
+			"editor": false,
+			"idx": 232,
 			"instance": 199,
 			"name": "woman_bag_01d"
 		},
@@ -3953,7 +4186,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8784,
+			"editor": false,
+			"idx": 233,
 			"instance": 201,
 			"name": "character_man_01"
 		},
@@ -3966,7 +4200,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8785,
+			"editor": false,
+			"idx": 234,
 			"instance": 200,
 			"name": "man_phone_01b"
 		},
@@ -3979,7 +4214,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8787,
+			"editor": false,
+			"idx": 235,
 			"instance": 197,
 			"name": "male_vito_a"
 		},
@@ -3992,7 +4228,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8788,
+			"editor": false,
+			"idx": 236,
 			"instance": 196,
 			"name": "male_vito_c"
 		},
@@ -4005,7 +4242,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8811,
+			"editor": false,
+			"idx": 237,
 			"instance": 209,
 			"name": "average_man"
 		},
@@ -4018,7 +4256,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8812,
+			"editor": false,
+			"idx": 238,
 			"instance": 208,
 			"name": "character_man_01"
 		},
@@ -4031,7 +4270,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8813,
+			"editor": false,
+			"idx": 239,
 			"instance": 207,
 			"name": "man_phone_01b"
 		},
@@ -4044,7 +4284,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8814,
+			"editor": false,
+			"idx": 240,
 			"instance": 205,
 			"name": "woman_bag_01b"
 		},
@@ -4057,7 +4298,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8815,
+			"editor": false,
+			"idx": 241,
 			"instance": 206,
 			"name": "woman_bag_01d"
 		},
@@ -4070,7 +4312,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8817,
+			"editor": false,
+			"idx": 242,
 			"instance": 204,
 			"name": "male_vito_a"
 		},
@@ -4083,7 +4326,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8818,
+			"editor": false,
+			"idx": 243,
 			"instance": 203,
 			"name": "male_vito_c"
 		},
@@ -4096,7 +4340,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8841,
+			"editor": false,
+			"idx": 244,
 			"instance": 212,
 			"name": "woman_bag_01b"
 		},
@@ -4109,7 +4354,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8842,
+			"editor": false,
+			"idx": 245,
 			"instance": 216,
 			"name": "average_man"
 		},
@@ -4122,7 +4368,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8843,
+			"editor": false,
+			"idx": 246,
 			"instance": 213,
 			"name": "woman_bag_01d"
 		},
@@ -4135,7 +4382,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8844,
+			"editor": false,
+			"idx": 247,
 			"instance": 215,
 			"name": "character_man_01"
 		},
@@ -4148,7 +4396,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8845,
+			"editor": false,
+			"idx": 248,
 			"instance": 214,
 			"name": "man_phone_01b"
 		},
@@ -4161,7 +4410,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8847,
+			"editor": false,
+			"idx": 249,
 			"instance": 211,
 			"name": "male_vito_a"
 		},
@@ -4174,7 +4424,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8848,
+			"editor": false,
+			"idx": 250,
 			"instance": 210,
 			"name": "male_vito_c"
 		},
@@ -4187,7 +4438,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8871,
+			"editor": false,
+			"idx": 251,
 			"instance": 223,
 			"name": "average_man"
 		},
@@ -4200,7 +4452,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8872,
+			"editor": false,
+			"idx": 252,
 			"instance": 222,
 			"name": "character_man_01"
 		},
@@ -4213,7 +4466,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8873,
+			"editor": false,
+			"idx": 253,
 			"instance": 221,
 			"name": "man_phone_01b"
 		},
@@ -4226,7 +4480,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8874,
+			"editor": false,
+			"idx": 254,
 			"instance": 219,
 			"name": "woman_bag_01b"
 		},
@@ -4239,7 +4494,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8875,
+			"editor": false,
+			"idx": 255,
 			"instance": 220,
 			"name": "woman_bag_01d"
 		},
@@ -4252,7 +4508,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8877,
+			"editor": false,
+			"idx": 256,
 			"instance": 218,
 			"name": "male_vito_a"
 		},
@@ -4265,7 +4522,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8878,
+			"editor": false,
+			"idx": 257,
 			"instance": 217,
 			"name": "male_vito_c"
 		},
@@ -4278,7 +4536,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8901,
+			"editor": false,
+			"idx": 258,
 			"instance": 226,
 			"name": "woman_bag_01b"
 		},
@@ -4291,7 +4550,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8902,
+			"editor": false,
+			"idx": 259,
 			"instance": 230,
 			"name": "average_man"
 		},
@@ -4304,7 +4564,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8903,
+			"editor": false,
+			"idx": 260,
 			"instance": 227,
 			"name": "woman_bag_01d"
 		},
@@ -4317,7 +4578,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8904,
+			"editor": false,
+			"idx": 261,
 			"instance": 229,
 			"name": "character_man_01"
 		},
@@ -4330,7 +4592,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8905,
+			"editor": false,
+			"idx": 262,
 			"instance": 228,
 			"name": "man_phone_01b"
 		},
@@ -4343,7 +4606,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8907,
+			"editor": false,
+			"idx": 263,
 			"instance": 225,
 			"name": "male_vito_a"
 		},
@@ -4356,7 +4620,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 8908,
+			"editor": false,
+			"idx": 264,
 			"instance": 224,
 			"name": "male_vito_c"
 		}
@@ -7827,7 +8092,7 @@
 			],
 			"rot": [
 				-0.0,
-				108.99989318847656,
+				108.99988555908203,
 				0.0
 			],
 			"scl": [
@@ -8433,18 +8698,18 @@
 		{
 			"parent": 172,
 			"pos": [
-				-153.6999969482422,
+				-153.69998168945313,
 				0.0,
 				0.5000001192092896
 			],
 			"rot": [
-				0.0,
+				-0.0,
 				-132.0,
 				0.0
 			],
 			"scl": [
-				0.9999997019767761,
-				0.9999985694885254,
+				0.9999997615814209,
+				0.9999984502792358,
 				0.9999982118606567
 			]
 		},
@@ -8655,7 +8920,7 @@
 			],
 			"rot": [
 				-0.0,
-				-145.9822540283203,
+				-145.98223876953125,
 				0.0
 			],
 			"scl": [
@@ -8691,7 +8956,7 @@
 			],
 			"rot": [
 				-0.0,
-				100.80615997314453,
+				100.80615234375,
 				0.0
 			],
 			"scl": [
@@ -8709,7 +8974,7 @@
 			],
 			"rot": [
 				-0.0,
-				-179.2620086669922,
+				-179.26199340820313,
 				0.0
 			],
 			"scl": [
@@ -8727,7 +8992,7 @@
 			],
 			"rot": [
 				0.0,
-				-179.2620086669922,
+				-179.26199340820313,
 				0.0
 			],
 			"scl": [
@@ -8745,7 +9010,7 @@
 			],
 			"rot": [
 				0.0,
-				-179.2620086669922,
+				-179.26199340820313,
 				0.0
 			],
 			"scl": [
@@ -8763,7 +9028,7 @@
 			],
 			"rot": [
 				-0.0,
-				-39.452335357666016,
+				-39.45233154296875,
 				0.0
 			],
 			"scl": [
@@ -8817,7 +9082,7 @@
 			],
 			"rot": [
 				-0.0,
-				-43.4201545715332,
+				-43.42015075683594,
 				0.0
 			],
 			"scl": [
@@ -8835,7 +9100,7 @@
 			],
 			"rot": [
 				-0.0,
-				36.511653900146484,
+				36.51165008544922,
 				0.0
 			],
 			"scl": [
@@ -8889,7 +9154,7 @@
 			],
 			"rot": [
 				-0.0,
-				-93.95248413085938,
+				-93.95247650146484,
 				0.0
 			],
 			"scl": [
@@ -8907,7 +9172,7 @@
 			],
 			"rot": [
 				-0.0,
-				15.291245460510254,
+				15.291243553161621,
 				0.0
 			],
 			"scl": [
@@ -8925,7 +9190,7 @@
 			],
 			"rot": [
 				0.0,
-				129.30072021484375,
+				129.3007049560547,
 				0.0
 			],
 			"scl": [
@@ -8943,7 +9208,7 @@
 			],
 			"rot": [
 				-0.0,
-				-97.92030334472656,
+				-97.92029571533203,
 				0.0
 			],
 			"scl": [
@@ -8961,7 +9226,7 @@
 			],
 			"rot": [
 				-0.0,
-				-17.988496780395508,
+				-17.988494873046875,
 				0.0
 			],
 			"scl": [
@@ -8979,7 +9244,7 @@
 			],
 			"rot": [
 				-0.0,
-				-17.988500595092773,
+				-17.98849868774414,
 				0.0
 			],
 			"scl": [
@@ -8997,7 +9262,7 @@
 			],
 			"rot": [
 				-0.0,
-				-17.988496780395508,
+				-17.988494873046875,
 				0.0
 			],
 			"scl": [
@@ -9015,7 +9280,7 @@
 			],
 			"rot": [
 				-0.0,
-				-70.89002990722656,
+				-70.89002227783203,
 				0.0
 			],
 			"scl": [
@@ -9033,7 +9298,7 @@
 			],
 			"rot": [
 				-0.0,
-				38.35369873046875,
+				38.353694915771484,
 				0.0
 			],
 			"scl": [
@@ -9051,7 +9316,7 @@
 			],
 			"rot": [
 				-0.0,
-				152.36317443847656,
+				152.3631591796875,
 				0.0
 			],
 			"scl": [
@@ -9069,7 +9334,7 @@
 			],
 			"rot": [
 				-0.0,
-				-74.85784912109375,
+				-74.85784149169922,
 				0.0
 			],
 			"scl": [
@@ -9087,7 +9352,7 @@
 			],
 			"rot": [
 				-0.0,
-				5.073955059051514,
+				5.0739545822143555,
 				0.0
 			],
 			"scl": [
@@ -9123,7 +9388,7 @@
 			],
 			"rot": [
 				-0.0,
-				5.0739545822143555,
+				5.073954105377197,
 				0.0
 			],
 			"scl": [

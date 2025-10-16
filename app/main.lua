@@ -39,7 +39,7 @@ local weather_mode
 --weather_mode = "day"
 -- weather_mode = "fog"
 weather_mode = "night"
-capture_mode = false
+capture_mode = true
 
 
 if weather_mode == "night" then
@@ -50,12 +50,12 @@ if weather_mode == "night" then
 elseif weather_mode == "day" then
 	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
-    hg.LoadSceneFromAssets("train_scn", main_scene, res, hg.GetForwardPipelineInfo())
+    hg.LoadSceneFromAssets("train.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 elseif weather_mode == "fog" then
 	hg.LoadSceneFromAssets("camera_day.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("demo_scene.scn", main_scene, res, hg.GetForwardPipelineInfo())
-    hg.LoadSceneFromAssets("train_scn", main_scene, res, hg.GetForwardPipelineInfo())
+    hg.LoadSceneFromAssets("train.scn", main_scene, res, hg.GetForwardPipelineInfo())
 	hg.LoadSceneFromAssets("skybox_fog.scn", main_scene, res, hg.GetForwardPipelineInfo())
 end
 
@@ -87,7 +87,6 @@ local skybox_pos = skybox_node:GetTransform():GetPos()
 local miles_pos = {main_scene:GetNode("mile_0"):GetTransform():GetPos(), main_scene:GetNode("mile_1"):GetTransform():GetPos()}
 
 local moving_train = nil
-
 moving_train = main_scene:GetNode("moving_train")
 
 frame_buffer = hg.CreateFrameBuffer(tex_size_x, tex_size_y, hg.TF_RGBA8, hg.TF_D24, 4, 'framebuffer')
@@ -157,7 +156,7 @@ while not hg.ReadKeyboard():Key(hg.K_Escape) and hg.IsWindowOpen(win) and app_st
             frame_count_capture, view_id = hg.CaptureTexture(view_id, res, tex_color_ref, tex_readback, picture)
 
         elseif (state == "capture" and frame_count_capture <= frame) then
-            png_filename = string.format("images_reims_fog/capture_%04d.png", image_counter)
+            png_filename = string.format("images_reims_night/capture_%04d.png", image_counter)
             hg.SavePNG(picture, png_filename)
             image_counter = image_counter + 1
 	    	state = "none"
