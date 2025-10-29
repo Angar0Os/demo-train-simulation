@@ -1,6 +1,8 @@
-# Demo Train Simulator
+# Autonomous Train Simulator Prototype
 
-This is a simple prototype that demonstrates Yolo tracking on Harfang 3D scene in different situations (fog, night, day).
+This is a simple prototype that demonstrates Yolo tracking on Harfang 3D of a railway scene in different weather conditions (fog, night, day).
+
+![labeled_day_image](screenshots/labeled_day_image.png)
 
 ## Project Overview
 
@@ -8,9 +10,14 @@ This is a simple prototype that demonstrates Yolo tracking on Harfang 3D scene i
 
 ## Technologies Used
 
- - **Programming Language:** Python, Lua
- - **3D Engine:** Harfang 3D
- - **Simulation:** Custom-built train simulation environment leveraging Harfang 3D's features for realistic rendering with basic animation features.
+- **Programming Language**: Lua/Python
+- **3D Engine**: Harfang 3D
+- **Simulation**: In the current version, the simulation environment is limited to the visual domain, leveraging realistic rendering and physical features of Harfang's AAA rendering.
+
+### Features
+- **Environmental Realism**: Simulation of day and night situations.
+- **Lighting and Material Fidelity**: Utilizes Harfang 3D's SSR, SSGI & TAA, showcasing radiosity, reflections, and Physically Based Rendering materials. This ensures that the visual output closely resembles what an RGB camera would capture in a real environment.
+- **Train Dynamics**: So far the train motion are REALLY BASIC, using a simple linear interpolation to evaluate the train's position along time.
 
 ### Process
 
@@ -42,8 +49,3 @@ This is a simple prototype that demonstrates Yolo tracking on Harfang 3D scene i
         images_reims_night\capture_%%04d.png 
         you can change night by fog or day
     ```
-
-
-### Screenshots
-
-![labeled_day_image](screenshots/labeled_day_image.png)
