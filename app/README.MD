@@ -2,6 +2,8 @@
 
 This is a simple prototype that demonstrates Yolo tracking on Harfang 3D of a railway scene in different weather conditions (fog, night, day).
 
+![labeled_day_image](screenshots/labeled_day_image.png)
+
 ## Project Overview
 
  > This project aims to develop a prototype train driving simulator using the Harfang 3D engine. The simulator will serve as a training environment for an AI focused on the development of autonomous train systems. Through this simulator, the AI will gain experience in navigating rail environments under various conditions, from weather to lighting changes, to prepare it for real-world challenges.
@@ -47,8 +49,3 @@ This is a simple prototype that demonstrates Yolo tracking on Harfang 3D of a ra
         images_reims_night\capture_%%04d.png 
         you can change night by fog or day
     ```
-
-
-### Screenshots
-
-![labeled_day_image](screenshots/labeled_day_image.png)
