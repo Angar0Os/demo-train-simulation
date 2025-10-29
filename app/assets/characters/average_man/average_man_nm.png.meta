@@ -1,0 +1,9 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "BC5",
+			"sRGB": false,
+			"type": "Normal map"
+		}
+	}
+}

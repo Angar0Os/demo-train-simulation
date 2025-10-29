@@ -1,0 +1,228 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			195,
+			195,
+			195,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "characters/woman_claudia_01/woman_claudia.scn"
+		},
+		{
+			"name": "characters/woman_carla_03/woman_carla_03.scn"
+		},
+		{
+			"name": "characters/character_man_01_no_case/character_man_01_no_case.scn"
+		},
+		{
+			"name": "characters/average_man/average_man.scn"
+		},
+		{
+			"name": "characters/male_vito_a/male_vito_a.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 2,
+			"name": "character_man_01_no_case"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 1,
+			"name": "woman_carla_03"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 0,
+			"name": "woman_claudia"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 4,
+			"name": "male_vito_a"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 3,
+			"name": "average_man"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-0.7277579307556152,
+				0.0,
+				-0.3016318082809448
+			],
+			"rot": [
+				-0.0,
+				100.06044006347656,
+				0.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999994039535522,
+				0.9999988675117493
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.3635196685791016,
+				0.0,
+				-0.11616963148117065
+			],
+			"rot": [
+				-0.0,
+				-33.48310852050781,
+				0.0
+			],
+			"scl": [
+				0.9800003170967102,
+				0.9799996614456177,
+				0.9799994826316833
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.2287360429763794,
+				-4.76837158203125e-07,
+				-0.1517733335494995
+			],
+			"rot": [
+				-0.0,
+				-10.011116027832031,
+				0.0
+			],
+			"scl": [
+				0.9999988675117493,
+				0.9999988675117493,
+				0.9999977946281433
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.2520741820335388,
+				0.0,
+				-0.5919760465621948
+			],
+			"rot": [
+				-0.0,
+				-53.06648635864258,
+				0.0
+			],
+			"scl": [
+				0.9800000190734863,
+				0.9799997210502625,
+				0.9800000190734863
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.5490877628326416,
+				0.0,
+				-1.0152549743652344
+			],
+			"rot": [
+				-0.0,
+				136.19371032714844,
+				0.0
+			],
+			"scl": [
+				0.949999213218689,
+				0.9499987363815308,
+				0.9499979019165039
+			]
+		}
+	]
+}

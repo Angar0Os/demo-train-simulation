@@ -80,6 +80,11 @@
 					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
+							"name": "uAmbientMap",
+							"path": "props/dirt/dirt_dust_decal.png",
+							"stage": 6
+						},
+						{
 							"name": "uBaseOpacityMap",
 							"path": "props_background/bridge/bridge_concrete_albedo.png",
 							"stage": 0
@@ -88,6 +93,10 @@
 							"name": "uOcclusionRoughnessMetalnessMap",
 							"path": "props_background/bridge/bridge_concrete_obridge_concrete_rbridge_concrete_m.png",
 							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
 						}
 					],
 					"values": [
@@ -142,7 +151,7 @@
 			],
 			"rot": [
 				0.0,
-				0.0,
+				90.0,
 				0.0
 			],
 			"scl": [

@@ -1,0 +1,204 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			60,
+			40,
+			40,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			255
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			255,
+			255,
+			255,
+			255
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "props/square_shadow/round_shadow.scn"
+		},
+		{
+			"name": "characters/man_phone_01a/man_phone_01a.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 0,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 1,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 2,
+			"name": "round_shadow"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 3,
+			"name": "man_phone_01a"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": 4294967295,
+			"frame_duration": 50000000,
+			"name": "idle",
+			"node_anims": null,
+			"t_end": 25583000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.004999999888241291,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.06949325650930405,
+				0.00499988067895174,
+				-0.05615326762199402
+			],
+			"rot": [
+				-0.0,
+				18.0,
+				0.0
+			],
+			"scl": [
+				0.14999999105930328,
+				0.9999997615814209,
+				0.37999993562698364
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.1440596878528595,
+				0.00499988067895174,
+				-0.11503669619560242
+			],
+			"rot": [
+				-0.0,
+				1.9999994039535522,
+				0.0
+			],
+			"scl": [
+				0.14999999105930328,
+				0.9999997019767761,
+				0.37999993562698364
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.03391892462968826,
+				-9.5367431640625e-07,
+				-0.12276910245418549
+			],
+			"rot": [
+				-0.0,
+				-15.158994674682617,
+				0.0
+			],
+			"scl": [
+				1.0499999523162842,
+				1.0499995946884155,
+				1.049999713897705
+			]
+		}
+	]
+}

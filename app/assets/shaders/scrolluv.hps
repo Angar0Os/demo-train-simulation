@@ -1,0 +1,7 @@
+{
+	"features": ["OptionalBaseColorOpacityMap", "OptionalAlphaCut"],
+	"uniforms": [
+		{"name": "uCutoff", "type": "Vec4", "value": [0.4, 0.0, 0.0, 0.0]},
+		{"name": "uScrollUV", "type": "Vec4", "value": [0.0, 0.0, 0.0, 0.0]}
+	]
+}

@@ -1,14 +1,14 @@
 {
 	"recent_files": [
-		"skybox_fog.scn",
-		"camera_day.scn",
-		"props/skydome/skydome.scn",
-		"skybox_day.scn",
-		"outward_journey_scene_part_2.scn",
+		"train_night.scn",
+		"train.scn",
 		"demo_scene.scn",
-		"camera_night.scn",
-		"skybox_night.scn",
-		"props/skydome/skydome_night.scn",
-		"scene_base_gare_01_tvp_ouest.scn"
+		"demo_scene_.scn",
+		"trains/train_ter_hdf/train_ter_hdf.scn",
+		"scenario_3_part_1.scn",
+		"skybox_day.scn",
+		"camera_day.scn",
+		"scene_blocking.scn",
+		"envs/background.scn"
 	]
 }

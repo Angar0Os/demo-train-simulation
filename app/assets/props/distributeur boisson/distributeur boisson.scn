@@ -80,6 +80,11 @@
 					"program": "core/shader/pbr.hps",
 					"textures": [
 						{
+							"name": "uAmbientMap",
+							"path": "props/distributeur boisson/distributeur_ao.jpg",
+							"stage": 6
+						},
+						{
 							"name": "uBaseOpacityMap",
 							"path": "props/distributeur boisson/distributeur_albedo.jpg",
 							"stage": 0
@@ -125,9 +130,9 @@
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
-								0.8270041942596436,
-								0.8270041942596436,
-								0.8270041942596436,
+								0.0,
+								0.0,
+								0.0,
 								-1.0
 							]
 						}

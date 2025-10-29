@@ -1,18 +1,33 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-
-		{
-			"name": "main.lua",
-			"type": "lua",
-			"request": "launch",
-			"stopOnEntry": false,
-			"program": "${workspaceFolder}/main.lua",
-			"cwd": "${workspaceFolder}",
-			"luaexe": "${workspaceFolder}/bin/hg_lua-win-x64/lua.exe",
-		}
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main.lua",
+      "type": "lua",
+      "request": "launch",
+      "stopOnEntry": false,
+      "program": "${workspaceFolder}/main.lua",
+      "cwd": "${workspaceFolder}",
+      "luaexe": "${workspaceFolder}/bin/hg_lua-win-x64/lua.exe"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Documents/VraKtal/VraKtalEngine/src/graphics",
+      "program": "d:/Documents/VraKtal/VraKtalEngine/src/graphics/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
 }

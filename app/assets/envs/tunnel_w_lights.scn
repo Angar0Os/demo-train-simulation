@@ -1,0 +1,393 @@
+{
+	"audio_sources": [
+		{
+			"gain": 4.0,
+			"is_stream": true,
+			"loop": true,
+			"max_dist": 100.0,
+			"path": "sounds/ambient/sous-sol-gare_01_loop.ogg",
+			"ref_dist": 0.0
+		},
+		{
+			"gain": 4.0,
+			"is_stream": true,
+			"loop": true,
+			"max_dist": 100.0,
+			"path": "sounds/ambient/sous-sol-gare_01_loop.ogg",
+			"ref_dist": 0.0
+		},
+		{
+			"gain": 4.0,
+			"is_stream": true,
+			"loop": true,
+			"max_dist": 100.0,
+			"path": "sounds/ambient/sous-sol-gare_01_loop.ogg",
+			"ref_dist": 0.0
+		},
+		{
+			"gain": 4.0,
+			"is_stream": true,
+			"loop": true,
+			"max_dist": 100.0,
+			"path": "sounds/ambient/sous-sol-gare_01_loop.ogg",
+			"ref_dist": 0.0
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 0.5235987901687622,
+			"outer_angle": 0.7853981852531433,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 10.0,
+			"shadow_bias": 9.999999747378752e-05,
+			"shadow_type": "none",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 0.25,
+			"type": "point"
+		},
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 0.5235987901687622,
+			"outer_angle": 0.7853981852531433,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 10.0,
+			"shadow_bias": 9.999999747378752e-05,
+			"shadow_type": "none",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 0.25,
+			"type": "point"
+		},
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 0.7999999523162842,
+			"inner_angle": 0.5235987901687622,
+			"outer_angle": 0.7853981852531433,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				200.0
+			],
+			"radius": 10.0,
+			"shadow_bias": 9.999999747378752e-05,
+			"shadow_type": "none",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 0.25,
+			"type": "point"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "tunnel_w_light_0"
+		},
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				2,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "tunnel_w_light_2"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				1,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "tunnel_w_light_1"
+		},
+		{
+			"audio_source": 0,
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"name": "sfx_tunnel_0"
+		},
+		{
+			"audio_source": 1,
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "sfx_tunnel_1"
+		},
+		{
+			"audio_source": 2,
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"name": "sfx_tunnel_2"
+		},
+		{
+			"audio_source": 3,
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"name": "sfx_tunnel_3"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				64.91500091552734,
+				-1.4680542945861816,
+				43.8618278503418
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				64.91500091552734,
+				-1.4680542945861816,
+				28.893430709838867
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				64.91480255126953,
+				-1.1928086280822754,
+				13.866715431213379
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				65.0,
+				-3.0,
+				-8.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				43.0,
+				-3.0,
+				30.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				65.0,
+				-3.0,
+				68.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				83.0,
+				-3.0,
+				30.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				0.9999991655349731
+			]
+		}
+	]
+}

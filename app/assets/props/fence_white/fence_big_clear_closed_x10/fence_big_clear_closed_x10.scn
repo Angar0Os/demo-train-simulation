@@ -48,6 +48,11 @@
 			"type": "sphere"
 		}
 	},
+	"instances": [
+		{
+			"name": "props/square_shadow/square_shadow.scn"
+		}
+	],
 	"key_values": null,
 	"nodes": [
 		{
@@ -61,6 +66,19 @@
 			"disabled": false,
 			"idx": 0,
 			"name": "fence_big_clear_closed_x10"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 0,
+			"name": "square_shadow"
 		}
 	],
 	"objects": [
@@ -169,6 +187,24 @@
 				1.0,
 				1.0,
 				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.350123405456543,
+				0.029999999329447746,
+				0.45028188824653625
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				29.920000076293945,
+				0.9999991059303284,
+				1.389999270439148
 			]
 		}
 	]

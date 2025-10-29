@@ -16,7 +16,8 @@ float remap(float value, float low1, float high1, float low2, float high2) {
 
 // Entry point of the forward pipeline default uber shader (Phong and PBR)
 void main() {
-	float uv_offset = remap(floor(uZoetrope.x), 0.0, (uZoetrope.y - 1.0), 0.0, 1.0 - (1.0 / uZoetrope.y));
+	float frame_time = mod(uClock.x, 1.0) * uZoetrope.x; // uZoetrope.x;
+	float uv_offset = remap(floor(frame_time), 0.0, (uZoetrope.y - 1.0), 0.0, 1.0 - (1.0 / uZoetrope.y));
 	vec2 uv_frame = vTexCoord0 * vec2(1.0, 1.0 / uZoetrope.y) + vec2(0.0, uv_offset);
 #if USE_BASE_COLOR_OPACITY_MAP
 	vec4 base_opacity = texture2D(uBaseOpacityMap, uv_frame);

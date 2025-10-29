@@ -1,0 +1,9 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "BC7",
+			"wrap-U": "Repeat",
+			"wrap-V": "Clamp"
+		}
+	}
+}
