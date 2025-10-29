@@ -1,4 +1,0 @@
-vec3 vNormal : NORMAL;
-
-vec3 a_position  : POSITION;
-vec3 a_normal : NORMAL;
