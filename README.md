@@ -1,47 +1,49 @@
-# Autonomous Train Simulator Prototype
+# Demo Train Simulator
+
+This is a simple prototype that demonstrates Yolo tracking on Harfang 3D scene in different situations (fog, night, day).
 
 ## Project Overview
-This project aims to develop a prototype train driving simulator using the Harfang 3D engine. The simulator will serve as a training environment for an AI focused on the development of autonomous train systems. Through this simulator, the AI will gain experience in navigating rail environments under various conditions, from weather to lighting changes, to prepare it for real-world challenges.
 
-## Implementation
+ > This project aims to develop a prototype train driving simulator using the Harfang 3D engine. The simulator will serve as a training environment for an AI focused on the development of autonomous train systems. Through this simulator, the AI will gain experience in navigating rail environments under various conditions, from weather to lighting changes, to prepare it for real-world challenges.
 
-### Technologies Used
-- **Programming Language**: Lua
-- **3D Engine**: Harfang 3D
-- **Simulation**: Custom-built train simulation environment leveraging Harfang 3D's features for realistic rendering and physical dynamics.
+## Technologies Used
 
-### Key Features
-- **Environmental Realism**: Simulation of day and night cycles, adjustable to any hour with a heliodon system, as well as various weather conditions (rain, fog, snow).
-- **Lighting and Material Fidelity**: Utilizes Harfang 3D's AAA capabilities, including screenspace radiosity, reflections, and PBR (Physically Based Rendering) materials. This ensures that the visual output closely resembles what an RGB camera would capture in a real environment.
-- **Train Dynamics**: Basic physics modeling, including speed and braking, will allow the AI to understand and interact with train control commands. While designed to replicate realistic movement, the simulator does not support crash or derailment scenarios.
+ - **Programming Language:** Python, Lua
+ - **3D Engine:** Harfang 3D
+ - **Simulation:** Custom-built train simulation environment leveraging Harfang 3D's features for realistic rendering with basic animation features.
 
-### Directory Structure
-- `assets/` - Contains all 3D assets, such as rails, scenery, skyboxes, train stations, and vegetation.
-- `scripts/` - Lua scripts for handling the simulation logic, environment settings, and AI interfaces.
-- `output/` - Stores logs and any output data generated during simulation runs.
+### Process
 
-## Output Specifications
-The simulator generates visuals tailored for RGB camera perception, with the following specifications:
-- **Resolution**: Configurable based on AI requirements (e.g., 720p, 1080p).
-- **Frame Rate**: Variable, with options to sync with real-time processing or higher rates for accelerated AI training.
-- **Environmental Data**: Logs of conditions during each run (e.g., time, weather, position) for analysis and benchmarking.
-- **Camera View Distortions**: Potential support for sensor deformations, such as fisheye, barrel distortion, or other artifacts that could mimic real-world RGB camera characteristics in embedded systems.
+ 1. Build assets using `build.bat`.
+ 2. Then use `start.bat` to dump images into image_reims_{weather_mode} (fog, day, night).
+ 3. Once your `image_reims_{weather_mode}` start `encode_video.bat`, replace images_reims_{night} folder's name by your actual weather mode.
+  4. This will create a video named `double_train_reims_{weather_mode}_QHD.mp4`.
+  5. Finaly, start `python simulated_image_analyser.py`.
+  6. This will create a video in `output_videos/` folder named `{weather_mode}_labeled_final.mp4`.
 
-## Pending Clarifications
-To ensure that the simulator meets the requirements for AI training, we need clarification on the following:
 
-1. **AI Model Specifications**:
-   - Will the AI operate using reinforcement learning, and if so, are there specific reward structures or target outcomes?
-   
-2. **Sensors and Data Inputs**:
-   - Beyond RGB camera data, are additional simulated train sensors needed? For example, speed indicators, occupancy sensors, or data on track curvature/elevation.
-   - Are there specific camera distortions (e.g., fisheye, barrel distortion) required to better simulate the embedded RGB camera experience?
+### Project Parameters
 
-3. **Performance Expectations**:
-   - Are there specific frame rates or latency requirements, especially for real-time vs. accelerated training scenarios?
+ - In main.lua file you can change the following parameters
+    ```lua 
+        weather_mode = "night" /* "fog", "day" */
+        capture_mode = true 
+        /* If you change this to false, it will show the screen else, press F9 to start capturing*/
+    ```
 
-4. **Environmental Scope**:
-   - Should the simulator include specific landscape features (e.g., tunnels, bridges) or unique scenarios that the AI must navigate?
+ - In train_image_analyser.py
+    ```python
+        video_path = "double_train_reims_night_QHD.mp4" # Path to video created afted using main.lua
+        output_path = "output_videos/night_labeled_final.mp4" # Path to the output video
+    ```
 
-5. **Data Logging and Output**:
-   - What types of logs or analytics are needed for the AI’s learning and evaluation processes?
+ - In encode_video.bat
+    ```
+        images_reims_night\capture_%%04d.png 
+        you can change night by fog or day
+    ```
+
+
+### Screenshots
+
+![labeled_day_image](screenshots/labeled_day_image.png)
