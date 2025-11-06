@@ -132,3 +132,16 @@ The data shows object detection performance across three environmental condition
 - **Fog**: Moderate performance with mean confidence of 0.5379
 
 Person detection consistently shows the highest number of samples and strong confidence across all conditions.
+
+## Miscellaneous
+
+[1] Udacity, Self-Driving Car Dataset, Roboflow Public Object Detection. [Online]. Available: https://public.roboflow.com/object-detection/self-driving-car
+
+[2] M. Cordts, M. Omran, S. Ramos, T. Rehfeld, M. Enzweiler, R. Benenson, U. Franke, S. Roth, and B. Schiele, The Cityscapes Dataset for Semantic Urban Scene Understanding. [Online]. Available: https://www.cityscapes-dataset.com/
+
+[3] A. Geiger, P. Lenz, and R. Urtasun, The KITTI Vision Benchmark Suite. [Online]. Available: https://www.cvlibs.net/datasets/kitti/
+
+[4] Comma.ai, comma2k19 – A Driving Dataset for Autonomous Car Research. [Online]. Available: https://academictorrents.com/details/65a2fbc964078aff62076ff4e103f18b951c5ddb
+
+[5] Y. Manabe, T. Yatagawa, S. Morishima, and H. Kubo, “Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation,” arXiv preprint arXiv:2408.07996, 2024. [Online]. Available: https://arxiv.org/abs/2408.07996
+
